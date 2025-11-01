@@ -1,0 +1,2484 @@
+{
+  "monsters": [
+    [
+      "Walter, the Graveborn",
+      {
+        "name": "Walter, the Graveborn",
+        "source": "5e SRD",
+        "size": "Large",
+        "type": "undead",
+        "subtype": "",
+        "alignment": "chaotic evil",
+        "ac": 15,
+        "hp": 93,
+        "hit_dice": "11d10+33",
+        "speed": "20 ft.",
+        "stats": [
+          16,
+          8,
+          16,
+          3,
+          10,
+          10
+        ],
+        "condition_immunities": "blinded, deafened, exhaustion, grappled, prone",
+        "senses": "blindsight 60 ft., passive Perception 10",
+        "languages": "Understands Common, but can't speak it",
+        "cr": "4, or 3 when its ***heavy sleeper*** feature is active",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Heavy Sleeper",
+            "desc": "If either of the mound’s forms has been unconscious within the past minute, it can’t use its ***tentacle*** attack more than once per turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Oozing Body",
+            "desc": "The flesh mound can move through spaces occupied by enemy creatures, as well as spaces smaller than a Large creature. (It can't end its turn inside an occupied space, and it provokes opportunity attacks normally.)",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Innocent Heart",
+            "desc": "The center of the mound conceals its heart: a large, misshapen rib cage. Within the rib cage hovers the infant corpse of Walter Durst. Walter's corpse has AC 15 and the same ability scores as the flesh mound. Each time Walter's corpse takes damage, the flesh mound takes twice as much damage.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Mother's Lullaby",
+            "desc": "If a player uses their action to hum or play Waltz for Klara and succeeds on a DC 10 Charisma (Performance) check, the mound exposes its heart and can't use its withdraw reaction until the start of the player's next turn.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The flesh mound makes three attacks, or two attacks if its heavy sleeper feature is active.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Tentacle",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 15 ft., one target. Hit: 14 (2d10 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage if the mound's heavy sleeper. feature is active. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be pulled up to 15 feet toward the mound.",
+            "attack_bonus": 5,
+            "damage_dice": "2d10",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.",
+            "attack_bonus": 5,
+            "damage_dice": "2d6",
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Gore Spray",
+            "desc": "The mound spews blood and gore in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw. On a failure, a creature takes 7 (2d6) necrotic damage and is blinded until the end of the mound's next turn. On a success, a creature takes half as much damage and isn't blinded. Using this ability exposes the mound's heart, allowing it to be attacked.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Wail",
+            "desc": "The infant corpse of Walter Durst releases a piercing shriek. Each creature that can hear the shriek within 30 feet of the mound must succeed on a DC 10 Constitution saving throw or take 2 (1d4) psychic damage and be deafened until the end of the mound's next turn. Using this ability exposes the mound's heart, allowing it to be attacked.",
+            "attack_bonus": 0
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Multireaction",
+            "desc": "The flesh mound can take up to three reactions per round, though no more than one per turn. If it would lose its reactions, it loses one reaction instead.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Withdraw",
+            "desc": "In response to an attack or harmful spell hitting or missing its heart, the mound withdraws its heart into its body, concealing it from view and protecting it from attacks.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Lash Out",
+            "desc": "In response to taking damage from a melee attack, the mound lashes out at the attacker with a tentacle. The attacker must succeed on a DC 13 Dexterity saving throw or be pushed 10 feet away. If the attacker fails the saving throw by 5 or more, they also fall prone.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Roll",
+            "desc": "In response to taking damage from a ranged attack or spell, the mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks. If it moves toward the attacker, it can then immediately attempt to shove them.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "Poltergeist",
+      {
+        "name": "Poltergeist",
+        "source": "5e SRD",
+        "size": "Medium",
+        "type": "undead",
+        "subtype": "",
+        "alignment": "Chaotic Evil",
+        "ac": 12,
+        "hp": 22,
+        "hit_dice": "5d8",
+        "speed": "0 ft., fly 40 ft. (hover)",
+        "stats": [
+          1,
+          14,
+          11,
+          10,
+          10,
+          11
+        ],
+        "damage_resistances": "acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons",
+        "damage_immunities": "necrotic, poison",
+        "condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious",
+        "senses": "darkvision 60 ft., passive Perception 10",
+        "languages": "any languages it knew in life",
+        "cr": "2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Incorporeal Movement",
+            "desc": "The poltergeist can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Invisibility",
+            "desc": "The poltergeist is invisible.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Sunlight Sensitivity",
+            "desc": "While in sunlight, the poltergeist has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Forceful Slam.",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 10 (3d6) force damage.",
+            "attack_bonus": 4,
+            "damage_dice": "3d6",
+            "damage_bonus": 0
+          },
+          {
+            "name": "Telekinetic Thrust",
+            "desc": "The poltergeist targets a creature or unattended object within 30 feet of it.  A creature must be Medium or smaller to be affected by this magic, and an object can weigh up to 150 pounds.  If the target is a creature, the poltergeist makes a Charisma check contested by the target's Strength check.  If the poltergeist wins the contest, the poltergeist hurls the target up to 30 feet in any direction, including upward.  If the target then comes into contact with a hard surface or heavy object, the target takes 1d6 damage per 10 feet moved.  If the target is an object that isn't being worn or carried, the poltergeist hurls it up to 30 feet in any direction.  The poltergeist can use the object as a ranged weapon, attacking one creature along the object's path (+4 to hit) and dealing 5 (2d4) bludgeoning damage on a hit.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "Parriwimple",
+      {
+        "name": "Parriwimple",
+        "source": "5e SRD",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "any race",
+        "alignment": "any chaotic alignment",
+        "ac": 13,
+        "hp": 67,
+        "hit_dice": "9d8 + 26",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          12,
+          17,
+          9,
+          11,
+          9
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 10",
+        "languages": "any one language (usually Common)",
+        "cr": "2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Reckless",
+            "desc": "At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Spear",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          }
+        ]
+      }
+    ],
+    [
+      "Bildrath Cantemir",
+      {
+        "name": "Bildrath Cantemir",
+        "source": "5e SRD",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "any race",
+        "alignment": "any alignment",
+        "ac": 10,
+        "hp": 4,
+        "hit_dice": "1d8 + -1",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 10",
+        "languages": "any one language (usually Common)",
+        "cr": "0",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Light Crossbow",
+            "desc": "Melee Weapon Attack: +2 to hit, range 80/320 ft., one target. Hit: 4 (1d8) piercing damage.",
+            "attack_bonus": 2,
+            "damage_dice": "1d8"
+          }
+        ]
+      }
+    ],
+    [
+      "Zombie Plague Spreader",
+      {
+        "name": "Zombie Plague Spreader",
+        "source": "VRGR",
+        "size": "Medium",
+        "type": "undead",
+        "subtype": "zombie",
+        "alignment": "neutral evil",
+        "ac": 10,
+        "hp": 130,
+        "hit_dice": "12d8 + 72",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          10,
+          15,
+          3,
+          5,
+          5
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "necrotic",
+        "damage_immunities": "poison",
+        "condition_immunities": "charmed, exhaustion, poisoned",
+        "senses": "darkvision 60 ft., passive Perception 7",
+        "languages": "understands the languages it knew in life but can't speak",
+        "cr": 4,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Undead Fortitude",
+            "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Unusual Nature",
+            "desc": "The zombie doesn't require air, food, drink, or sleep.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Viral Aura",
+            "desc": "Any creature that starts its turn within 10 feet of the plague spreader must make a DC 12 Constitution saving throw. On a failed save, the creature is poisoned and can’t regain hit points until the end of its next turn. On a successful save, the creature is immune to this plague spreader’s Viral Aura for 24 hours.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The plague spreader makes two Slam attacks.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 5 (1d8) necrotic damage.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Virulent Miasma (1/Day)",
+            "desc": "The plague spreader releases toxic gas in a 30-foot-radius sphere centered on itself. Each creature in that area must make a DC 12 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.\nA humanoid reduced to 0 hit points by this damage doesn’t automatically die. However, if it dies before stabilizing or regaining hit points, it rises as a zombie (see the Monster Manual) 1 minute later. The DC for death saving throws made by such a creature to stabilize increases to 20. The new zombie acts immediately after the plague spreader in the initiative count.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "Rahadin, Castle Chamberlain",
+      {
+        "name": "Rahadin, Castle Chamberlain",
+        "source": "Custom",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "elf",
+        "alignment": "lawful evil",
+        "ac": "18 (studded leather)",
+        "hp": 180,
+        "hit_dice": "24d8 + 72",
+        "speed": "35 ft.",
+        "stats": [
+          14,
+          22,
+          17,
+          15,
+          16,
+          18
+        ],
+        "saves": [
+          {
+            "dexterity": 11
+          },
+          {
+            "wisdom": 8
+          }
+        ],
+        "skills": [
+          {
+            "Acrobatics": 11
+          },
+          {
+            "Deception": 9
+          },
+          {
+            "Insight": 8
+          },
+          {
+            "Intimidation": 14
+          },
+          {
+            "Perception": 13
+          },
+          {
+            "Stealth": 16
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 23",
+        "languages": "Common, Elvish",
+        "cr": 14,
+        "proficiency_bonus": 5,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Screams of the Dead",
+            "desc": "Any creature within 10 feet of Rahadin that isn't protected by a *mind blank* spell hears in its mind the screams of the thousands of people Rahadin has killed.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Fey Ancestry",
+            "desc": "Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Innate Spellcasting",
+            "desc": "Rahadin's innate spellcasting ability is Intelligence (spell save DC 13). He can innately cast the following spells, requiring no components:\n  • 3/day: *phantom steed*\n  • 1/day: *nondetection*",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Mask of the Wild",
+            "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, or other natural phenomena.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Murderous Instinct",
+            "desc": "When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, Thorn and Chain. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Rahadin makes two attacks.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Saber",
+            "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.",
+            "attack_bonus": 11,
+            "damage_dice": "1d8",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Poisoned Dart",
+            "desc": "Ranged Weapon Attack: +11 to hit, range 20/60 ft., one target. Hit: 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.",
+            "attack_bonus": 11,
+            "damage_dice": "1d4",
+            "damage_bonus": 6
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Wind Strike",
+            "desc": "Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one."
+          },
+          {
+            "name": "Whirling Blades",
+            "desc": "Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Multiple Reactions",
+            "desc": "Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead."
+          },
+          {
+            "name": "Indomitable",
+            "desc": "Trigger: A hostile creature ends its turn. Effect: Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)"
+          },
+          {
+            "name": "Punishing Strike",
+            "desc": "When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks."
+          },
+          {
+            "name": "Disarm",
+            "desc": "When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away."
+          },
+          {
+            "name": "Misty Step (1/round)",
+            "desc": "When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast *misty step*. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting *misty step* in this way."
+          },
+          {
+            "name": "Psychic Scream (1/day)",
+            "desc": "When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn."
+          }
+        ]
+      }
+    ],
+    [
+      "Rahadin, Kinslayer",
+      {
+        "name": "Rahadin, Kinslayer",
+        "source": "Custom",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "elf",
+        "alignment": "lawful evil",
+        "ac": "18 (studded leather)",
+        "hp": 180,
+        "hit_dice": "24d8 + 72",
+        "speed": "35 ft.",
+        "stats": [
+          14,
+          22,
+          17,
+          15,
+          16,
+          18
+        ],
+        "saves": [
+          {
+            "dexterity": 11
+          },
+          {
+            "wisdom": 8
+          }
+        ],
+        "skills": [
+          {
+            "Acrobatics": 11
+          },
+          {
+            "Deception": 9
+          },
+          {
+            "Insight": 8
+          },
+          {
+            "Intimidation": 14
+          },
+          {
+            "Perception": 13
+          },
+          {
+            "Stealth": 16
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 23",
+        "languages": "Common, Elvish",
+        "cr": 15,
+        "proficiency_bonus": 5,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Screams of the Dead",
+            "desc": "Any creature within 10 feet of Rahadin that isn't protected by a *mind blank* spell hears in its mind the screams of the thousands of people Rahadin has killed.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Fey Ancestry",
+            "desc": "Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Mask of the Wild",
+            "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, or other natural phenomena.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Rahadin makes three attacks with his scimitars Thorn and/or Chain. He can replace one attack with his Haunt feature.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Thorn",
+            "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.",
+            "attack_bonus": 11,
+            "damage_dice": "1d6",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Chain",
+            "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.",
+            "attack_bonus": 11,
+            "damage_dice": "1d6",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Haunt",
+            "desc": "Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.",
+            "attack_bonus": 0
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Deathly Choir",
+            "desc": "Each creature within 10 feet of Rahadin that isn't protected by a *mind blank* spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn."
+          },
+          {
+            "name": "Swift Step",
+            "desc": "Rahadin takes the Dash or Disengage action."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Multiple Reactions",
+            "desc": "Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead."
+          },
+          {
+            "name": "Indomitable",
+            "desc": "Trigger: A hostile creature ends its turn. Effect: Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)"
+          },
+          {
+            "name": "Parry",
+            "desc": "Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from *magic missile* this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker."
+          },
+          {
+            "name": "Riposte",
+            "desc": "When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with Thorn or Chain against that enemy with advantage."
+          }
+        ]
+      }
+    ],
+    [
+      "Greater Strix",
+      {
+        "name": "Greater Strix",
+        "source": "5e SRD",
+        "size": "Medium",
+        "type": "Construct",
+        "subtype": "",
+        "alignment": "lawful evil",
+        "ac": 14,
+        "hp": 68,
+        "hit_dice": "8d10 + 24",
+        "speed": "30 ft., fly 50 ft.",
+        "stats": [
+          17,
+          16,
+          17,
+          7,
+          12,
+          8
+        ],
+        "damage_vulnerabilities": "Fire",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 11",
+        "languages": "",
+        "cr": "3",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Tail Spike Regrowth",
+            "desc": "The Greater Strix has twenty-four clusters of silver barbs growing from its wings. Used barbs regrow when the Greater Strix finishes a long rest.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Greater Strix makes three attacks: one with its bite and two with its claws or three with its silver barbs.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.",
+            "attack_bonus": 5,
+            "damage_dice": "1d8",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Claw",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Silver barbs",
+            "desc": "Ranged Weapon Attack: +5 to hit, range 100/200 ft., one target. Hit: 7 (1d8 + 3) piercing damage. These are considered a Silvered Weapon.",
+            "attack_bonus": 5,
+            "damage_dice": "1d8",
+            "damage_bonus": 3
+          }
+        ]
+      }
+    ],
+    [
+      "Swarm of Lesser Strix",
+      {
+        "name": "Swarm of Lesser Strix",
+        "source": "5e SRD",
+        "size": "Medium",
+        "type": "swarm of Tiny constructs",
+        "subtype": "",
+        "alignment": "unaligned",
+        "ac": 12,
+        "hp": 24,
+        "hit_dice": "7d8 + -8",
+        "speed": "10 ft., fly 50 ft.",
+        "stats": [
+          6,
+          14,
+          8,
+          3,
+          12,
+          6
+        ],
+        "damage_vulnerabilities": "fire",
+        "damage_resistances": "bludgeoning, piercing, slashing",
+        "damage_immunities": "",
+        "condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned",
+        "senses": "passive Perception 15",
+        "languages": "",
+        "cr": "1/4",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Swarm",
+            "desc": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny crow. The swarm can't regain hit points or gain temporary hit points.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Beaks",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.",
+            "attack_bonus": 4,
+            "damage_dice": "2d6"
+          }
+        ]
+      }
+    ],
+    [
+      "The Bonegrinder Coven",
+      {
+        "name": "The Bonegrinder Coven",
+        "source": "Curse of Strahd: Reloaded",
+        "size": "Medium",
+        "type": "fiend",
+        "subtype": "Trio of three medium fiends",
+        "alignment": "neutral evil",
+        "ac": "17 (natural armor)",
+        "hp": 210,
+        "hit_dice": "28d8 + 84",
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          15,
+          16,
+          18,
+          14,
+          16
+        ],
+        "skillsaves": {
+          "deception": 8,
+          "insight": 7,
+          "perception": 7,
+          "stealth": 7
+        },
+        "damage_resistances": [
+          "cold",
+          "fire",
+          "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+        ],
+        "condition_immunities": [
+          "charmed"
+        ],
+        "senses": "darkvision 120 ft., passive Perception 16",
+        "languages": "Abyssal, Common, Infernal, Primordial",
+        "cr": "14, or 12 when fought with silvered weapons",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Proficiency Bonus",
+            "desc": "+5",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Hag Coven",
+            "desc": "The coven includes three hags: Morgantha, Bella, and Offalia. A hag acts on her own initiative, keeps concentration and suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points. (If multiple hags take damage from the same source, the coven loses hit points that many times.)",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "The coven has advantage on saving throws against spells and magical effects.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The coven's spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks).",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Complex Casting",
+            "desc": "If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Second Phase",
+            "desc": "If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **The Nightmare Three**. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Blindness/Deafness (Bella Only)",
+            "desc": "Bella casts blindness/deafness. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Putrid Radiance (Bella Only)",
+            "desc": "2nd-level necromancy, 30 feet. Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature in that area must succeed on a DC 17 Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Ray of Enfeeblement (Offalia Only)",
+            "desc": "Offalia casts ray of enfeeblement. A target takes an additional 9 (2d8) necrotic damage on a hit.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Acid Arrow (Offalia Only)",
+            "desc": "Offalia casts Melf's acid arrow.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Ray of Sickness (Morgantha Only)",
+            "desc": "Morgantha casts ray of sickness.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Withering Rot (Morgantha Only)",
+            "desc": "1st-level necromancy, 30 feet. Necromantic energy washes over a creature of Morgantha's choice within range, which must make a Constitution saving throw. The target takes 13 (3d8) necrotic damage on a failed save, or half as much on a successful one.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Claws (Any)",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
+            "attack_bonus": 8,
+            "damage_dice": "2d8",
+            "damage_bonus": 4
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Crown of Madness (Bella Only)",
+            "desc": "Bella casts crown of madness. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success. Bella can use her bonus action to maintain control rather than her action.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Phantasmal Force (Bella Only)",
+            "desc": "Bella casts phantasmal force. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Cause Fear (Offalia Only)",
+            "desc": "Offalia casts cause fear at 2nd level. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Bestow Curse (Offalia Only)",
+            "desc": "Offalia casts bestow curse at 30 feet. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Hold Person (Morgantha Only)",
+            "desc": "Morgantha casts hold person at 3rd level. A target takes an additional 5 (2d4) necrotic damage if it fails the saving throw, or half damage on a success.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Lightning Bolt (Morgantha Only, Recharge 5-6)",
+            "desc": "Morgantha casts lightning bolt.",
+            "attack_bonus": 0
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Spectral Shadows (Bella Only)",
+            "desc": "1st-level illusion, self. In response to being hit by an attack, Bella conjures two illusory duplicates. The attacker must roll a d6, hitting Bella on a 5–6 or hitting a duplicate otherwise.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Maniacal Mirth (Offalia Only)",
+            "desc": "1st-level enchantment, 30 feet. In response to taking damage from a creature she can see, Offalia forces that creature to make a DC 17 Wisdom saving throw. On a failure, it falls prone, becomes incapacitated, and laughs uncontrollably until the end of its next turn or until it takes damage.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Witchlight Arc (Morgantha Only)",
+            "desc": "1st-level evocation, 30 feet. In response to taking damage from a creature she can see, Morgantha forces that creature to make a DC 17 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, a crackling arc connects Morgantha and the attacker until the start of her next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Misty Step (Any)",
+            "desc": "In response to taking damage, a hag can use her reaction to cast misty step.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "The Nightmare Three",
+      {
+        "name": "The Nightmare Three",
+        "source": "Homebrew",
+        "size": "Medium and Huge",
+        "type": "fiend",
+        "subtype": "trio of one medium fiend and two huge fiends",
+        "alignment": "neutral evil",
+        "ac": "17 (natural armor)",
+        "hp": 210,
+        "hit_dice": "28d8 + 84",
+        "speed": "30 ft.",
+        "stats": [
+          21,
+          15,
+          16,
+          18,
+          14,
+          16
+        ],
+        "skillsaves": {
+          "deception": 8,
+          "insight": 7,
+          "perception": 7,
+          "stealth": 7
+        },
+        "damage_resistances": [
+          "cold",
+          "fire",
+          "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+        ],
+        "condition_immunities": [
+          "charmed"
+        ],
+        "senses": "darkvision 120 ft., passive Perception 16",
+        "languages": "Abyssal, Common, Infernal, Primordial",
+        "cr": "15, or 13 when fought with silvered weapons",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Proficiency Bonus",
+            "desc": "+5",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Hag Coven",
+            "desc": "The coven includes three hags: Morgantha, Bella, and Offalia. If the coven is reduced to 0 hit points, all hags die. Until then, a hag acts on her own initiative, suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Nightmare Forms",
+            "desc": "In this phase, Bella assumes the form of a Huge crocodile, Offalia assumes the form of a Huge elephant, and Morgantha is surrounded by a shroud of swirling shadows.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "The coven has advantage on saving throws against spells and magical effects.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Charge (Offalia Only)",
+            "desc": "If Offalia moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 11 (2d10) piercing damage. If the target is a creature, it must succeed on a DC 18 Strength saving throw or be pushed up to 10 feet away and knocked prone.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Bite (Bella Only)",
+            "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) piercing damage and the target is grappled (escape DC 17). Until this grapple ends, the target is restrained, and Bella can't bite another target.",
+            "attack_bonus": 10,
+            "damage_dice": "2d10",
+            "damage_bonus": 5
+          },
+          {
+            "name": "Tail (Bella Only)",
+            "desc": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target not grappled by Bella. Hit: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.",
+            "attack_bonus": 10,
+            "damage_dice": "2d8",
+            "damage_bonus": 5
+          },
+          {
+            "name": "Gore (Offalia Only)",
+            "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.",
+            "attack_bonus": 10,
+            "damage_dice": "2d8",
+            "damage_bonus": 5
+          },
+          {
+            "name": "Eyebite (Morgantha Only)",
+            "desc": "Morgantha casts or uses eyebite (DC 17). A target that succeeds on the saving throw is dazed until the end of its next turn. A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.",
+            "attack_bonus": 0
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Tail Swipe (Bella Only)",
+            "desc": "Bella swipes her tail in a 10-foot cone. Each creature within that area must make a DC 18 Dexterity saving throw, taking 9 (2d8) bludgeoning damage and falling prone on a failure. A creature that succeeds takes half damage and doesn't fall prone.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Hallucinatory Mist (Bella Only)",
+            "desc": "Bella sprays a 30-foot cone of pearlescent mist. Each creature within the mist must make a DC 17 Constitution saving throw or be dazed until the start of Bella's next turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Stomp (Offalia Only)",
+            "desc": "Offalia stomps the ground around her. Each creature within a 5-foot radius must make a DC 18 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failure, or half as much on a success.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Fiend's Trumpet (Offalia Only)",
+            "desc": "Offalia releases a sonorous trumpet from her trunk. Each humanoid creature within a 60-foot radius must make a DC 17 Wisdom saving throw or subtract 1d4 from their next attack roll, ability check, or saving throw.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Enervating Ring (Morgantha Only)",
+            "desc": "Tendrils of inky darkness reach out from Morgantha, touching each creature within 10 feet. Each target must make a DC 16 Constitution saving throw or take 9 (2d8) necrotic damage and be slowed until the end of its next turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Inflict Nightmares (Morgantha Only)",
+            "desc": "Morgantha conjures a cloud of ethereal mist around a creature she can see within 30 feet. The target must succeed on a DC 17 Wisdom saving throw or be stunned until it takes damage or another creature uses its action to shake them awake. The creature takes 9 (2d8) psychic damage at the end of its turn if it's still stunned.",
+            "attack_bonus": 0
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Tail Lash (Bella Only)",
+            "desc": "In response to taking damage from a creature within 10 feet, Bella makes a tail attack against her attacker.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Tusks (Offalia Only)",
+            "desc": "In response to taking damage from a melee attack, Offalia makes a gore attack against her attacker.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Shadow Step (Morgantha Only)",
+            "desc": "In response to taking damage from a creature she can see, Morgantha takes half as much damage (rounded down) and teleports up to 30 feet.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Matron's Rebuke (Morgantha Only)",
+            "desc": "In response to taking damage from a creature within 60 feet that she can see, Morgantha points and surrounds the attacker with writhing shadows. The target must succeed on a DC 17 Dexterity saving throw or take 11 (2d10) necrotic damage.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Absorb Elements (Any)",
+            "desc": "In response to taking acid, cold, fire, lightning, or thunder damage, the hag casts absorb elements.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "Stumpfoot",
+      {
+        "name": "Stumpfoot",
+        "level": 3,
+        "source": "Player",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Tortle",
+        "alignment": "Lawful Good",
+        "ac": 14,
+        "hp": 27,
+        "hit_dice": "3d12",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          12,
+          13,
+          12,
+          15,
+          11
+        ],
+        "saves": [
+          {
+            "strength": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Bludgeoning, Slashing, and Piercing while raging",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 14",
+        "languages": "Druidic plus any two languages",
+        "cr": "3",
+        "bestiary": true,
+        "player": true
+      }
+    ],
+    [
+      "Sir Gus Gus",
+      {
+        "name": "Sir Gus Gus",
+        "level": 3,
+        "source": "Player",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Goliath",
+        "alignment": "Lawful Good",
+        "ac": 14,
+        "hp": 27,
+        "hit_dice": "3d12",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          12,
+          13,
+          12,
+          15,
+          11
+        ],
+        "saves": [
+          {
+            "strength": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Bludgeoning, Slashing, and Piercing while raging",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 14",
+        "languages": "Druidic plus any two languages",
+        "cr": "3",
+        "bestiary": true,
+        "player": true
+      }
+    ],
+    [
+      "Valeria",
+      {
+        "name": "Valeria",
+        "level": 3,
+        "source": "Player",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Half Elf (Drow)",
+        "alignment": "Lawful Good",
+        "ac": 14,
+        "hp": 27,
+        "hit_dice": "3d12",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          12,
+          13,
+          12,
+          15,
+          11
+        ],
+        "saves": [
+          {
+            "strength": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Bludgeoning, Slashing, and Piercing while raging",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 14",
+        "languages": "Druidic plus any two languages",
+        "cr": "3",
+        "bestiary": true,
+        "player": true
+      }
+    ],
+    [
+      "Scarlet",
+      {
+        "name": "Scarlet",
+        "level": 3,
+        "source": "Player",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Aasimar",
+        "alignment": "Lawful Good",
+        "ac": 14,
+        "hp": 27,
+        "hit_dice": "3d12",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          12,
+          13,
+          12,
+          15,
+          11
+        ],
+        "saves": [
+          {
+            "strength": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Bludgeoning, Slashing, and Piercing while raging",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 14",
+        "languages": "Druidic plus any two languages",
+        "cr": "3",
+        "bestiary": true,
+        "player": true
+      }
+    ],
+    [
+      "Muriel Vinshaw",
+      {
+        "name": "Muriel Vinshaw",
+        "source": "5e SRD",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human, shapechanger",
+        "alignment": "chaotic good",
+        "ac": 14,
+        "hp": 63,
+        "hit_dice": "14d8",
+        "speed": "30 ft. (fly 50ft in raven and hybrid forms)",
+        "stats": [
+          10,
+          16,
+          11,
+          13,
+          15,
+          14
+        ],
+        "skillsaves": [
+          {
+            "insight": 4
+          },
+          {
+            "perception": 6
+          }
+        ],
+        "senses": "passive Perception 16",
+        "languages": "Common (can't speak in raven form)",
+        "cr": "2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Regeneration",
+            "desc": "Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn. She dies only if it starts its turn with 0 hit points and doesn't regenerate.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Mimic",
+            "desc": "Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Plummet",
+            "desc": "If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Muriel makes two weapon attacks, one of which can be with her hand crossbow.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Shortsword (Raven or Hybrid Form Only).",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Hand Crossbow (Humanoid or Hybrid Form Only)",
+            "desc": "Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Beak (Raven or Hybrid Form Only)",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.",
+            "attack_bonus": 5,
+            "damage_dice": "1d4",
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Shapechange",
+            "desc": "Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Its statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts back to her human form if she dies.",
+            "attack_bonus": 0
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Interpose",
+            "desc": "When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "Barovian Scout",
+      {
+        "name": "Barovian Scout",
+        "source": "5e CoS",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "any race",
+        "alignment": "any alignment",
+        "ac": 13,
+        "hp": 16,
+        "hit_dice": "3d8 + 2",
+        "speed": "30 ft.",
+        "stats": [
+          11,
+          14,
+          12,
+          11,
+          13,
+          11
+        ],
+        "skillsaves": [
+          {
+            "nature": 4
+          },
+          {
+            "perception": 5
+          },
+          {
+            "stealth": 6
+          },
+          {
+            "survival": 5
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 15",
+        "languages": "any one language (usually Common)",
+        "cr": "1/2",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Keen Hearing and Sight",
+            "desc": "The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The scout makes two melee attacks or two ranged attacks.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Shortsword",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+            "attack_bonus": 4,
+            "damage_dice": "1d6",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Light Crossbow",
+            "desc": "Ranged Weapon Attack: +4 to hit, ranged 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.",
+            "attack_bonus": 4,
+            "damage_dice": "1d8",
+            "damage_bonus": 2
+          }
+        ]
+      }
+    ],
+    [
+      "Barovian Commoner",
+      {
+        "name": "Barovian Commoner",
+        "source": "5e CoS",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "any race",
+        "alignment": "any alignment",
+        "ac": 10,
+        "hp": 4,
+        "hit_dice": "1d8 + -1",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 10",
+        "languages": "any one language (usually Common)",
+        "cr": "0",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Pitchfork",
+            "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d6) piercing damage.",
+            "attack_bonus": 2,
+            "damage_dice": "1d6"
+          }
+        ]
+      }
+    ],
+    [
+      "Barovian Wolf",
+      {
+        "name": "Barovian Wolf",
+        "source": "5e CoSR",
+        "size": "Medium",
+        "type": "beast",
+        "subtype": "",
+        "alignment": "unaligned",
+        "ac": 13,
+        "hp": 11,
+        "hit_dice": "2d8 + 2",
+        "speed": "40 ft.",
+        "stats": [
+          12,
+          15,
+          12,
+          3,
+          12,
+          6
+        ],
+        "skillsaves": [
+          {
+            "perception": 3
+          },
+          {
+            "stealth": 4
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 13",
+        "languages": "",
+        "cr": "1/4",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Keen Hearing and Smell",
+            "desc": "The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Pack Tactics",
+            "desc": "The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Maul",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage. Instead of dealing damage, the wolf can grapple the target (escape DC 11).",
+            "attack_bonus": 4,
+            "damage_dice": "2d4",
+            "damage_bonus": 2
+          },
+          {
+            "name": "Claws",
+            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage. If the target is a creature, it must make a DC 11 Strength saving throw. On a failure, it is knocked prone or pushed 5 feet away (wolf's choice).",
+            "attack_bonus": 4,
+            "damage_dice": "1d8",
+            "damage_bonus": 2
+          }
+        ]
+      }
+    ],
+    [
+      "Barovian Werewolf",
+      {
+        "name": "Barovian Werewolf",
+        "source": "5e CoSR",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "human",
+        "alignment": "chaotic evil",
+        "ac": "11 in humanoid form, 12 (natural armor) in wolf or hybrid form",
+        "hp": 84,
+        "hit_dice": "13d8 + 26",
+        "speed": "30 ft. (40 ft. in wolf form)",
+        "stats": [
+          16,
+          13,
+          14,
+          10,
+          11,
+          10
+        ],
+        "saves": {
+          "strength": 5
+        },
+        "skillsaves": {
+          "Perception": 4,
+          "Stealth": 3
+        },
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60ft., passive Perception 14",
+        "languages": "Common (can't speak in wolf form)",
+        "cr": 3,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Keen Hearing and Smell",
+            "desc": "The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Pack Tactics",
+            "desc": "The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Regeneration",
+            "desc": "The werewolf regains 10 hit points at the start of its turn. If the werewolf takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of the werewolf's next turn. The werewolf dies only if it starts its turn with 0 hit points and doesn't regenerate."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (wolf or hybrid form).",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Bite (Wolf or Hybrid Form Only)",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 3) piercing damage. Instead of dealing damage, the werewolf can grapple the target (escape DC 11.) Additionally, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with werewolf lycanthropy.",
+            "attack_bonus": 5,
+            "damage_dice": "1d8",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Claws (Wolf or Hybrid Form Only)",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.",
+            "attack_bonus": 5,
+            "damage_dice": "2d4",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Spear (Humanoid Form Only)",
+            "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack.",
+            "attack_bonus": 5,
+            "damage_dice": "1d8",
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Shapechange",
+            "desc": "The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "Barovian Zombie",
+      {
+        "name": "Barovian Zombie",
+        "source": "5e CoSR",
+        "size": "Medium",
+        "type": "undead",
+        "subtype": "",
+        "alignment": "neutral evil",
+        "ac": 8,
+        "hp": 22,
+        "hit_dice": "3d8 + 8",
+        "speed": "20 ft.",
+        "stats": [
+          13,
+          6,
+          16,
+          3,
+          6,
+          5
+        ],
+        "saves": [
+          {
+            "wisdom": 0
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "poisoned",
+        "senses": "darkvision 60 ft., passive Perception 8",
+        "languages": "understands all languages it spoke in life but can't speak",
+        "cr": "1/4",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Undead Fortitude (1/day)",
+            "desc": "If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, if the damage taken is 15 or more, or if it had only 1 hit point remaining.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.",
+            "attack_bonus": 3,
+            "damage_dice": "1d6",
+            "damage_bonus": 1
+          }
+        ]
+      }
+    ],
+    [
+      "Barovian Zombie Plague Spreader",
+      {
+        "name": "Barovian Zombie Plague Spreader",
+        "source": "5e VRGR",
+        "size": "Medium",
+        "type": "undead",
+        "subtype": "zombie",
+        "alignment": "neutral evil",
+        "ac": 10,
+        "hp": 130,
+        "hit_dice": "12d8 + 72",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          10,
+          15,
+          3,
+          5,
+          5
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "necrotic",
+        "damage_immunities": "poison",
+        "condition_immunities": "charmed, exhaustion, poisoned",
+        "senses": "darkvision 60 ft., passive Perception 7",
+        "languages": "understands the languages it knew in life but can't speak",
+        "cr": 4,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Undead Fortitude (1/day)",
+            "desc": "If damage reduces the zombie to 0 hit points, the plague spreader drops to 1 hit point instead. The plague spreader can’t use this ability if the damage is radiant or from a critical hit, if the damage taken is 15 or more, or if it had only 1 hit point remaining.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Unusual Nature",
+            "desc": "The zombie plague spreader doesn't require air, food, drink, or sleep.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Viral Aura",
+            "desc": "Any creature that starts its turn within 10 feet of the plague spreader must make a DC 12 Constitution saving throw. On a failed save, the creature is poisoned and can’t regain hit points until the end of its next turn. On a successful save, the creature is immune to this plague spreader’s Viral Aura for 24 hours.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The plague spreader makes two Slam attacks.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 5 (1d8) necrotic damage.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Virulent Miasma (1/Day)",
+            "desc": "The plague spreader releases toxic gas in a 30-foot-radius sphere centered on itself. Each creature in that area must make a DC 12 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.\nA humanoid reduced to 0 hit points by this damage doesn’t automatically die. However, if it dies before stabilizing or regaining hit points, it rises as a zombie (see the Monster Manual) 1 minute later. The DC for death saving throws made by such a creature to stabilize increases to 20. The new zombie acts immediately after the plague spreader in the initiative count.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "The Flesh Mound",
+      {
+        "name": "The Flesh Mound",
+        "source": "5e CoSR",
+        "size": "Large",
+        "type": "undead",
+        "subtype": "",
+        "alignment": "chaotic evil",
+        "ac": 15,
+        "hp": 93,
+        "hit_dice": "11d10+33",
+        "speed": "20 ft.",
+        "stats": [
+          16,
+          8,
+          16,
+          3,
+          10,
+          5
+        ],
+        "condition_immunities": "blinded, deafened, exhaustion, grappled, prone",
+        "senses": "blindsight 60 ft., passive Perception 10",
+        "languages": "Understands Common, but can't speak it",
+        "cr": "4, or 3 when its ***heavy sleeper*** feature is active",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Heavy Sleeper",
+            "desc": "If either of the mound’s forms has been unconscious within the past minute, it can’t use its ***slam*** attack more than once per turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Oozing Body",
+            "desc": "The flesh mound can move through spaces occupied by enemy creatures, as well as spaces smaller than a Large creature. (It can't end its turn inside an occupied space, and it provokes opportunity attacks normally.)",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Instinctual Defense",
+            "desc": "When the mound drops to 0 hit points, it expels each creature currently engulfed by it. (Those creatures appear prone in an empty space within 5 feet of the mound.) The mound’s statistics are then instantly replaced by the statistics of its second form. Its initiative count doesn’t change. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The flesh mound makes two attacks. It can replace one of those attacks with engulf. If its heavy sleeper feature is active, it can't use its slam attack more than once, and it can't use engulf on the same turn it uses its slam.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Slam",
+            "desc": " Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) bludgeoning damage, or 10 (2d6 + 3) bludgeoning damage if the mound's heavy sleeper. feature is active. If the attack hits a Medium or smaller target, the target is grappled (escape DC 13).",
+            "attack_bonus": 5,
+            "damage_dice": "2d10",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Bone Splinters",
+            "desc": "Ranged Weapon Attack: +5 to hit, range 20/60 ft., up to two targets standing within 5 ft. of each other. Hit: 5 (1d4 + 3) piercing damage.",
+            "attack_bonus": 5,
+            "damage_dice": "1d4",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Engulf",
+            "desc": "The flesh mound attempts to engulf a Medium or smaller creature grappled by it, forcing that creature to make a DC 13 Strength saving throw. On a failure, the engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 13 Constitution saving throw at the start of each of its turns or take 8 (2d4 + 3) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can only have one creature engulfed at a time. An engulfed creature can make a DC 13 Strength saving throw at the end of each of its turns, freeing itself on a success. (Once freed, the creature is no longer grappled.)",
+            "attack_bonus": 0
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Rupture",
+            "desc": "The flesh mound expels a pustule of rotting flesh, which hits a point within 20 feet of the mound and bursts, spraying each creature within 5 feet with caustic blood and pus. A target must succeed on a DC 13 Constitution saving throw or be poisoned until the start of the flesh mound's next turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Quake",
+            "desc": "The flesh mound slams against the floor, causing the room to quake. Each creature within 10 feet of the mound must succeed on a DC 13 Strength saving throw or fall prone.",
+            "attack_bonus": 0
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Multireaction",
+            "desc": "The flesh mound can take up to three reactions per round, though no more than one per turn. If it would lose its reactions, it loses one reaction instead.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Squelch",
+            "desc": "In response to taking damage from a melee attack, the flesh mound attempts to grapple the attacker using their ***Slam.***",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Roll",
+            "desc": "In response to taking damage from a ranged attack or spell, the flesh mound moves up to its speed directly toward or away from the attacker without provoking opportunity attacks. If it moves toward the attacker, it can then immediately attempt to shove them.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "Volenta, First Form",
+      {
+        "name": "Volenta, First Form",
+        "source": "5e CoSR",
+        "size": "Medium",
+        "type": "undead",
+        "subtype": "",
+        "alignment": "chaotic evil",
+        "ac": 15,
+        "hp": 82,
+        "hit_dice": "11d8+33",
+        "speed": "30 ft, climb 30ft.",
+        "stats": [
+          16,
+          18,
+          16,
+          16,
+          14,
+          14
+        ],
+        "saves": [
+          {
+            "dexterity": 7
+          },
+          {
+            "wisdom": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobatics": 10
+          },
+          {
+            "Perception": 5
+          },
+          {
+            "Stealth": 10
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 15",
+        "languages": "Common",
+        "cr": 5,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Close Quarters Fighter",
+            "desc": "Volenta doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Regeneration",
+            "desc": "Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Spider Climb",
+            "desc": "Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Sunlight Hypersensitivity",
+            "desc": "While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Nimble Escape",
+            "desc": "Volenta can take the Disengage or Hide action as a bonus action on each of her turns.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Awakened Bloodlust",
+            "desc": "When Volenta drops to 0 hit points, her nostrils flare like a bats, her claws lengthen, and her eyes begin to glow a dim crimson. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Volenta uses hail of daggers twice, dagger twice, or hail of daggers once and either tanglefoot or thunderstone.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Hail of Daggers",
+            "desc": "Ranged Weapon Attack: +7 to hit, range 15 ft., one target. Hit: 9 (2d4 + 4) piercing damage.",
+            "attack_bonus": 7,
+            "damage_dice": "2d4",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Dagger",
+            "desc": "Melee Weapon Attack +7 to hit, 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage.",
+            "attack_bonus": 6,
+            "damage_dice": "1d4",
+            "damage_bonus": 4
+          },
+          {
+            "name": "Tanglefoot (1/day)",
+            "desc": "Volenta hurls a bag of writhing, sticky black tar at a point on the ground within 30 feet. The bag bursts on impact, covering up to two creatures within 5 feet of one another with sticky tar and forcing each target to succeed on a DC 14 Strength saving throw or be restrained. A target can repeat the saving throw at the end of each of its turns, ending the effect on a success.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Thunderstone (1/day)",
+            "desc": "Volenta hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a DC 14 Constitution saving throw or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of Volenta’s next turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Alchemist's Firebomb (1/day)",
+            "desc": "Volenta hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a DC 14 Dexterity saving throw or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.",
+            "attack_bonus": 0
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Smokestick (1/day)",
+            "desc": "When Volenta is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round."
+          }
+        ]
+      }
+    ],
+    [
+      "Volenta, Second Form",
+      {
+        "name": "Volenta, Second Form",
+        "source": "5e CoSR",
+        "size": "Medium",
+        "type": "undead",
+        "subtype": "",
+        "alignment": "chaotic evil",
+        "ac": 15,
+        "hp": 82,
+        "hit_dice": "11d8+33",
+        "speed": "30 ft., climb 30 ft.",
+        "stats": [
+          16,
+          18,
+          16,
+          16,
+          14,
+          14
+        ],
+        "saves": {
+          "dexterity": 7,
+          "wisdom": 5
+        },
+        "skillsaves": {
+          "Acrobatics": 10,
+          "Perception": 5,
+          "Stealth": 10
+        },
+        "damage_vulnerabilities": "",
+        "damage_resistances": "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 15",
+        "languages": "Common",
+        "cr": 6,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Close Quarters Fighter",
+            "desc": "Volenta doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Regeneration",
+            "desc": "Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Spider Climb",
+            "desc": "Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Sunlight Hypersensitivity",
+            "desc": "While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Blood Frenzy",
+            "desc": "Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Volenta makes two attacks, only one of which can be a bite attack.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)",
+            "attack_bonus": 6,
+            "damage_dice": "1d6 + 2d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Claws",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).",
+            "attack_bonus": 6,
+            "damage_dice": "2d4",
+            "damage_bonus": 3
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Leap",
+            "desc": "Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Dislocate",
+            "desc": "Volenta dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.",
+            "attack_bonus": 0
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Multireaction",
+            "desc": "Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions, she loses one reaction instead.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Spit Blood",
+            "desc": "In response to taking damage from a melee attack, Volenta spits a wad of blood at the attacking creature’s eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Agress",
+            "desc": "In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Abscond",
+            "desc": "In response to escaping a grapple, Volenta uses her leap feature.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "Doru, the Vampire Spawn",
+      {
+        "name": "Doru, the Vampire Spawn",
+        "source": "5e CoSR",
+        "size": "Medium",
+        "type": "undead",
+        "subtype": "",
+        "alignment": "neutral evil",
+        "ac": 15,
+        "hp": 82,
+        "hit_dice": "11d8 + 32",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          16,
+          16,
+          11,
+          10,
+          12
+        ],
+        "saves": [
+          {
+            "dexterity": 6
+          },
+          {
+            "wisdom": 3
+          }
+        ],
+        "skillsaves": [
+          {
+            "perception": 3
+          },
+          {
+            "stealth": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "necrotic; bludgeoning, piercing, and slashing from nonmagical weapons",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 13",
+        "languages": "the languages it knew in life",
+        "cr": "5",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Regeneration",
+            "desc": "Doru regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If Doru takes radiant damage or damage from holy water, this trait doesn't function at the start of Doru's next turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Spider Climb",
+            "desc": "Doru can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Vampire Weaknesses",
+            "desc": "Doru has the following vampiric flaws:\nForbiddance. Doru can't enter a residence without an invitation from one of the occupants.\nHarmed by Running Water. Doru takes 20 acid damage when it ends its turn in running water.\nStake to the Heart. Doru is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.\nSunlight Hypersensitivity. Doru takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Doru makes two attacks, only one of which can be a bite attack.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Doru, incapacitated, or restrained. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Doru regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.",
+            "attack_bonus": 61
+          },
+          {
+            "name": "Claws",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. Instead of dealing damage, Doru can grapple the target (escape DC 13).",
+            "attack_bonus": 6,
+            "damage_dice": "2d4",
+            "damage_bonus": 3
+          }
+        ]
+      }
+    ],
+    [
+      "Ireena Kolyana",
+      {
+        "name": "Ireena Kolyana",
+        "source": "5e CoSR",
+        "size": "Medium",
+        "type": "humanoid, 3rd Level Expert Sidekick",
+        "subtype": "any race",
+        "alignment": "any alignment",
+        "ac": 15,
+        "hp": 25,
+        "hit_dice": "5d8",
+        "speed": "30 ft.",
+        "stats": [
+          11,
+          12,
+          11,
+          12,
+          14,
+          16
+        ],
+        "saves": {
+          "dexterity": 3
+        },
+        "skillsaves": {
+          "deception": 5,
+          "history": 3,
+          "insight": 6,
+          "investigation": 3,
+          "medicine": 6,
+          "perception": 4,
+          "persuasion": 5,
+          "stealth": 3
+        },
+        "damage_vulnerabilities": [],
+        "damage_resistances": [],
+        "damage_immunities": [],
+        "condition_immunities": [],
+        "senses": "passive Perception 12",
+        "languages": "any two languages",
+        "cr": 1,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Healer",
+            "desc": "Ireena is an able physician, allowing her to mend wounds quickly and get her allies back in the fight. She gains the following benefits:\nWhen Ireena uses a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.\nAs an action, Ireena can spend one use of a healer's kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feat again until it finishes a short or long rest.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Rapier",
+            "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.",
+            "attack_bonus": 3,
+            "damage_dice": "1d8",
+            "damage_bonus": 1
+          },
+          {
+            "name": "Light Crossbow",
+            "desc": "Ranged Weapon Attack: +3 to hit, range 90/320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.",
+            "attack_bonus": 3,
+            "damage_dice": "1d8",
+            "damage_bonus": 1
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Helpful",
+            "desc": "Ireena is adept at giving well-timed assistance; She can take the Help action as a bonus action.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Cunning Action",
+            "desc": "Ireena's quick thinking allows her to act speedily. On her turn in combat, she can take the Dash, Disengage, or Hide action as a bonus action.",
+            "attack_bonus": 0
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Parry",
+            "desc": "Ireena adds 2 to its AC against one melee attack that would hit her. To do so, Ireena must see the attacker and be wielding a melee weapon.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "Ismark Kolyanovich",
+      {
+        "name": "Ismark Kolyanovich",
+        "source": "5e CoSR",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "any race",
+        "alignment": "any alignment",
+        "ac": 17,
+        "hp": 58,
+        "hit_dice": "9d8 + 17",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          13,
+          14,
+          10,
+          11,
+          10
+        ],
+        "skillsaves": [
+          {
+            "athletics": 5
+          },
+          {
+            "perception": 2
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 12",
+        "languages": "Common",
+        "cr": "3",
+        "bestiary": true,
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Ismark makes two longsword attacks. If he has a shortsword drawn, he can also make a shortsword attack.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.",
+            "attack_bonus": 5,
+            "damage_dice": "1d8",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Shortsword",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Heavy Crossbow",
+            "desc": "Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.",
+            "attack_bonus": 3,
+            "damage_dice": "1d10",
+            "damage_bonus": 1
+          }
+        ]
+      }
+    ],
+    [
+      "Kolyan Indirovich",
+      {
+        "name": "Kolyan Indirovich",
+        "source": "5e CoSR",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "any race",
+        "alignment": "any alignment",
+        "ac": 17,
+        "hp": 29,
+        "hit_dice": "9d8 + 17",
+        "speed": "15 ft.",
+        "stats": [
+          16,
+          13,
+          14,
+          10,
+          11,
+          10
+        ],
+        "skillsaves": {
+          "athletics": 5,
+          "perception": 2
+        },
+        "damage_vulnerabilities": [],
+        "damage_resistances": [],
+        "damage_immunities": [],
+        "condition_immunities": [],
+        "senses": "passive Perception 12",
+        "languages": "Common",
+        "cr": 3,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Exhaustion Level 4",
+            "desc": "Kolyan's old age has taken its toll. He suffers from the following effects:\n- Disadvantage on ability checks\n- Speed halved\n- Disadvantage on attack rolls and saving throws\n- Hit point maximum halved",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Kolyan makes two longsword attacks. If he has a shortsword drawn, he can also make a shortsword attack.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.",
+            "attack_bonus": 5,
+            "damage_dice": "1d8",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Shortsword",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Heavy Crossbow",
+            "desc": "Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.",
+            "attack_bonus": 3,
+            "damage_dice": "1d10",
+            "damage_bonus": 1
+          }
+        ]
+      }
+    ],
+    [
+      "Elisabeth's Claw",
+      {
+        "name": "Elisabeth's Claw",
+        "source": "Homebrew",
+        "size": "Medium",
+        "type": "undead",
+        "subtype": "",
+        "alignment": "Chaotic evil",
+        "ac": 11,
+        "hp": 9,
+        "hit_dice": "2d8 + 1",
+        "speed": "15 ft.",
+        "stats": [
+          14,
+          10,
+          5,
+          1,
+          1,
+          5
+        ],
+        "saves": [
+          {
+            "wisdom": 0
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "poisoned, exhaustion, prone",
+        "senses": "blindsight 60 ft., passive Perception 8",
+        "languages": [
+          null
+        ],
+        "cr": 1,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Manifest Finger",
+            "desc": "Once per round, Elisabeth Durst manifests a spindly elongated claw reaching from beneath the house through the chimneys. It emerges from any hearth or smashes from closed chimney sections, before reaching out towards the closest player. While manifested, the claw remains connected to where it emerged from via a gaunt, too-many-elbowed arm that extends up to 30ft.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Persistant Spectre",
+            "desc": "If Elisabeth's Claw is defeated it desolves into drifts of harmless spiderwebs, however Elisabeth manifests this claw anew at the start of its turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Trapped Spirit",
+            "desc": "Elisabeth Durst's Spirit is bound to Death House's Dungeon. As a result, her claws are unable to leave the property. If they attempt to, they hit what appears to be a spiritual barrier at the Entrance (1).",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Grasping Claw",
+            "desc": "Melee Weapon Attack: +3 to hit, reach within 15 ft. of a Hearth or closed chimney section, one target. Hit: 2 (1d4) piercing damage, and the target is Grappled by Elisabeth's Claw (Escape DC 12.)",
+            "attack_bonus": 3,
+            "damage_dice": "1d4",
+            "damage_bonus": 0
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Drag Inside",
+            "desc": "While Grappling a creature, Elisabeth's Claw can attempt to drag the grappled creature towards where it emerged from. When it does so, the creature must succeed on a DC 12 Strength Saving Throw or be forcefully pulled 15ft towards where Elisabeth's Claw emerged from.",
+            "attack_bonus": 0
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Drag Beneath",
+            "desc": "While a creature grappled by Elisabeth's Claw occupies the space 5ft from where it emerged from, Elisabeth's Claw can use its reaction at the end of that creature's turn to drag them deeper into Death House. When it does so, the creature must succeed on a DC 12 Strength Saving Throw or be forcefully pulled 1 floor deeper into the nearest unoccupied space on that floor. If they are on the First Floor of Death House, they instead take 1d6 bludgeoning damage as the Claw tries to drag them forcefully through the solid stone at the base of the chimney.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "Broom of Animated Attack",
+      {
+        "name": "Broom of Animated Attack",
+        "source": "5e CoS",
+        "size": "small",
+        "type": "construct",
+        "subtype": "",
+        "alignment": "Unaligned",
+        "ac": 15,
+        "hp": 17,
+        "hit_dice": "5d6",
+        "speed": "0 ft., fly 50 ft. (hover)",
+        "stats": [
+          10,
+          17,
+          10,
+          1,
+          5,
+          1
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "poison, psychic",
+        "condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone",
+        "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 7",
+        "languages": [
+          null
+        ],
+        "cr": "1/4",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Antimagic Susceptibility",
+            "desc": "The broom is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the broom must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Constructed Nature",
+            "desc": "An animated object doesn't require air, food, drink, or sleep. The magic that animates an object is dispelled when the construct drops to 0 hit points. An animated object reduced to 0 hit points becomes inanimate and is too damaged to be of much use or value to anyone.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The broom makes two melee attacks.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Tail",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft. one target. Hit: 5 (1d4 + 3) bludgeoning damage.",
+            "attack_bonus": 5,
+            "damage_dice": "1d4",
+            "damage_bonus": 3
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Animated Attack",
+            "desc": "If the broom is motionless and a creature grabs hold of it, the broom makes a Dexterity check contested by the creature's Strength check. If the broom wins the contest, it flies out of the creature's grasp and makes a melee attack against it with advantage on the attack roll.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 2
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

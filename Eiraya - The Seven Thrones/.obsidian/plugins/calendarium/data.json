@@ -1,0 +1,790 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Barovian Calendar",
+      "description": "Calendar of the realm of Barovia, home of Strahd von Zarovich.",
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
+      "static": {
+        "displayDayNumber": true,
+        "firstWeekDay": 0,
+        "incrementDay": false,
+        "displayMoons": true,
+        "overflow": true,
+        "padDays": 2,
+        "padMonths": 2,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_6a183b08c8eb"
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_892b7b7a5ae9"
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_6bb98899ba68"
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_4a7b683aea19"
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_78690a099b89"
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_ba5b09ba5a89"
+          },
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_29b90acaead9"
+          }
+        ],
+        "months": [
+          {
+            "name": "Yinvar",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_7b4978ab581a"
+          },
+          {
+            "name": "Fivral",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_cb99fbb9395b"
+          },
+          {
+            "name": "Mart",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_79881a89cb18"
+          },
+          {
+            "name": "Apryl",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_5b9a8a397908"
+          },
+          {
+            "name": "Mai",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_f8399ab80818"
+          },
+          {
+            "name": "Eyune",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_3ac84a7bc869"
+          },
+          {
+            "name": "Eyule",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_e98bc86bc809"
+          },
+          {
+            "name": "Avgust",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_89ea78ca5988"
+          },
+          {
+            "name": "Sintyavr",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_798a3b990a4b"
+          },
+          {
+            "name": "Octyavr",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_3a9999e8eb59"
+          },
+          {
+            "name": "Neyavr",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_db39383b990a"
+          },
+          {
+            "name": "Dekavr",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_1bfa3b180a48"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 14,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_e98b3a8ab8da"
+          }
+        ],
+        "leapDays": [],
+        "eras": [
+          {
+            "name": "Before Unification",
+            "format": "B.U.",
+            "id": "ID_897bba588a98",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": true,
+            "date": {
+              "year": 0,
+              "day": 0,
+              "month": 0
+            }
+          },
+          {
+            "name": "Barovian Calender",
+            "format": "B.C.",
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "id": "ID_185ab9b8b95a",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": false
+          }
+        ]
+      },
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1144411904,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": [
+          {
+            "name": "Barovia",
+            "id": "ID_eb18ab99c88b",
+            "seasons": {}
+          },
+          {
+            "name": "Vallaki",
+            "id": "ID_7818b8697bd9",
+            "seasons": {}
+          },
+          {
+            "name": "Krezk",
+            "id": "ID_7b7b68fb18b9",
+            "seasons": {}
+          },
+          {
+            "name": "Berez",
+            "id": "ID_b8982a0a3a38",
+            "seasons": {}
+          },
+          {
+            "name": "Soldav",
+            "id": "ID_0be9e949198b",
+            "seasons": {}
+          }
+        ],
+        "defaultLocation": "NONE"
+      },
+      "current": {
+        "day": 27,
+        "month": 9,
+        "year": 735
+      },
+      "events": [
+        {
+          "name": "Winter Solstice",
+          "description": "The Winter Solstice is the day of the year with the least time between sunrise and sunset. Many western cultures consider it the official date of winter.",
+          "id": "824455",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Summer Solstice",
+          "description": "The Summer Solstice is the day of the year with the most time between \nsunrise and sunset. Many western cultures consider it the official date\n of summer.",
+          "id": "824456",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "The Spring Equinox,\nalso called the Vernal Equinox, is the day between the winter and\nsummer solstices where the day is the exact same length as the night.\nMany western cultures consider it the official date of Spring.\n",
+          "id": "824457",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Autumnal Equinox",
+          "description": "The Autumnal Equinox,\nalso called the Fall Equinox, is the midpoint between the summer and\nwinter solstices, where the day is the exact same length as the night.\nMany western cultures consider it the official date of Autumn.\n",
+          "id": "824458",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "New Year's Day",
+          "description": "New Year's day marks the date of a new year.",
+          "id": "824459",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": [
+              null,
+              null
+            ],
+            "month": 0
+          },
+          "type": "Recurring",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Paschal Full Moon",
+          "description": "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
+          "id": "824460",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "type": "Undated",
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Act I / Arc A - Players Escape Death House",
+          "description": "The players enter Death House, defeat the Flesh Mound, and emerge into the Svalich Woods on Octyavr 27, 735 B.C. (Barovian Calendar).",
+          "date": {
+            "day": 27,
+            "month": 9,
+            "year": 735
+          },
+          "id": "ID_6b2b18c8eae9",
+          "note": "Barovia/Act I - Into the Mists/Arc A - Escape from Death House.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act I / Arc B - Players Defend Barovia",
+          "description": "The players arrive in the village of Barovia and meet Ismark and Ireena on Octyavr 28.",
+          "date": {
+            "day": 28,
+            "month": 9,
+            "year": 735
+          },
+          "id": "ID_abd808896aaa",
+          "note": "Barovia/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act I / Arc C - Players receive Tarokka Reading",
+          "description": "The players arrive at Tser Pool and receive the Tarokka reading from Madame Eva on Neyavr 1",
+          "date": {
+            "day": 1,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_7bc94a2b6a88",
+          "note": "Barovia/Act I - Into the Mists/Arc C - Into the Valley.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date",
+          "end": {
+            "day": 3,
+            "month": 10,
+            "year": 735
+          }
+        },
+        {
+          "name": "Act I / Arc C - Players Arrive in Vallaki at Dusk",
+          "description": "The players depart Tser Pool and arrive in Vallaki on Neyvar 2 at Dusk",
+          "date": {
+            "day": 2,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_5809dbe868eb",
+          "note": "Barovia/Act I - Into the Mists/Arc C - Into the Valley.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act I / Arc C - Players encounter Baron Vallakovich",
+          "description": null,
+          "date": {
+            "day": 3,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_4b6b581bab5a",
+          "note": "Barovia/Act I - Into the Mists/Arc C - Into the Valley.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II - Rictavio reserves a room at the Blue Water Inn",
+          "description": "Before the players arrive, the ringmaster Rictavio reserves a room at the Blue Water Inn",
+          "date": {
+            "day": 2,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_ca29fb5bbb3b",
+          "note": "Barovia/Act II - The Shadowed Town/Act II Summary & Appendices.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc D - Milivoj steals the bones of St. Andral",
+          "description": "During the night, the church groundskeeper, Milivoj, steals the bones of St. Andral and delivers them to the local coffin-maker, Henrik van der Voort.",
+          "date": {
+            "day": 2,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_a92809390818",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc D - Father Lucian discovers the Bones of St Andral are missing.",
+          "description": "At dawn, Father Lucian Petrovich discovers the missing bones. Players who bring Ireena Kolyana to St. Andral's Church after this point begin Arc D - St. Andral's Feast.",
+          "date": {
+            "day": 3,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_1bca497a38d8",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc F - Izek and guards begins prep for the Festival of the Blazing Sun",
+          "description": "Izek Strazni and two **guards** put up posters in the Vallaki Town Square advertising the Festival of the Blazing Sun. Players who bring Ireena to the Town Square at this point in time begin Arc G - The Strazni Siblings if Izek has not already seen Ireena.",
+          "date": {
+            "day": 3,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_08d8aa1b99c9",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc G - Ireena attempts Diplomacy with the Baron on behalf of the refugees",
+          "description": "The day after she speaks with the refugees for the first time, Ireena attempts to meet with the Baron, using her noble birth as a means of obtaining his attention. Though she expects to meet with him alone, she welcomes the players' support and assistance if offered.\n\nIf Ireena has already encountered or heard of the Baron’s temperament, she is under no illusions as to the difficulty of winning his favour. However, she is determined to do her best to at least try to help her people—and, as a noble, she is no stranger to the realities of negotiation, compromise, and manipulation.\n\nDuring Ireena’s meeting with the Baron—whether the players are present or not—the Baron dismisses out of hand any suggestion that the refugees be allowed to enter the town. However, he is willing to allow Ireena to come and go from the town into the refugee camp without requiring her to pay the toll at the gates.\n\nIf the players are present at this meeting and befriend or antagonize the Baron, he responds as described in Roleplaying the Vallakovich Family (p. 105). He also boasts to the players of the upcoming Festival of the Blazing Sun, at which he plans to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. \"The heavens will see our joy and wealth and look favorably upon us,\" he crows. \"Through our good spirits, we shall move ever-closer to our freedom from this fell darkness.\"",
+          "date": {
+            "day": 3,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_e978795908aa",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc F - Players are invited to dine with Lady Fiona Wachter",
+          "description": "In the evening, if the players defied Baron Vallakovich or aided Willemina Rikalova on their first morning in Vallaki, the players receive an invitation left by Ernst Larnak inviting them to dine with Lady Fiona Wachter at Wachterhaus. Players who accept Lady Wachter's invitation at this point begin Arc F - Lady Wachter's Wish.",
+          "date": {
+            "day": 3,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_e8fb08d98b48",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc E - Arabelle's nameday takes place at the Vistani Encampment",
+          "description": "Arabelle's nameday takes place at the Vistani encampment. (If the players haven't yet rescued her in Arc E - The Missing Vistana, she is missing, and no celebration occurs.)",
+          "date": {
+            "day": 4,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_5bba19ea9ad9",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc G - Izek Strazni ransacks the Blue Water Inn",
+          "description": "If Izek Strazni saw Ireena outside of the Blue Water Inn on the players' first morning in Vallaki, he visits the Inn while the players are away—preferably at dusk, during Lady Wachter's dinner—and ransacks it in a search for Ireena. Arc G - The Strazni Siblings then begins.",
+          "date": {
+            "day": 4,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_a8bb988a2a49",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc F - Ernst Larnak delivers the Poisoned Wine and Burlap Sack for Izek",
+          "description": "If the players accepted Lady Wachter's mission to kill Izek Strazni, Ernst Larnak meets them at the Blue Water Inn with a poisoned bottle of wine and a burlap sack for Izek's head.",
+          "date": {
+            "day": 5,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_3b3b3ba82a08",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc H - Erasmus appears to the players, asking for their help in Arc H",
+          "description": "That night, if the players completed Arc E - The Missing Vistana and have not yet begun Arc H - The Lost Soul, the spirit of Erasmus van Richten appears to the players as a **poltergeist** and invites them to meet with Victor Vallakovich.",
+          "date": {
+            "day": 5,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_abc85838a99b",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc G - If he isn't dead, Izek kidnaps Ireena",
+          "description": "While the players are away, if the players haven't defeated Izek Strazni in Arc F - Lady Wachter's Wish, Izek kidnaps Ireena and takes her to the Burgomaster's mansion as described in Arc G - The Strazni Siblings.",
+          "date": {
+            "day": 6,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_18c859cbe8fa",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc D - The Church's Protective Wards fail",
+          "description": "If the players have not restored the bones of St. Andral to St. Andral's Church, the church's protective wards fail at dawn.",
+          "date": {
+            "day": 7,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_e8da99a90a59",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc G - If the party haven't rescued her, Izek burns Ireena alive during the Festival of the Blazing Sun",
+          "description": "If Baron Vallakovich is still in power, Vallaki observes the Festival of the Blazing Sun in N8. Town Square (p. 119) as described in Festival of the Blazing Sun (p. 123). If Izek kidnapped Ireena in Arc G - The Strazni Siblings and the players haven't rescued her, she burns alive in the wicker sun at noon.",
+          "date": {
+            "day": 7,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_e84b584bdaf8",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc D - The Church Observes the Feast of St Andral",
+          "description": "At sundown, the parishioners of St. Andral's Church attend a service observing the holiday of St. Andral's Feast.\n\nIf the protective wards of St. Andral's Church have not been restored, Strahd's vampiric bride Volenta Popofsky attacks the church during the service, killing dozens of Vallakians and Baroness Lydia Petrovna.",
+          "date": {
+            "day": 7,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_19cb39cba8cb",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc D - If Arc D failed, consequences happen now ",
+          "description": "If the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in Arc D - St. Andral's Feast, an angry mob forms outside of Baron Vallakovich's manor. The hunter Szoldar Szoldarovich also finds Milivoj, the church groundskeeper, hanging from a tree outside Vallaki—dead by apparent suicide—and returns his body to his family.",
+          "date": {
+            "day": 8,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_c97968abcbb9",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc D - If Act D failed, Baron and his family and lynched and ousted from power.",
+          "description": "Shortly after sundown, if the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in Arc D - St. Andral's Feast, the angry mob assaults the manor, capturing the Baron and lynching him in the town square. Victor Vallakovich escapes, taking shelter in one of the abandoned houses abutting Vallaki's western walls. If he still lives, Izek Strazni also escapes, taking shelter in Q9. Servants' Quarters (p. 133) in Argynvostholt.",
+          "date": {
+            "day": 8,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_5a2818586a6b",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc H - The full moon rises ",
+          "description": "At sundown, the **full moon** rises over Vallaki. (Due to Barovia's strange cosmology, the next full moon will arrive just two weeks later.)",
+          "date": {
+            "day": 8,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_3b790bda5bdb",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Act II / Arc H - If Arc H failed, Stella's soul vanishes and Victor leaves for the Amber Temple",
+          "description": "If the players have not yet restored Stella Wachter's soul to her body, her spirit vanishes into the Ethereal Plane at dawn, and is reincarnated into a newborn infant in the village of Krezk. If he's still alive, a grieving Victor Vallakovich hears the call of an _amber shard_ buried in the cemetery of St. Andral's Church. Upon unearthing it, he travels to the Amber Temple in search of a means of restoring Stella to life.",
+          "date": {
+            "day": 9,
+            "month": 10,
+            "year": 735
+          },
+          "id": "ID_c959597858c8",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "id": "ID_7a195a5a58d9",
+      "categories": [
+        {
+          "name": "Natural Event",
+          "id": "natural-event",
+          "color": "#9e9d24"
+        }
+      ]
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_7a195a5a58d9",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}
