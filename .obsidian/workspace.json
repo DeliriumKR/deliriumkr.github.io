@@ -11,14 +11,10 @@
             "id": "9a96e43658b96766",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Barovia/Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Arc D - St. Andral's Feast"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barovia/Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arc D - St. Andral's Feast"
+              "title": "Outline"
             }
           },
           {
@@ -157,8 +152,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -167,8 +162,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -200,8 +195,28 @@
                 "id": "ID_c9f86b683b69",
                 "child": "ID_7afbe9c93aeb"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
+            }
+          },
+          {
+            "id": "df7f7a84b19d55d3",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "3ae951c1af480534",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -221,8 +236,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "9a96e43658b96766",
