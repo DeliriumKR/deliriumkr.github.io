@@ -253,348 +253,6 @@
       }
     ],
     [
-      "Zombie Plague Spreader",
-      {
-        "name": "Zombie Plague Spreader",
-        "source": "VRGR",
-        "size": "Medium",
-        "type": "undead",
-        "subtype": "zombie",
-        "alignment": "neutral evil",
-        "ac": 10,
-        "hp": 130,
-        "hit_dice": "12d8 + 72",
-        "speed": "30 ft.",
-        "stats": [
-          16,
-          10,
-          15,
-          3,
-          5,
-          5
-        ],
-        "damage_vulnerabilities": "",
-        "damage_resistances": "necrotic",
-        "damage_immunities": "poison",
-        "condition_immunities": "charmed, exhaustion, poisoned",
-        "senses": "darkvision 60 ft., passive Perception 7",
-        "languages": "understands the languages it knew in life but can't speak",
-        "cr": 4,
-        "bestiary": true,
-        "traits": [
-          {
-            "name": "Undead Fortitude",
-            "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Unusual Nature",
-            "desc": "The zombie doesn't require air, food, drink, or sleep.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Viral Aura",
-            "desc": "Any creature that starts its turn within 10 feet of the plague spreader must make a DC 12 Constitution saving throw. On a failed save, the creature is poisoned and can’t regain hit points until the end of its next turn. On a successful save, the creature is immune to this plague spreader’s Viral Aura for 24 hours.",
-            "attack_bonus": 0
-          }
-        ],
-        "actions": [
-          {
-            "name": "Multiattack",
-            "desc": "The plague spreader makes two Slam attacks.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Slam",
-            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 5 (1d8) necrotic damage.",
-            "attack_bonus": 5,
-            "damage_dice": "1d6",
-            "damage_bonus": 3
-          },
-          {
-            "name": "Virulent Miasma (1/Day)",
-            "desc": "The plague spreader releases toxic gas in a 30-foot-radius sphere centered on itself. Each creature in that area must make a DC 12 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.\nA humanoid reduced to 0 hit points by this damage doesn’t automatically die. However, if it dies before stabilizing or regaining hit points, it rises as a zombie (see the Monster Manual) 1 minute later. The DC for death saving throws made by such a creature to stabilize increases to 20. The new zombie acts immediately after the plague spreader in the initiative count.",
-            "attack_bonus": 0
-          }
-        ]
-      }
-    ],
-    [
-      "Rahadin, Castle Chamberlain",
-      {
-        "name": "Rahadin, Castle Chamberlain",
-        "source": "Custom",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "elf",
-        "alignment": "lawful evil",
-        "ac": "18 (studded leather)",
-        "hp": 180,
-        "hit_dice": "24d8 + 72",
-        "speed": "35 ft.",
-        "stats": [
-          14,
-          22,
-          17,
-          15,
-          16,
-          18
-        ],
-        "saves": [
-          {
-            "dexterity": 11
-          },
-          {
-            "wisdom": 8
-          }
-        ],
-        "skills": [
-          {
-            "Acrobatics": 11
-          },
-          {
-            "Deception": 9
-          },
-          {
-            "Insight": 8
-          },
-          {
-            "Intimidation": 14
-          },
-          {
-            "Perception": 13
-          },
-          {
-            "Stealth": 16
-          }
-        ],
-        "damage_vulnerabilities": "",
-        "damage_resistances": "",
-        "damage_immunities": "",
-        "condition_immunities": "",
-        "senses": "darkvision 60 ft., passive Perception 23",
-        "languages": "Common, Elvish",
-        "cr": 14,
-        "proficiency_bonus": 5,
-        "bestiary": true,
-        "traits": [
-          {
-            "name": "Screams of the Dead",
-            "desc": "Any creature within 10 feet of Rahadin that isn't protected by a *mind blank* spell hears in its mind the screams of the thousands of people Rahadin has killed.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Fey Ancestry",
-            "desc": "Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Innate Spellcasting",
-            "desc": "Rahadin's innate spellcasting ability is Intelligence (spell save DC 13). He can innately cast the following spells, requiring no components:\n  • 3/day: *phantom steed*\n  • 1/day: *nondetection*",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Mask of the Wild",
-            "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, or other natural phenomena.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Murderous Instinct",
-            "desc": "When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, Thorn and Chain. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.",
-            "attack_bonus": 0
-          }
-        ],
-        "actions": [
-          {
-            "name": "Multiattack",
-            "desc": "Rahadin makes two attacks.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Saber",
-            "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.",
-            "attack_bonus": 11,
-            "damage_dice": "1d8",
-            "damage_bonus": 6
-          },
-          {
-            "name": "Poisoned Dart",
-            "desc": "Ranged Weapon Attack: +11 to hit, range 20/60 ft., one target. Hit: 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.",
-            "attack_bonus": 11,
-            "damage_dice": "1d4",
-            "damage_bonus": 6
-          }
-        ],
-        "bonus_actions": [
-          {
-            "name": "Wind Strike",
-            "desc": "Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one."
-          },
-          {
-            "name": "Whirling Blades",
-            "desc": "Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one."
-          }
-        ],
-        "reactions": [
-          {
-            "name": "Multiple Reactions",
-            "desc": "Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead."
-          },
-          {
-            "name": "Indomitable",
-            "desc": "Trigger: A hostile creature ends its turn. Effect: Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)"
-          },
-          {
-            "name": "Punishing Strike",
-            "desc": "When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks."
-          },
-          {
-            "name": "Disarm",
-            "desc": "When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away."
-          },
-          {
-            "name": "Misty Step (1/round)",
-            "desc": "When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast *misty step*. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting *misty step* in this way."
-          },
-          {
-            "name": "Psychic Scream (1/day)",
-            "desc": "When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn."
-          }
-        ]
-      }
-    ],
-    [
-      "Rahadin, Kinslayer",
-      {
-        "name": "Rahadin, Kinslayer",
-        "source": "Custom",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "elf",
-        "alignment": "lawful evil",
-        "ac": "18 (studded leather)",
-        "hp": 180,
-        "hit_dice": "24d8 + 72",
-        "speed": "35 ft.",
-        "stats": [
-          14,
-          22,
-          17,
-          15,
-          16,
-          18
-        ],
-        "saves": [
-          {
-            "dexterity": 11
-          },
-          {
-            "wisdom": 8
-          }
-        ],
-        "skills": [
-          {
-            "Acrobatics": 11
-          },
-          {
-            "Deception": 9
-          },
-          {
-            "Insight": 8
-          },
-          {
-            "Intimidation": 14
-          },
-          {
-            "Perception": 13
-          },
-          {
-            "Stealth": 16
-          }
-        ],
-        "damage_vulnerabilities": "",
-        "damage_resistances": "",
-        "damage_immunities": "",
-        "condition_immunities": "",
-        "senses": "darkvision 60 ft., passive Perception 23",
-        "languages": "Common, Elvish",
-        "cr": 15,
-        "proficiency_bonus": 5,
-        "bestiary": true,
-        "traits": [
-          {
-            "name": "Screams of the Dead",
-            "desc": "Any creature within 10 feet of Rahadin that isn't protected by a *mind blank* spell hears in its mind the screams of the thousands of people Rahadin has killed.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Fey Ancestry",
-            "desc": "Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Mask of the Wild",
-            "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, or other natural phenomena.",
-            "attack_bonus": 0
-          }
-        ],
-        "actions": [
-          {
-            "name": "Multiattack",
-            "desc": "Rahadin makes three attacks with his scimitars Thorn and/or Chain. He can replace one attack with his Haunt feature.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Thorn",
-            "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.",
-            "attack_bonus": 11,
-            "damage_dice": "1d6",
-            "damage_bonus": 6
-          },
-          {
-            "name": "Chain",
-            "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.",
-            "attack_bonus": 11,
-            "damage_dice": "1d6",
-            "damage_bonus": 6
-          },
-          {
-            "name": "Haunt",
-            "desc": "Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.",
-            "attack_bonus": 0
-          }
-        ],
-        "bonus_actions": [
-          {
-            "name": "Deathly Choir",
-            "desc": "Each creature within 10 feet of Rahadin that isn't protected by a *mind blank* spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn."
-          },
-          {
-            "name": "Swift Step",
-            "desc": "Rahadin takes the Dash or Disengage action."
-          }
-        ],
-        "reactions": [
-          {
-            "name": "Multiple Reactions",
-            "desc": "Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead."
-          },
-          {
-            "name": "Indomitable",
-            "desc": "Trigger: A hostile creature ends its turn. Effect: Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)"
-          },
-          {
-            "name": "Parry",
-            "desc": "Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from *magic missile* this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker."
-          },
-          {
-            "name": "Riposte",
-            "desc": "When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with Thorn or Chain against that enemy with advantage."
-          }
-        ]
-      }
-    ],
-    [
       "Greater Strix",
       {
         "name": "Greater Strix",
@@ -702,172 +360,6 @@
             "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.",
             "attack_bonus": 4,
             "damage_dice": "2d6"
-          }
-        ]
-      }
-    ],
-    [
-      "The Bonegrinder Coven",
-      {
-        "name": "The Bonegrinder Coven",
-        "source": "Curse of Strahd: Reloaded",
-        "size": "Medium",
-        "type": "fiend",
-        "subtype": "Trio of three medium fiends",
-        "alignment": "neutral evil",
-        "ac": "17 (natural armor)",
-        "hp": 210,
-        "hit_dice": "28d8 + 84",
-        "speed": "30 ft.",
-        "stats": [
-          18,
-          15,
-          16,
-          18,
-          14,
-          16
-        ],
-        "skillsaves": {
-          "deception": 8,
-          "insight": 7,
-          "perception": 7,
-          "stealth": 7
-        },
-        "damage_resistances": [
-          "cold",
-          "fire",
-          "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
-        ],
-        "condition_immunities": [
-          "charmed"
-        ],
-        "senses": "darkvision 120 ft., passive Perception 16",
-        "languages": "Abyssal, Common, Infernal, Primordial",
-        "cr": "14, or 12 when fought with silvered weapons",
-        "bestiary": true,
-        "traits": [
-          {
-            "name": "Proficiency Bonus",
-            "desc": "+5",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Hag Coven",
-            "desc": "The coven includes three hags: Morgantha, Bella, and Offalia. A hag acts on her own initiative, keeps concentration and suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points. (If multiple hags take damage from the same source, the coven loses hit points that many times.)",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Magic Resistance",
-            "desc": "The coven has advantage on saving throws against spells and magical effects.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Spellcasting",
-            "desc": "The coven's spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks).",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Complex Casting",
-            "desc": "If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Second Phase",
-            "desc": "If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **The Nightmare Three**. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.",
-            "attack_bonus": 0
-          }
-        ],
-        "actions": [
-          {
-            "name": "Blindness/Deafness (Bella Only)",
-            "desc": "Bella casts blindness/deafness. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Putrid Radiance (Bella Only)",
-            "desc": "2nd-level necromancy, 30 feet. Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature in that area must succeed on a DC 17 Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Ray of Enfeeblement (Offalia Only)",
-            "desc": "Offalia casts ray of enfeeblement. A target takes an additional 9 (2d8) necrotic damage on a hit.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Acid Arrow (Offalia Only)",
-            "desc": "Offalia casts Melf's acid arrow.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Ray of Sickness (Morgantha Only)",
-            "desc": "Morgantha casts ray of sickness.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Withering Rot (Morgantha Only)",
-            "desc": "1st-level necromancy, 30 feet. Necromantic energy washes over a creature of Morgantha's choice within range, which must make a Constitution saving throw. The target takes 13 (3d8) necrotic damage on a failed save, or half as much on a successful one.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Claws (Any)",
-            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
-            "attack_bonus": 8,
-            "damage_dice": "2d8",
-            "damage_bonus": 4
-          }
-        ],
-        "bonus_actions": [
-          {
-            "name": "Crown of Madness (Bella Only)",
-            "desc": "Bella casts crown of madness. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success. Bella can use her bonus action to maintain control rather than her action.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Phantasmal Force (Bella Only)",
-            "desc": "Bella casts phantasmal force. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Cause Fear (Offalia Only)",
-            "desc": "Offalia casts cause fear at 2nd level. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Bestow Curse (Offalia Only)",
-            "desc": "Offalia casts bestow curse at 30 feet. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Hold Person (Morgantha Only)",
-            "desc": "Morgantha casts hold person at 3rd level. A target takes an additional 5 (2d4) necrotic damage if it fails the saving throw, or half damage on a success.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Lightning Bolt (Morgantha Only, Recharge 5-6)",
-            "desc": "Morgantha casts lightning bolt.",
-            "attack_bonus": 0
-          }
-        ],
-        "reactions": [
-          {
-            "name": "Spectral Shadows (Bella Only)",
-            "desc": "1st-level illusion, self. In response to being hit by an attack, Bella conjures two illusory duplicates. The attacker must roll a d6, hitting Bella on a 5–6 or hitting a duplicate otherwise.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Maniacal Mirth (Offalia Only)",
-            "desc": "1st-level enchantment, 30 feet. In response to taking damage from a creature she can see, Offalia forces that creature to make a DC 17 Wisdom saving throw. On a failure, it falls prone, becomes incapacitated, and laughs uncontrollably until the end of its next turn or until it takes damage.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Witchlight Arc (Morgantha Only)",
-            "desc": "1st-level evocation, 30 feet. In response to taking damage from a creature she can see, Morgantha forces that creature to make a DC 17 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, a crackling arc connects Morgantha and the attacker until the start of her next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount.",
-            "attack_bonus": 0
-          },
-          {
-            "name": "Misty Step (Any)",
-            "desc": "In response to taking damage, a hag can use her reaction to cast misty step.",
-            "attack_bonus": 0
           }
         ]
       }
@@ -1025,158 +517,6 @@
             "attack_bonus": 0
           }
         ]
-      }
-    ],
-    [
-      "Stumpfoot",
-      {
-        "name": "Stumpfoot",
-        "level": 3,
-        "source": "Player",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "Tortle",
-        "alignment": "Lawful Good",
-        "ac": 14,
-        "hp": 27,
-        "hit_dice": "3d12",
-        "speed": "30 ft.",
-        "stats": [
-          10,
-          12,
-          13,
-          12,
-          15,
-          11
-        ],
-        "saves": [
-          {
-            "strength": 3
-          }
-        ],
-        "damage_vulnerabilities": "",
-        "damage_resistances": "Bludgeoning, Slashing, and Piercing while raging",
-        "damage_immunities": "",
-        "condition_immunities": "",
-        "senses": "passive Perception 14",
-        "languages": "Druidic plus any two languages",
-        "cr": "3",
-        "bestiary": true,
-        "player": true
-      }
-    ],
-    [
-      "Sir Gus Gus",
-      {
-        "name": "Sir Gus Gus",
-        "level": 3,
-        "source": "Player",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "Goliath",
-        "alignment": "Lawful Good",
-        "ac": 14,
-        "hp": 27,
-        "hit_dice": "3d12",
-        "speed": "30 ft.",
-        "stats": [
-          10,
-          12,
-          13,
-          12,
-          15,
-          11
-        ],
-        "saves": [
-          {
-            "strength": 3
-          }
-        ],
-        "damage_vulnerabilities": "",
-        "damage_resistances": "Bludgeoning, Slashing, and Piercing while raging",
-        "damage_immunities": "",
-        "condition_immunities": "",
-        "senses": "passive Perception 14",
-        "languages": "Druidic plus any two languages",
-        "cr": "3",
-        "bestiary": true,
-        "player": true
-      }
-    ],
-    [
-      "Valeria",
-      {
-        "name": "Valeria",
-        "level": 3,
-        "source": "Player",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "Half Elf (Drow)",
-        "alignment": "Lawful Good",
-        "ac": 14,
-        "hp": 27,
-        "hit_dice": "3d12",
-        "speed": "30 ft.",
-        "stats": [
-          10,
-          12,
-          13,
-          12,
-          15,
-          11
-        ],
-        "saves": [
-          {
-            "strength": 3
-          }
-        ],
-        "damage_vulnerabilities": "",
-        "damage_resistances": "Bludgeoning, Slashing, and Piercing while raging",
-        "damage_immunities": "",
-        "condition_immunities": "",
-        "senses": "passive Perception 14",
-        "languages": "Druidic plus any two languages",
-        "cr": "3",
-        "bestiary": true,
-        "player": true
-      }
-    ],
-    [
-      "Scarlet",
-      {
-        "name": "Scarlet",
-        "level": 3,
-        "source": "Player",
-        "size": "Medium",
-        "type": "humanoid",
-        "subtype": "Aasimar",
-        "alignment": "Lawful Good",
-        "ac": 14,
-        "hp": 27,
-        "hit_dice": "3d12",
-        "speed": "30 ft.",
-        "stats": [
-          10,
-          12,
-          13,
-          12,
-          15,
-          11
-        ],
-        "saves": [
-          {
-            "strength": 3
-          }
-        ],
-        "damage_vulnerabilities": "",
-        "damage_resistances": "Bludgeoning, Slashing, and Piercing while raging",
-        "damage_immunities": "",
-        "condition_immunities": "",
-        "senses": "passive Perception 14",
-        "languages": "Druidic plus any two languages",
-        "cr": "3",
-        "bestiary": true,
-        "player": true
       }
     ],
     [
@@ -2451,6 +1791,739 @@
           {
             "name": "Animated Attack",
             "desc": "If the broom is motionless and a creature grabs hold of it, the broom makes a Dexterity check contested by the creature's Strength check. If the broom wins the contest, it flies out of the creature's grasp and makes a melee attack against it with advantage on the attack roll.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "Father Lucian",
+      {
+        "name": "Father Lucian",
+        "source": "5e SRD",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Human",
+        "alignment": "Lawful Good",
+        "ac": 13,
+        "hp": 27,
+        "hit_dice": "5d8 + 4",
+        "speed": "25 ft.",
+        "stats": [
+          10,
+          10,
+          12,
+          13,
+          16,
+          13
+        ],
+        "skillsaves": [
+          {
+            "medicine": 7
+          },
+          {
+            "persuasion": 3
+          },
+          {
+            "religion": 4
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 13",
+        "languages": "any two languages",
+        "cr": "3",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Divine Eminence",
+            "desc": "As a reaction when he sees another creature within 30 feet hit with a weapon attack, Father Lucian can expend a spell slot to cause that attack to magically deal an extra 10 (3d6) radiant damage to a target on a hit. If Father Lucian expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.",
+            "attack_bonus": 0,
+            "damage_dice": "3d6"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Mace",
+            "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage.",
+            "attack_bonus": 2,
+            "damage_dice": "1d6"
+          }
+        ],
+        "spells": [
+          "Father Lucian is a 5th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). Father Lucian has the following cleric spells prepared:",
+          {
+            "Cantrips (at will)": "light, sacred flame, thaumaturgy"
+          },
+          {
+            "1st level (4 slots)": "cure wounds, guiding bolt, sanctuary"
+          },
+          {
+            "2nd level (3 slots)": "lesser restoration, spiritual weapon"
+          },
+          {
+            "3rd level (2 slots)": "dispel magic, spirit guardians"
+          }
+        ]
+      }
+    ],
+    [
+      "Sir Gus Gus",
+      {
+        "name": "Sir Gus Gus",
+        "level": 3,
+        "source": "Player",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Goliath Oathbreaker Paladin",
+        "alignment": "Lawful Good",
+        "ac": 14,
+        "hp": 27,
+        "hit_dice": "3d12",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          12,
+          13,
+          12,
+          15,
+          11
+        ],
+        "saves": [
+          {
+            "strength": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 14",
+        "languages": "Common",
+        "cr": "3",
+        "bestiary": true,
+        "player": true
+      }
+    ],
+    [
+      "Valeria",
+      {
+        "name": "Valeria",
+        "level": 3,
+        "source": "Player",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Half Elf (Drow) Warlock",
+        "alignment": "Lawful Good",
+        "ac": 14,
+        "hp": 27,
+        "hit_dice": "3d12",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          12,
+          13,
+          12,
+          15,
+          11
+        ],
+        "saves": [
+          {
+            "strength": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 14",
+        "languages": "Common",
+        "cr": "3",
+        "bestiary": true,
+        "player": true
+      }
+    ],
+    [
+      "Scarlet",
+      {
+        "name": "Scarlet",
+        "level": 3,
+        "source": "Player",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Aasimar Zealot Barbarian",
+        "alignment": "Lawful Good",
+        "ac": 14,
+        "hp": 27,
+        "hit_dice": "3d12",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          12,
+          13,
+          12,
+          15,
+          11
+        ],
+        "saves": [
+          {
+            "strength": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "Bludgeoning, Slashing, and Piercing while raging",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 14",
+        "languages": "Common",
+        "cr": "3",
+        "bestiary": true,
+        "player": true
+      }
+    ],
+    [
+      "Stumpfoot",
+      {
+        "name": "Stumpfoot",
+        "level": 3,
+        "source": "Player",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "Tortle Lore Bard",
+        "alignment": "Lawful Good",
+        "ac": 14,
+        "hp": 27,
+        "hit_dice": "3d12",
+        "speed": "30 ft.",
+        "stats": [
+          10,
+          12,
+          13,
+          12,
+          15,
+          11
+        ],
+        "saves": [
+          {
+            "strength": 3
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "passive Perception 14",
+        "languages": "Common",
+        "cr": "3",
+        "bestiary": true,
+        "player": true
+      }
+    ],
+    [
+      "Rahadin, Kinslayer",
+      {
+        "name": "Rahadin, Kinslayer",
+        "source": "5e CoSR",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "elf",
+        "alignment": "lawful evil",
+        "ac": "18 (studded leather)",
+        "hp": 180,
+        "hit_dice": "24d8 + 72",
+        "speed": "35 ft.",
+        "stats": [
+          14,
+          22,
+          17,
+          15,
+          16,
+          18
+        ],
+        "saves": [
+          {
+            "dexterity": 11
+          },
+          {
+            "wisdom": 8
+          }
+        ],
+        "skills": [
+          {
+            "Acrobatics": 11
+          },
+          {
+            "Deception": 9
+          },
+          {
+            "Insight": 8
+          },
+          {
+            "Intimidation": 14
+          },
+          {
+            "Perception": 13
+          },
+          {
+            "Stealth": 16
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 23",
+        "languages": "Common, Elvish",
+        "cr": 15,
+        "proficiency_bonus": 5,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Screams of the Dead",
+            "desc": "Any creature within 10 feet of Rahadin that isn't protected by a *mind blank* spell hears in its mind the screams of the thousands of people Rahadin has killed.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Fey Ancestry",
+            "desc": "Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Mask of the Wild",
+            "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, or other natural phenomena.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Rahadin makes three attacks with his scimitars Thorn and/or Chain. He can replace one attack with his Haunt feature.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Thorn",
+            "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.",
+            "attack_bonus": 11,
+            "damage_dice": "1d6",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Chain",
+            "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.",
+            "attack_bonus": 11,
+            "damage_dice": "1d6",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Haunt",
+            "desc": "Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.",
+            "attack_bonus": 0
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Deathly Choir",
+            "desc": "Each creature within 10 feet of Rahadin that isn't protected by a *mind blank* spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn."
+          },
+          {
+            "name": "Swift Step",
+            "desc": "Rahadin takes the Dash or Disengage action."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Multiple Reactions",
+            "desc": "Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead."
+          },
+          {
+            "name": "Indomitable",
+            "desc": "Trigger: A hostile creature ends its turn. Effect: Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)"
+          },
+          {
+            "name": "Parry",
+            "desc": "Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from *magic missile* this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker."
+          },
+          {
+            "name": "Riposte",
+            "desc": "When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with Thorn or Chain against that enemy with advantage."
+          }
+        ]
+      }
+    ],
+    [
+      "Rahadin, Castle Chamberlain",
+      {
+        "name": "Rahadin, Castle Chamberlain",
+        "source": "5e CoSR",
+        "size": "Medium",
+        "type": "humanoid",
+        "subtype": "elf",
+        "alignment": "lawful evil",
+        "ac": "18 (studded leather)",
+        "hp": 180,
+        "hit_dice": "24d8 + 72",
+        "speed": "35 ft.",
+        "stats": [
+          14,
+          22,
+          17,
+          15,
+          16,
+          18
+        ],
+        "saves": [
+          {
+            "dexterity": 11
+          },
+          {
+            "wisdom": 8
+          }
+        ],
+        "skills": [
+          {
+            "Acrobatics": 11
+          },
+          {
+            "Deception": 9
+          },
+          {
+            "Insight": 8
+          },
+          {
+            "Intimidation": 14
+          },
+          {
+            "Perception": 13
+          },
+          {
+            "Stealth": 16
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "darkvision 60 ft., passive Perception 23",
+        "languages": "Common, Elvish",
+        "cr": 14,
+        "proficiency_bonus": 5,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Screams of the Dead",
+            "desc": "Any creature within 10 feet of Rahadin that isn't protected by a *mind blank* spell hears in its mind the screams of the thousands of people Rahadin has killed.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Fey Ancestry",
+            "desc": "Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Innate Spellcasting",
+            "desc": "Rahadin's innate spellcasting ability is Intelligence (spell save DC 13). He can innately cast the following spells, requiring no components:\n  • 3/day: *phantom steed*\n  • 1/day: *nondetection*",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Mask of the Wild",
+            "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, or other natural phenomena.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Murderous Instinct",
+            "desc": "When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, Thorn and Chain. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Rahadin makes two attacks.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Saber",
+            "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.",
+            "attack_bonus": 11,
+            "damage_dice": "1d8",
+            "damage_bonus": 6
+          },
+          {
+            "name": "Poisoned Dart",
+            "desc": "Ranged Weapon Attack: +11 to hit, range 20/60 ft., one target. Hit: 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.",
+            "attack_bonus": 11,
+            "damage_dice": "1d4",
+            "damage_bonus": 6
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Wind Strike",
+            "desc": "Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one."
+          },
+          {
+            "name": "Whirling Blades",
+            "desc": "Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Multiple Reactions",
+            "desc": "Rahadin can take up to three reactions per round, though no more than one per turn. If Rahadin would lose his reactions, he loses one reaction instead."
+          },
+          {
+            "name": "Indomitable",
+            "desc": "Trigger: A hostile creature ends its turn. Effect: Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)"
+          },
+          {
+            "name": "Punishing Strike",
+            "desc": "When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks."
+          },
+          {
+            "name": "Disarm",
+            "desc": "When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away."
+          },
+          {
+            "name": "Misty Step (1/round)",
+            "desc": "When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast *misty step*. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting *misty step* in this way."
+          },
+          {
+            "name": "Psychic Scream (1/day)",
+            "desc": "When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn."
+          }
+        ]
+      }
+    ],
+    [
+      "The Bonegrinder Coven",
+      {
+        "name": "The Bonegrinder Coven",
+        "source": "5e CoSR",
+        "size": "Medium",
+        "type": "fiend",
+        "subtype": "Trio of three medium fiends",
+        "alignment": "neutral evil",
+        "ac": "17 (natural armor)",
+        "hp": 210,
+        "hit_dice": "28d8 + 84",
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          15,
+          16,
+          18,
+          14,
+          16
+        ],
+        "skillsaves": {
+          "deception": 8,
+          "insight": 7,
+          "perception": 7,
+          "stealth": 7
+        },
+        "damage_resistances": [
+          "cold",
+          "fire",
+          "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+        ],
+        "condition_immunities": [
+          "charmed"
+        ],
+        "senses": "darkvision 120 ft., passive Perception 16",
+        "languages": "Abyssal, Common, Infernal, Primordial",
+        "cr": "14, or 12 when fought with silvered weapons",
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Proficiency Bonus",
+            "desc": "+5",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Hag Coven",
+            "desc": "The coven includes three hags: Morgantha, Bella, and Offalia. A hag acts on her own initiative, keeps concentration and suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points. (If multiple hags take damage from the same source, the coven loses hit points that many times.)",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "The coven has advantage on saving throws against spells and magical effects.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The coven's spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks).",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Complex Casting",
+            "desc": "If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Second Phase",
+            "desc": "If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **The Nightmare Three**. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Blindness/Deafness (Bella Only)",
+            "desc": "Bella casts blindness/deafness. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Putrid Radiance (Bella Only)",
+            "desc": "2nd-level necromancy, 30 feet. Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature in that area must succeed on a DC 17 Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Ray of Enfeeblement (Offalia Only)",
+            "desc": "Offalia casts ray of enfeeblement. A target takes an additional 9 (2d8) necrotic damage on a hit.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Acid Arrow (Offalia Only)",
+            "desc": "Offalia casts Melf's acid arrow.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Ray of Sickness (Morgantha Only)",
+            "desc": "Morgantha casts ray of sickness.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Withering Rot (Morgantha Only)",
+            "desc": "1st-level necromancy, 30 feet. Necromantic energy washes over a creature of Morgantha's choice within range, which must make a Constitution saving throw. The target takes 13 (3d8) necrotic damage on a failed save, or half as much on a successful one.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Claws (Any)",
+            "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
+            "attack_bonus": 8,
+            "damage_dice": "2d8",
+            "damage_bonus": 4
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Crown of Madness (Bella Only)",
+            "desc": "Bella casts crown of madness. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success. Bella can use her bonus action to maintain control rather than her action.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Phantasmal Force (Bella Only)",
+            "desc": "Bella casts phantasmal force. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Cause Fear (Offalia Only)",
+            "desc": "Offalia casts cause fear at 2nd level. A target takes an additional 5 (2d4) psychic damage if it fails the saving throw, or half damage on a success.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Bestow Curse (Offalia Only)",
+            "desc": "Offalia casts bestow curse at 30 feet. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Hold Person (Morgantha Only)",
+            "desc": "Morgantha casts hold person at 3rd level. A target takes an additional 5 (2d4) necrotic damage if it fails the saving throw, or half damage on a success.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Lightning Bolt (Morgantha Only, Recharge 5-6)",
+            "desc": "Morgantha casts lightning bolt.",
+            "attack_bonus": 0
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Spectral Shadows (Bella Only)",
+            "desc": "1st-level illusion, self. In response to being hit by an attack, Bella conjures two illusory duplicates. The attacker must roll a d6, hitting Bella on a 5–6 or hitting a duplicate otherwise.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Maniacal Mirth (Offalia Only)",
+            "desc": "1st-level enchantment, 30 feet. In response to taking damage from a creature she can see, Offalia forces that creature to make a DC 17 Wisdom saving throw. On a failure, it falls prone, becomes incapacitated, and laughs uncontrollably until the end of its next turn or until it takes damage.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Witchlight Arc (Morgantha Only)",
+            "desc": "1st-level evocation, 30 feet. In response to taking damage from a creature she can see, Morgantha forces that creature to make a DC 17 Constitution saving throw or take 6 (1d12) lightning damage. On a failure, a crackling arc connects Morgantha and the attacker until the start of her next turn. While the arc lasts, Morgantha has resistance to all damage, and each time she takes damage, the connected creature takes the same amount.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Misty Step (Any)",
+            "desc": "In response to taking damage, a hag can use her reaction to cast misty step.",
+            "attack_bonus": 0
+          }
+        ]
+      }
+    ],
+    [
+      "Zombie Plague Spreader",
+      {
+        "name": "Zombie Plague Spreader",
+        "source": "5e VRGR",
+        "size": "Medium",
+        "type": "undead",
+        "subtype": "zombie",
+        "alignment": "neutral evil",
+        "ac": 10,
+        "hp": 130,
+        "hit_dice": "12d8 + 72",
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          10,
+          15,
+          3,
+          5,
+          5
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "necrotic",
+        "damage_immunities": "poison",
+        "condition_immunities": "charmed, exhaustion, poisoned",
+        "senses": "darkvision 60 ft., passive Perception 7",
+        "languages": "understands the languages it knew in life but can't speak",
+        "cr": 4,
+        "bestiary": true,
+        "traits": [
+          {
+            "name": "Undead Fortitude",
+            "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Unusual Nature",
+            "desc": "The zombie doesn't require air, food, drink, or sleep.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Viral Aura",
+            "desc": "Any creature that starts its turn within 10 feet of the plague spreader must make a DC 12 Constitution saving throw. On a failed save, the creature is poisoned and can’t regain hit points until the end of its next turn. On a successful save, the creature is immune to this plague spreader’s Viral Aura for 24 hours.",
+            "attack_bonus": 0
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The plague spreader makes two Slam attacks.",
+            "attack_bonus": 0
+          },
+          {
+            "name": "Slam",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 5 (1d8) necrotic damage.",
+            "attack_bonus": 5,
+            "damage_dice": "1d6",
+            "damage_bonus": 3
+          },
+          {
+            "name": "Virulent Miasma (1/Day)",
+            "desc": "The plague spreader releases toxic gas in a 30-foot-radius sphere centered on itself. Each creature in that area must make a DC 12 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one.\nA humanoid reduced to 0 hit points by this damage doesn’t automatically die. However, if it dies before stabilizing or regaining hit points, it rises as a zombie (see the Monster Manual) 1 minute later. The DC for death saving throws made by such a creature to stabilize increases to 20. The new zombie acts immediately after the plague spreader in the initiative count.",
             "attack_bonus": 0
           }
         ]

@@ -156,7 +156,7 @@ Strahd commands a vast host of beasts, undead, and other minions, which he can d
 - **_Undead servants,_** including **zombies**, **Strahd zombies**, and **wights**
 - **_Loyal beasts,_** including Barovian bats, rats, wolves, and **dire wolves**
 - **_The werewolf pack_** commanded by [[Kiril Stoyanovich]]
-- **_Vistani spies_**, including Eliza (at [[Arc C - Into the Valley#C4. Tser Pool|Tser Pool]] Encampment) and [[Arrigal]] (at the Vallaki encampment)
+- **_Vistani spies_**, including [[Eliza]] (at [[Arc C - Into the Valley#C4. Tser Pool|Tser Pool]] Encampment) and [[Arrigal]] (at the Vallaki encampment)
 - **_The witches’ coven_** that dwells in [[Castle Ravenloft]]
 
 However, Strahd **always faces the final battle alone.** Whether by pride, fate, or mere coincidence, this fight is his to win—or lose.

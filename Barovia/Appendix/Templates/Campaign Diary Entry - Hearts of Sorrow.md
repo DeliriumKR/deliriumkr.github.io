@@ -3,13 +3,17 @@
 
 ## Player Feedback
 ---
+### Kero - 
+
+### Myles - 
+
+### Nauey - 
+
+### Sejjo - 
+
 ### Sophie - 
 
 ### Will - 
-### Nauey - 
-### Sejjo - 
-### Myles - 
-### Kero - 
 ## Recap
 ---
 ## Next Session Intro

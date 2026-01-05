@@ -32,5 +32,5 @@ aliases:
 
 > [!combat]- Father Lucian Petrovich - Statistics
 > ```statblock
-> creature: Priest
+> creature: Father Lucian
 > ```

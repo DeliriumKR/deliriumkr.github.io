@@ -109,7 +109,6 @@ Invite each player in turn to describe their character's appearance and countena
 > - **_Angel's Feather._** The feather lands gently on the porch of the building before you, its gentle radiance in stark contrast with the building.
 > - **_Raven's Feather._** The feather lands gently on the porch of the building before you, the scent of rain still heavy around it.
 > - **_Wanderer's Scarf._** The scarf lands gently on the porch of the building before you, its shifting patterns slowing as if it waits for you.
-
 ### Main Hall (2a)
 
 > [!summary]- Main Hall - Quick Reference
@@ -214,7 +213,6 @@ When the clock strikes midnight, the **flesh mound** in the **Ritual Chamber*
 > All windowed rooms give a view of the tendrils, along with the balcony's found in [[#Balcony (11)]] and [[#Nursemaid's Suite (15)]]
 
 Characters who search the walls for secret doors or otherwise inspect the panelling can, with a successful DC 12 Wisdom (Perception) check, see serpents and skulls inconspicuously woven into the wall designs. A Windmill is carved lovingly at the centre of the north wall. The decorative panelling follows the staircase as it circles upward to the second floor.
-
 ## A2b. The First Floor
 --- 
 ### Cloakroom (2b)
@@ -236,7 +234,7 @@ Characters who search the walls for secret doors or otherwise inspect the panell
 A cloakroom (area 2B) has several black cloaks hanging from hooks on the walls.
 A **top hat** sits on a high shelf, and an envelope pokes slightly from the pockets of one of the cloaks. The Envelope is addressed to Lady Lovina Wachter.
 
-> [!item]- Durst Top Hat
+> [!item]- 
 > Mundane, Adventuring Gear
 > 
 > A worn, yet dashing, top hat covered in a thin layer of dust. Once a symbol of high society, a spider has now taken up residency inside it.
@@ -263,7 +261,6 @@ A **top hat** sits on a high shelf, and an envelope pokes slightly from the pock
 > 
 > _Dinner and refreshments to be served._
 > ^83de37
-
 ### Den of Wolves (3)
 
 > [!summary]- Den of Wolves - Quick Reference
@@ -419,7 +416,6 @@ The silverware tarnishes, the crystal cracks, the portrait fades, and the tapest
 
 > [!warning]- Design Notes: The Dining Room
 > The feast in the dining room has been made intentionally harmless in order to encourage the players to trust the safety of [[Strahd von Zarovich|Strahd]]'s dinner invitation when they later receive it.
-
 ### Kitchen and Pantry (4)
 
 
@@ -442,7 +438,6 @@ The copper pot contains:
 The dumbwaiter is behind a small door in the southwest corner. A 2-foot-wide stone shaft containing a wooden elevator box attached to a simple rope-and-pulley mechanism that must be operated manually. The shaft connects to [[#Servants' Room (7)]] and 12A (the master bedroom). Hanging on the wall next to the dumbwaiter is a tiny brass bell attached by wires to buttons in those other areas.
 
 A Small character can squeeze into the elevator box with a successful DC 10 Dexterity (Acrobatics) check. The dumbwaiter's rope-and-pulley mechanism can support 200 pounds of weight before breaking.
-
 ## A2c. The Second Floor
 ---
 ### Upper Hall (6)
@@ -484,7 +479,6 @@ A Small character can squeeze into the elevator box with a successful DC 10 Dext
 Close inspection of the carvings of the wall and a successful DC 12 Wisdom (Perception) check reveals that the youths aren't really dancing but fighting off swarms of bats.
 
 A cold draft can be felt coming down the steps from the floor above.
-
 ### Servants' Room (7)
 
 > [!cutscene] When the player's enter, read:
@@ -499,7 +493,6 @@ Tidy servants' uniforms hang from hooks in the closet (area 7b.)
 The basket contains a man's laundry, including fine suits, tunics, neckties, pants, and stockings. However, a single, much-smaller woman's slip appears to have been mixed in with the rest.
 
 The dumbwaiter in the corner of the west wall has a button on the wall next to it. Pressing the button rings a tiny bell in the [[#Kitchen and Pantry (4)]].
-
 ### Conservatory (10)
 
 > [!summary]- Conservatory - Quick Reference
@@ -555,7 +548,6 @@ The player that played *Waltz for Klara* feels a compulsion to pick it back up.
 >  ^1b3641
 
 Playing Waltz for Klara also causes the bookshelf—**not the secret door behind it**—in the [[#Library (8)]] to swing open, exposing the locked secret door beyond. (The scraping sound is the sound of the bookshelf scraping against the floor.)
-
 ### Library (8)
 
 > [!summary]- Library - Quick Reference
@@ -624,7 +616,7 @@ The door cannot be opened unless the amber shard from the Master Suite is placed
 > 	- N/A
 
 > [!cutscene] When the players enter, read:
-> This small hidden room is packed with bookshelves groaning with old and ominous-looking leather-bound tomes. A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest, its ribs and head caught beneath the lid, is a skeleton clad in faded bardic clothes in leather armour. An ornate lute with two of its strings snapped lies next to it covered in a thin layer of dust.
+> This small hidden room is packed with bookshelves groaning with old and ominous-looking leather-bound tomes. A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest, its ribs and head caught beneath the lid, is a skeleton clad in faded bardic clothes over leather armour. An ornate lute with two of its strings snapped lies next to it covered in a thin layer of dust.
 
 Close inspection reveals that the skeleton belongs to a Tabaxi Bard who triggered a poisoned dart trap. Three darts are stuck in the dead adventurer's armour and ribcage. The dart-firing mechanism inside the chest no longer functions.
 
@@ -632,7 +624,7 @@ The players may recognise the skeleton as Ugi.
 
 Clutched in the skeleton's left hand is a letter bearing the seal of [[Strahd von Zarovich]], which the adventurer tried to remove from the chest.
 
-> [!Handout]- Letter from [[Strahd von Zarovich]]
+> [!Handout]- Letter from Strahd von Zarovich
 > My most pathetic servant,
 > 
 > I am not a messiah sent to you by the Dark Powers of this land. I have not come to lead you on a path to immortality. However many souls you have bled on your hidden altar, however many visitors you have tortured in your dungeon, know that you are not the one who brought me to this beautiful land. You are but a worm writhing in my earth.
@@ -931,10 +923,8 @@ The spirit can neither speak aloud nor exit the mirror. However, it shows no hos
 If the players ask the spirit for aid in reaching the basement or finding the “monster,” the spirit steps aside—vanishing from sight—and the secret door behind the mirror slowly swings open. The spirit does not return.
 
 Characters who inspect the mirror notice its ornate wooden frame carved to look like ivy and berries. With a successful DC 10 Perception check, they also notice eyeballs among the berries.
-
 ## A2e. The Attic
 ---
-
 ### Attic Hall (16)
 
 > [!cutscene] When the players ascend into the attic here, read:
@@ -945,7 +935,6 @@ Characters who inspect the mirror notice its ornate wooden frame carved to look 
 The door in question leads into the [[#Spare Bedroom (17)]].
 
 The door to [[#Children's Room (20)]] is held shut with a padlock. Its key is kept in the [[#Spare Bedroom (17)]], but the lock can also be picked with thieves' tools and a successful DC 15 Dexterity check.
-
 ### Spare Bedroom (17)
 
 > [!summary]- Spare Bedroom - Quick Reference
@@ -1557,11 +1546,15 @@ The portcullis that can be forcibly lifted with a successful DC 20 Strength (A
 The water is 2ft deep and is difficult terrain for Medium creatures or smaller. Climbing from the pool to the ledges also counts as difficult terrain.
 
 > [!cutscene] When the players enter, read:
-> The smooth masonry walls of this forty-foot-square room provide excellent acoustics. Featureless stone pillars support the ceiling, and murky water covers most of the floor. Stairs lead up to dry stone ledges that hug the walls. In the middle of the room, more stairs rise to form an octagonal dais that also rises above the water. Rusty chains with shackles dangle from the ceiling directly above a stone altar mounted on the dais. The altar is carved with hideous depictions of grasping ghouls and is stained with dry blood. A small, white bundle lies atop it, surrounded by pulsating, fleshy tendrils.
+> The smooth masonry walls of this forty-foot-square room provide excellent acoustics. Featureless stone pillars support the ceiling, and murky water covers most of the floor. Stairs lead up to dry stone ledges that hug the walls. A thick mound of blackened ash sits undisturbed in the north western corner of the stone ledge, spilling from what you assume to be the torn remains of a child's doll hastily stitched to resemble a chibi Blue Dragonborn.
+> 
+> In the middle of the room, more stairs rise to form an octagonal dais that also rises above the water. Rusty chains with shackles dangle from the ceiling directly above a stone altar mounted on the dais. The altar is carved with hideous depictions of grasping ghouls and is stained with dry blood. A small, white bundle lies atop it, surrounded by pulsating, fleshy tendrils.
 > 
 > The tendrils run to a breach in the far wall that leads to a dark cave, their fleshy masses connecting to a dark, hulking shadow that lies within, its bloated mass rising and falling with a slow, shuddering rhythm.
 > 
 > As soon as you step foot into the chamber, the ghostly chanting you've heard suddenly falls silent.
+
+If asked, neither [[Rosavalda Durst|Rose]], nor [[Thornboldt Durst|Thorn]], recognise the doll. Closer inspection, reveals the eyes of the doll mysteriously track the creature closest to it. A successful DC 12 Wisdom (Medicine) check reveals that the eyes are real, plucked from a Dragonborn, and have been encased in a resin that has preserved them. This small object pays no relation to anything else in the campaign, and is a small homage to Jazza (Nauey's Character) and Severa (Myles' Character.)
 
 A player that approaches the altar sees that the words "FEED HIM" are carved into its flat stone surface just below the white bundle, surrounded by several fleshy tendrils inset with human teeth. The tendrils belong to the **flesh mound** (see below).
 
@@ -1710,8 +1703,12 @@ Give the players a chance to react.
 
 > [!cutscene] If the players enter the tower, read:
 > The floor of the tower is made of packed earth. Built into the inside walls of the tower, small window slits allow a view of the dreary outside.
+> 
+> A scattering of three eroded headstones lean against the tower's eastern side, marking the graves of folks long passed. Pockets of moss dot their surfaces, the stone slick with drizzled rain that continues overhead. A rusted flail sits half buried into the settled dirt of the grave closest to you, as if laid to rest with the deceased long ago.
 
 The players can easily surmise that this ruin appears to be a safe place to spend the night. [[Rosavalda Durst|Rose]] and [[Thornboldt Durst|Thorn]] offer to serve as sentries while the players rest, watching the woods and awakening the players should any threats emerge.
+
+If the players investigate the graves beside the tower,
 
 The night passes without issue. When the players awaken the following morning, [[Rosavalda Durst|Rose]] and [[Thornboldt Durst|Thorn]] ask the players if they can bury their remains before proceeding any further, so that they can finally rest. (The children's spirits will not proceed further into Barovia, instead pleading for the players to allow them to rest.) If the players bury their remains here, the children’s spirits thank them before vanishing.
 
@@ -1796,9 +1793,9 @@ Come early morning, [[James]] began his journey to [[The Town of Vallaki|Vallaki
 Unbeknownst to [[Stumpfoot]], the Scarf around his neck has a sense of pseudo-sentiency (think the flying carpet from Aladdin.)
 
 The scarf is originally a Vistani Raunie Scarf, given as a gift to Vistana that split from a Caravan to signify that they're creating their own. This scarf is then kept by the Vistana, who becomes the Caravan's Raunie. Raunie Scarf's are typically passed down to new elders over generations, with each Raunie weaving their own coloured thread into the scarf.
-Each Vistani Caravan will have an Raunie Scarf. The more intricate the design is, the older and typically more established that caravan is.
+All Vistani Caravan will have an Raunie Scarf; the more intricate the design is, the older and typically more established that caravan is.
 
-The Vistani Raunie Scarf that [[Stumpfoot]] possesses was a gift from the Raunie of the Radanavich Caravan at the time, to a Vistana known as Beatrice Radanavich, a Bard with the gift of a Vistani Seer.
+The Vistani Raunie Scarf that [[Stumpfoot]] possesses was a gift from the Raunie of the Radanavich Caravan at the time, to a Vistana known as Beatrice Radanavich, a Bard with the gift of [[the Sight]]
 Despite not being directly involved with it, Beatrice had always loathed her family's alliance with Baron Metus, who she viewed as a vile monster, but loyalty to her Caravan and Raunie, Madame Irene Radanavich, prevented her from taking action.
 However when Beatrice awakened to her Seer power, she knew the rest of the Caravan would force her hand to participate in the Baron's plans and worse, would never let her leave. And so she hid her nature, eventually leaving the Radanavich's to forge her own Caravan.
 She established the Caravan name Radanya, before joining Wizwail's Carnival of Cryptoids & Quacks as "Madame Radanya, the Siren Songstress."
@@ -1807,11 +1804,11 @@ Specializing in Musical & Storytelling Performances, Madame Radanya became well 
 After finding [[Stumpfoot]] and taking him in, Madame Radanya performed the Blood Rite with him to make him a Radanya, although due to his age at the time [[Stumpfoot]] doesn't remember. It was at this point that [[Stumpfoot]] inherited the blood of a Vistani Seer.
 She then began raising him, teaching him whatever he needed to know.
 
-After [[Stumpfoot]] had been travelling with the Carnival for some time, the group stopped in a backwater village preparing the perform. The first evening they were there, the undead rose from their graves and began attacking the village to get to the Carnival. Unbeknownst to [[Stumpfoot]], the undead were desperately trying to get to Madame Radanya to complete the curse put on her family blood the previous night (see [[Dr. Rudolph van Richten]]'s Curse on the Radanavich's.)
+After [[Stumpfoot]] had been travelling with the Carnival for some time, the group stopped in a backwater village preparing to perform. The first evening they were there, the undead rose from their graves and began attacking the village to get to the Carnival. Unbeknownst to [[Stumpfoot]], the undead were desperately trying to get to Madame Radanya to complete the curse put on her family blood the previous night (see [[Dr. Rudolph van Richten]]'s Curse on the Radanavich's.)
 Many were killed, and the village blamed the Carnival, marching on it and hanging all its members from the Witch Elm.
 When Madame Radanya finally took her last breath she passed her soul into her Vistani Raunie Scarf, after which it flowed over to the last member of the Radanya family, [[Stumpfoot]].
 
-Watching the slow death of his mentor awoke something deep in [[Stumpfoot]], the Vistani See Blood within him, bestowing him a fraction of her Foresight.
+Watching the slow death of his mentor awoke something deep in [[Stumpfoot]], the Vistani Seer Blood within him, bestowing him a fraction of her gift of [[the Sight]].
 
 Lead [[Stumpfoot]] to believe that the Scarf allows him to glimpse into the future via prophecies in his dreams, then reveal the Scarf's true nature along with [[Stumpfoot]]'s inheritance.
 ## Hearts of Sorrow

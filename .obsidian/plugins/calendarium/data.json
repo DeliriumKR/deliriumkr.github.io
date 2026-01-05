@@ -240,7 +240,7 @@
         "defaultLocation": "NONE"
       },
       "current": {
-        "day": 27,
+        "day": 28,
         "month": 9,
         "year": 735
       },
@@ -696,7 +696,7 @@
           "type": "Date"
         },
         {
-          "name": "Act II / Arc D - If Act D failed, Baron and his family and lynched and ousted from power.",
+          "name": "Act II / Arc D - If Act D failed, Baron and his family are lynched and ousted from power.",
           "description": "Shortly after sundown, if the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in Arc D - St. Andral's Feast, the angry mob assaults the manor, capturing the Baron and lynching him in the town square. Victor Vallakovich escapes, taking shelter in one of the abandoned houses abutting Vallaki's western walls. If he still lives, Izek Strazni also escapes, taking shelter in Q9. Servants' Quarters (p. 133) in Argynvostholt.",
           "date": {
             "day": 8,
@@ -772,7 +772,7 @@
   "parseDates": false,
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0,
     "beta": null
   },

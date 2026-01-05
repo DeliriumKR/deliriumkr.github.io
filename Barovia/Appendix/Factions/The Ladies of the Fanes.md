@@ -10,6 +10,7 @@ aliases:
   - Huntress
   - Seeker
   - Dreamer
+  - Rozana
 ---
 With their holy places desecrated and their worshippers weakened and divided, two of the three Ladies of the Fanes—the Weaver and the Huntress—have been reduced to little more than spirit, unable to take action or exercise the power they once wielded. Only the Seeker, who forged a pact with Katarina, the bastard sister of Strahd von Zarovich, to free the valley from Strahd’s evil, survives. Through their pact, the Seeker subsumed Katarina’s soul to manifest an avatar of her divine power: the Vistana seer Madam Eva.
 

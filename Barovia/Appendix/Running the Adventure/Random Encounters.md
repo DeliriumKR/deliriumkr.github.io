@@ -69,7 +69,7 @@ If more than one scout is present, the others are spread out over a 100-foot-squ
 These [scouts](https://2014.5e.tools/bestiary.html#scout_mm) are Barovian hunters or trappers searching for a missing villager or townsperson. Once they realize the characters aren't out to kill them, they lower their weapons and request help in finding their missing person. If the characters decline, the scouts point them in the direction of the nearest settlement and depart without so much as a farewell. They wield light crossbows (+4 to hit, range 80/320 ft.) instead of longbows, dealing 6 (1d8 + 2) piercing damage on a hit.
 ## Berserkers
 ---
-These wild mountain folk are covered head to toe in thick gray mud, which makes them hard to see in the fog and well hidden in the mountains they call home. While so camouflaged, they have advantage on Dexterity (Stealth) checks made to hide. Characters whose passive Wisdom (Perception) scores are higher than the berserker's Dexterity (Stealth) check can spot the nearest [berserker](https://2014.5e.tools/bestiary.html#berserker_mm).
+These wild mountain folk are covered head to toe in thick grey mud, which makes them hard to see in the fog and well hidden in the mountains they call home. While so camouflaged, they have advantage on Dexterity (Stealth) checks made to hide. Characters whose passive Wisdom (Perception) scores are higher than the berserker's Dexterity (Stealth) check can spot the nearest [berserker](https://2014.5e.tools/bestiary.html#berserker_mm).
 
 If someone spots the berserker, read:
 

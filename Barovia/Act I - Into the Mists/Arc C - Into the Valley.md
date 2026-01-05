@@ -117,7 +117,7 @@ The players have arrived at the River Ivlis Crossroads. Do not check for a rando
 
 > [!cutscene] When they do, read:
 > An old wooden gallows creaks in a chill wind that blows down from the high ground to the west. A frayed length of rope dances from its beam.
-> The well-worn road splits here, and a signpost opposite the gallows points off in three directions: Barovia Village to the east, Tser Pool to the northwest, and Ravenloft/[[The Town of Vallaki|Vallaki]] to the southwest.
+> The well-worn road splits here, and a signpost opposite the gallows points off in three directions: Barovia Village to the east, Tser Pool to the northwest, and Ravenloft/Vallaki to the southwest.
 > The northwest fork slants down and disappears into the trees, while the southwest fork clings to an upward slope. Across from the gallows, a low wall, crumbling in places, partially encloses a small plot of graves shrouded in fog.
 
 The northwest fork leads down to the river and [[#C4. Tser Pool]]. The road southwest leads to [[#C7b. Tser Falls]]. The east road leads to an arching stone bridge and continues on to the [[The Village of Barovia|village of Barovia]].
@@ -129,7 +129,7 @@ Eleven graves are here with blank gravestones. The forgotten people buried here 
 The first time the players move to depart for Tser Pool, instead of seeing **The Hanged One**, they can hear the sound of a horse-drawn carriage or wagon approaching through the fog. Almost as soon as the sound appears, [[Strahd von Zarovich|Strahd]]’s black carriage, as described in Black Carriage (p. 37) and Carriage House (p. 54), comes into view.
 
 > [!cutscene] When it does, read:
-> From the path ahead of you, a sound emerges from the quiet beyond the mists. You recognise it immediately as the sound of a horse-drawn carriage or wagon approaching you through the fog. Almost as soon as the sound appears, you see it.
+> From the path ahead of you, a sound emerges from the quiet beyond the mists. You recognise it immediately as the sound of a horse-drawn carriage or wagon approaching you through the fog. Then, you see it.
 > A large black carriage drawn by two black horses moving along the road towards you. The Carriage is fitted with glass windows that conceal its inhabitants, and brass lanterns that swing unlit at its sides.
 > 
 > Sat within the coach box at its front, you see the driver. A handsome young man with a stoic expression. His attire, while elegant, is worn and faded. 
@@ -1363,9 +1363,9 @@ The cloaked figure is [[Willemina Rikalova]], as described in St. Andral's Chur
 
 As the characters pass through the streets, they are noticed by [[Ernst Larnak]], who intently watches them—though doesn't follow them—as described in Lady Wachter's Wish (p. 124).
 
-Characters who have a passive Wisdom (Perception) score of 14 or higher notice him doing so. If they confront him, he claims that he keeps a watchful eye on all strangers, though he doesn't mention the name of his employer. If the characters threaten him, he backs off and reports to [[Lady Wachter]] after he believes he's not being watched or pursued.
+Characters who have a passive Wisdom (Perception) score of 14 or higher notice him doing so. If they confront him, he claims that he keeps a watchful eye on all strangers, though he doesn't mention the name of his employer. If the characters threaten him, he backs off and reports to [[Lady Fiona Wachter|Lady Wachter]] after he believes he's not being watched or pursued.
 
-[[Ernst Larnak]] does not yet deliver an invitation to dine with [[Lady Wachter]], though he does return to N4. Wachterhaus (p. 110) to report back to Lady Wachter when the players leave his sight.
+[[Ernst Larnak]] does not yet deliver an invitation to dine with [[Lady Wachter]], though he does return to N4. Wachterhaus (p. 110) to report back to [[Lady Fiona Wachter|Lady Wachter]] when the players leave his sight.
 ## C12b. The Blue Water Inn
 ---
 This area is largely as described in N2. Blue Water Inn (p. 98).
@@ -1379,6 +1379,13 @@ A bed for the night costs 1 ep. Characters looking for something to eat are fed 
 
 The inn offers a pint of Purple Grapemash No. 3 wine for 3 cp, or a pint of the superior Red Dragon Crush wine for 1 sp. [[Urwin Martikov|Urwin]] is hurt if the characters complain about the wines, for his family makes them.
 
+> [!tip]- Keepers of the Feather
+> [[Urwin Martikov]] (LG male human) is a **wereraven** and a high-ranking member of the [[Keepers of the Feather]], a secret society of **wereravens** that opposes [[Strahd von Zarovich|Strahd]]. [[Urwin Martikov|Urwin]]'s wife and business partner, [[Danika Dorakova]] (LG female human), is also a **wereraven**, as are their two sons, [[Brom]] and [[Bray]]. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
+> 
+> At any given time, another 1d4 wereravens (members of the Keepers of the Feather) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form. These wereravens are loyal friends of the Martikovs and help protect the inn.
+> 
+> If the characters earn the trust of the wereravens in Vallaki, the Keepers of the Feather will watch their backs. The next time the characters get themselves in serious trouble, you can have a group of 1d4 wereravens show up to rescue or otherwise help them.
+
 If [[Muriel Vinshaw|Muriel]] is present, she bids the players farewell with a soft, sentimental trill, then departs to join the other ravens resting atop the roof. (If the players later return to the inn to look for her, she is not present.)
 
 When the players first arrive, the inn contains the following notable NPCs:
@@ -1390,7 +1397,156 @@ When the players first arrive, the inn contains the following notable NPCs:
 
 > [!handout]- "The Martikovs of the Blue Water Inn" by Caleb Cleveland
 > ![[The Martikovs of the Blue Water Inn by Caleb Cleveland.png]]
+### Blue Water Inn Layout
 
+> [!combat]- Maps of the Blue Water Inn
+> ![[Map 5.2 Blue Water Inn (Area N2).png]]
+> Map 5.2: Blue Water Inn (Area N2)
+> 
+> ![[Map Blue Water Inn Player Version.png]]
+> Player Version
+
+#### N2a. Well
+A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
+#### N2b. Outside Staircase
+A wooden staircase hugs the outer wall of the inn and leads up to guest quarters on the upper floor (areas N2l and N2m.) The sturdy wooden door at the top of the stairs can be barred from the inside.
+#### N2c. Taproom
+The double doors leading into the taproom can be barred shut from within.
+
+Mounted on braces and tucked into alcoves behind the bar are three wine barrels, each one three-quarters empty. Two of the barrels contain Purple Grapemash No. 3 (a cheap wine), and the third contains Red Dragon Crush (a fine wine). A brass spigot is hammered into each barrel.
+
+[[Danika Dorakova|Danika]] usually tends bar while her husband busies himself in the kitchen (area N2e). Their boys, [[Brom]] and [[Bray]], scamper about and easily get underfoot.
+
+Between dawn and noon, there are no patrons here, and the Martikovs are upstairs in their bedrooms (areas N2o and N2p) or in the attic (area N2q).
+
+From noon to dusk, the taproom holds 2d4 local patrons (male and female [commoners](https://2014.5e.tools/bestiary.html#commoner_mm)). Between dusk and midnight, 2d8 Vallakians are here. In addition, one or more of the following people might be present during this time.
+#### N2d. Wine Storage
+
+> [!cutscene] When a player enters here for the first time, read:
+> This hallway contains three curtained alcoves as well as a larger area stuffed with wine barrels.
+
+The Martikovs store their wine here. Tucked behind red curtains are three alcoves, each one containing a half-emptied wine barrel lying on its side in a wooden brace. Twelve empty wine barrels are piled two high near the door to the kitchen (area N2e). All the barrels have the Wizard of Wines name burned into them.
+
+Nine of the fifteen barrels, including two of the barrels in the curtained alcoves, have the following label burned into their sides, under the winery's name: Purple Grapemash No. 3. Six of the fifteen barrels, including one of the barrels in the curtained alcoves, have a different label: Red Dragon Crush.
+
+The double doors that lead outside can be barred shut from within.
+#### N2e. Kitchen
+
+> [!cutscene] When a player enters here for the first time, read:
+> This room looks like the kitchen of someone who loves to cook. It has piles of pots, walls lined with utensils and shelves of ingredients, and all manner of pleasant odors. Two lanterns hang above a sturdy pine worktable in the middle of the clutter. A pot of soup bubbles on the hearth.
+
+[[Urwin Martikov]], who prepares most of the meals, is found here throughout the day. He occasionally receives help from his two boys, but they are easily distracted. A cupboard against the east wall holds most of the inn's supply of cutlery and dishware, none of it valuable. A door in the west wall leads outside and is usually barred from the inside.
+
+A secret door at the west end of the south wall can be pushed open to reveal a wooden staircase that leads up to area N2i.
+#### N2f. Stable
+The sliding wooden doors on the west wall of this room are held shut by an iron lock and chain. Urwin carries the key to the lock. The doors to the north and south can be barred shut from the inside but are usually unlocked.
+
+> [!cutscene] When a player enters here for the first time, read:
+> You hear the squawking of birds and the plaintive whinny of a horse as you peer inside this stable. The stalls are clean and well maintained. One of them contains a gray mare. A small door is set into the east wall, and a wooden ladder gives access to a loft overhead. Perched on the wooden railing that encloses the loft are dozens of ravens.
+
+Any character who has a horse can keep it here for 1 sp per night. The gray mare is a draft horse named Drusilla, and she likes apples. The horse belongs to [[Dr. Rudolph van Richten|Rictavio]] (see area N2c).
+
+The small door in the east wall can be pulled open to reveal area N2g. The loft is described in area N2h.
+#### N2g. Storage
+This small room lies under a wooden staircase (area N2i). Hanging from wooden pegs are saddles and barding to equip two horses. In an unlocked wooden chest are a dozen horseshoes, a wooden mallet, and a mound of horseshoe nails.
+#### N2h. Raven's Loft
+
+> [!cutscene] When a player enters here for the first time, read:
+> Dim light spilling in through a pair of dirt-encrusted windows reveals piles of hay with pitchforks sticking out of them. Ravens rule this roost—you can see hundreds of them.
+
+Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see "Treasure" below), next to a secret door. If the characters tamper with the chest, the ravens gather into four swarms of ravens and attack. If two swarms are killed, the others flee. Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, [[Urwin Martikov]] and two other **wereravens** hear the ruckus and investigate (in human form).
+
+A secret door in the back of the loft can be pushed open to reveal a bedchamber (area N2p) beyond. No ability check is required to spot the secret door, because light in the room beyond slips through the door's cracks.
+
+**Treasure.** Inside the locked chest are 140 ep, 70 pp, two elixirs of health, three potions of healing, and a gray bag of tricks. The coins are embossed with the profiled likeness of [[Strahd von Zarovich]].
+#### N2i. Secret Stairs and Hall
+
+> [!cutscene] When a player enters here for the first time, read:
+> A wooden staircase to the north descends fifteen feet to a landing. A window dimly illuminates a short, wood-panelled hallway that runs west to east.
+
+Guests aren't told about the inn's secret hallway. [[Dr. Rudolph van Richten|Rictavio]] knows of its existence because he has heard the Martikov boys opening and closing the secret door closest to his room (area N2n).
+
+At each end of this area is a secret door, each of which is easy to spot from inside the hallway (no ability check required). The northern secret door, at the bottom of the staircase, can be pulled open to reveal the kitchen (area N2e) beyond. The eastern secret door can be pulled open to reveal a balcony (area N2j) that overlooks the taproom.
+#### N2j. Great Balcony
+
+> [!cutscene] When a player emerges onto here for the first time, read:
+> A wooden balcony stretches the full length of the taproom, enclosed by a wooden railing carved with raven motifs. The taproom's many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
+
+The balcony floor is 15 feet above the taproom floor.
+
+A secret door at the south end of the western wall can be pushed open to reveal a wood-panelled hallway (area N2i) beyond.
+#### N2k. Guest Balcony
+
+> [!cutscene] When a player emerges onto here for the first time, read:
+> This twenty-foot-long balcony provides a clear view of the bar and has a wooden railing carved with raven motifs. The taproom's many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
+
+The balcony floor is 15 feet above the taproom floor.
+#### N2l. Guest Roooms
+These two rooms have identical furnishings.
+
+> [!cutscene] When a player enter one of these for the first time, read:
+> Two cozy beds with matching footlockers rest in the far corners of this fifteen-foot-square room. Wolf furs are heaped atop each bed. Between the beds, a lamp sits on a table under a shuttered window. Two tall black wardrobes stand against the wall by the door.
+
+The door to this room can be locked from the inside, and each guest gets a key. [[Urwin Martikov|Urwin]] and [[Danika Dorakova|Danika]] carry spare keys. The footlockers and wardrobes are empty and are for the use of guests.
+#### N2m. Guest Room
+
+> [!cutscene] When a player enters here for the first time, read:
+> Four plain beds with straw mattresses line the north wall of this well-lit room. Each bed comes with a matching footlocker to store clothing and other belongings. A table and four chairs occupy the corner across from the door. An oil lamp resting on the table casts a bright yellow flame.
+
+The door to this room can be locked from the inside, and each guest receives a key. Urwin and Danika carry spare keys. The footlockers are empty and are for the use of guests.
+#### N2n. Private Guest Room
+[[Dr. Rudolph van Richten|Rictavio]] has a key to this room, which is locked at all times. [[Urwin Martikov|Urwin]] and [[Danika Dorakova|Danika]] carry spare keys. The door's lock can be picked, but discretion is called for because the door is in plain view of the taproom below.
+
+> [!cutscene] When a player enters here for the first time, read:
+> This small guest room contains a bed heaped with wolf furs, a footlocker, a tall wardrobe, and a writing desk with matching chair. An oil lamp rests atop the desk near a journal bound in a red leather jacket.
+
+[[Dr. Rudolph van Richten|Rictavio]] sleeps here between midnight and dawn. At dawn, he leaves to check on his horse (area N2f) and his wagon (area N5), returning to the inn around noon. Between noon and dusk, there's a 40 percent chance he is here; otherwise, he's in the taproom (area N2c). At dusk, he leaves the inn to tend to his horse and his wagon again, then returns to his room to retire for the night.
+
+[[Dr. Rudolph van Richten|Rictavio]] is too clever to leave anything valuable or incriminating in his room. The footlocker and the wardrobe contain nothing but common clothes and travel wear.
+
+**Rictavio's Journal.** The journal on the desk is a bit of artifice that [[Dr. Rudolph van Richten|Rictavio]] created to perpetuate the illusion that he is an entertainer in search of new acts for his traveling carnival. His writing makes frequent mention of conversations with Drusilla (which the journal fails to mention is the name of [[Dr. Rudolph van Richten|Rictavio]]'s horse) and recounts many long and tedious journeys by wagon. Rictavio has also written about various "oddities" he has seen in his travels, including the following:
+
+- A "werehare" child (a boy who transforms into a rabbit on nights of the full moon)
+- A half-orc woman named Gorabacha who could chew through iron chains
+- A giant, man-eating plant that had the most remarkable singing voice
+- A pair of conjoined goblins
+- A small man with no legs named Filmore Stunk, who could drink whole casks of wine without getting drunk
+#### N2o. Boys' Bedroom
+
+> [!cutscene] When a player enters here for the first time, read:
+> A large, painted toy box rests between two small, cozy beds. Murals of ravens in flight are painted on the walls above the wood paneling.
+
+[[Brom]] and [[Bray]] Martikova don't spend much time in this room. The toy box contains a pile of neglected toys, many of them etched with the slogan "Is No Fun, Is No Blinsky!" The toys include the following:
+
+- A miniature puppet theater with appropriately sized marionettes of a king, a queen, a prince, a princess, an executioner, a tax collector, a dunce, a vampire, and a vampire hunter
+- A garish toy Vistani wagon hitched to a wooden horse and filled with tiny wooden Vistani figures
+- A pair of painted wooden clown masks, one displaying a mean scowl and the other a frightened expression
+- A wooden top painted with images of scarecrows chasing children through the forest
+- A stuffed (real) bat on puppet strings
+
+A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic (area N2q).
+#### N2p. Master Bedroom
+
+> [!cutscene] When a player enters here for the first time, read:
+> Matching end tables flank a large wood-framed bed with a red silk canopy. Across from the bed hangs a tapestry depicting a beautiful mountain valley. The other walls are dominated by a fireplace and a wardrobe.
+
+[[Urwin Martikov|Urwin]] and [[Danika Dorakova|Danika]] retire to this room every night before heading to the attic (area N2q) to sleep. This room is for appearances only and contains no valuables.
+
+A secret door at the west end of the south wall can be pulled open to reveal the loft beyond (area N2h).
+
+A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic (area N2q).
+#### N2q. Secret Attic
+
+> [!cutscene] When a player enters here for the first time, read:
+> This ten-foot-wide, thirty-five-foot-long attic has a ceiling that slants down toward the west, dropping from a height of eight feet to a height of five feet. Four straw nests cover the floor, and a locked iron strongbox sits against the north wall. A small square opening in the south wall leads outside. Two trapdoors with iron hinges are set into the floor.
+
+The Martikovs sleep here at night in hybrid form. The opening in the south wall is just big enough for a raven or other Tiny creature to pass through. The **wereravens** can use this opening as an escape route.
+
+The strongbox is described in "Treasure" below.
+
+Two trapdoors, clearly visible on the floor, can be pulled open to reveal the bedchambers (areas N2o and N2p) that lie directly beneath them.
+
+**Treasure.** [[Urwin Martikov|Urwin]] carries the key to the locked iron strongbox. The lock can be picked with thieves' tools and a successful DC 20 Dexterity check. The box contains a sack of 150 ep (each coin bearing the profiled visage of [[Strahd von Zarovich]]), six pieces of jewellery (worth 250 gp each), and three potions of healing.
 ### Entering the Inn
 
 > [!cutscene] When the players enter, read:
@@ -1402,7 +1558,7 @@ The man is the ringmaster [[Dr. Rudolph van Richten|Rictavio]], the lone guest o
 
 [[Dr. Rudolph van Richten|Rictavio]] admits to having no musical talent but manages to entertain locals nonetheless with his stories of faraway places. Twice each day, at dawn and again at dusk, he leaves the inn with a couple of apples and a cooked wolf steak wrapped in a handkerchief. He claims the food is for his portly friend, "the destitute toymaker" and his pet monkey. In fact, the apples are for his horse Drusilla, and the steak is for the captured [[Arabelle]].
 
-During his stay at the inn, [[Dr. Rudolph van Richten|Rictavio]] is quietly gathering information on the [[Keepers of the Feather]], trying to figure out the identities of all the wereravens in town. He's also trying to learn as much as he can about the [[Vistani]], particularly the ones living in the camp just outside town. He carries an iron key that unlocks the door to his carnival wagon.
+During his stay at the inn, [[Dr. Rudolph van Richten|Rictavio]] is quietly gathering information on the [[Keepers of the Feather]], trying to figure out the identities of all the **wereravens** in town. He's also trying to learn as much as he can about the [[Vistani]], particularly the ones living in the camp just outside town. He carries an iron key that unlocks the door to his carnival wagon.
 
 > [!handout]- "Rictavio" by Caleb Cleveland
 > ![[Rictavio by Caleb Cleveland.png]]
@@ -1667,11 +1823,11 @@ Lycanthropic immunity has been changed to silver-based regeneration in order to 
 
 **_The Tarokka Reading._** [[Madam Eva]]'s warnings at the beginning of the reading have been added to increase the tension of the reading, to ensure that players treat it with the weight and care that it deserves, and to introduce a minor element of dramatic intrigue in the scenes that follow.
 
-**_[[Arturi Radanavich]]._** [[Arturi Radanavich]] is a creation of the _Advanced Dungeons & Dragons_ sourcebook _[[Dr. Rudolph van Richten|Van Richten]]'s Guide to the [[Vistani]]._ His tale (and his character) have largely been transplanted directly into this guide in order to further introduce [[Dr. Rudolph van Richten|Van Richten]]'s legend (and tragedy), to provide an explanation for [[Dr. Rudolph van Richten|Van Richten]]'s transformation into a more sympathetic character, to introduce Ezmerelda d'Avenir, and to create player investment in [[Dr. Rudolph van Richten|Van Richten]]'s history upon uncovering his burned journal in [[Dr. Rudolph van Richten|Van Richten]]'s Tower.
+**_Arturi Radanavich._** [[Arturi Radanavich]] is a creation of the _Advanced Dungeons & Dragons_ sourcebook _[[Dr. Rudolph van Richten|Van Richten]]'s Guide to the [[Vistani]]._ His tale (and his character) have largely been transplanted directly into this guide in order to further introduce [[Dr. Rudolph van Richten|Van Richten]]'s legend (and tragedy), to provide an explanation for [[Dr. Rudolph van Richten|Van Richten]]'s transformation into a more sympathetic character, to introduce [[Ezmerelda d’Avenir]], and to create player investment in [[Dr. Rudolph van Richten|Van Richten]]'s history upon uncovering his burned journal in [[Dr. Rudolph van Richten|Van Richten]]'s Tower.
 
 **_The Dancing Fire._** The Game of Stories has been introduced to provide the players with an opportunity to decompress in a relatively safe location while engaging with and exploring one anothers' histories and interests. The Game itself—along with its wagers—introduces an aspect of dramatic tension to the encounter, ensuring that players remain invested and engaged with each story told.
 
-[[Stanimir]]'s tale indicates the relationship between [[Strahd von Zarovich|Strahd]] and the [[Vistani]], thereby foreshadowing Arrigal's loyalty to him. [[Eliza]]'s tale introduces the _Holy Symbol of Ravenkind_ and the sympathetic nature of ravens, as well as Baba Zelenna's interference with the Forest Fane at Yester Hill (i.e., by using it to summon Chernovog). [[Arturi Radanavich|Arturi]]'s tale colorfully introduces the tragedy of [[Dr. Rudolph van Richten]], building the suspense for a character that the players will soon have an opportunity to meet. Finally, [[Ireena Kolyana|Ireena]]'s tale foreshadows her relationship to [[Izek Strazni|Izek]] Strazni and her true origins in [[The Town of Vallaki|Vallaki]].
+[[Stanimir]]'s tale indicates the relationship between [[Strahd von Zarovich|Strahd]] and the [[Vistani]], thereby foreshadowing [[Arrigal]]'s loyalty to him. [[Eliza]]'s tale introduces the _Holy Symbol of Ravenkind_ and the sympathetic nature of ravens, as well as Baba Zelenna's interference with the Forest Fane at Yester Hill (i.e., by using it to summon Chernovog). [[Arturi Radanavich|Arturi]]'s tale colorfully introduces the tragedy of [[Dr. Rudolph van Richten]], building the suspense for a character that the players will soon have an opportunity to meet. Finally, [[Ireena Kolyana|Ireena]]'s tale foreshadows her relationship to [[Izek Strazni|Izek]] Strazni and her true origins in [[The Town of Vallaki|Vallaki]].
 
 **_A Gift for Arabelle._** [[Madam Eva]]'s request has been added to create a hook to Blinsky Toys in [[The Town of Vallaki|Vallaki]] (allowing the players to observe [[Izek Strazni|Izek]]'s commissioned [[Ireena Kolyana|Ireena]]-shaped doll) and to the [[Vistani]] encampment outside of [[The Town of Vallaki|Vallaki]] (allowing the players to begin the quest to find the missing [[Arabelle]]).
 
@@ -1695,4 +1851,4 @@ Lycanthropic immunity has been changed to silver-based regeneration in order to 
 
 **_The Blue Water Inn._** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in [[The Town of Vallaki|Vallaki]]: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster [[Dr. Rudolph van Richten|Rictavio]]. [[Dr. Rudolph van Richten|Rictavio]]'s tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [Arc E - The Missing Vistana](https://www.strahdreloaded.com/Act+II+-+The+Shadowed+Town/Arc+E+-+The+Missing+Vistana).
 
-**_Exiting the Inn._** The players' encounter with [[Baron Vargas Vallakovich|Baron Vallakovich]] and [[Izek Strazni|Izek]] on the roads of [[The Town of Vallaki|Vallaki]] has been added to provide the players with an immediate reason to dislike them, to introduce the players to [[Father Lucian Petrovich|Father Lucian]] Petrovich, to set up the core dramatic tension of the [[Baron Vargas Vallakovich|Baron]]'s tyrannical rule over [[The Town of Vallaki|Vallaki]], to kick off [[Izek Strazni|Izek]]'s pursuit of [[Ireena Kolyana|Ireena]], and to provide Lady Fiona Wachter with an actionable reason to invite the players into her machinations. **It is essential that the players do _not_ fight [[Izek Strazni|Izek]] here, and all reasonable precautions have been taken to ensure this.**
+**_Exiting the Inn._** The players' encounter with [[Baron Vargas Vallakovich|Baron Vallakovich]] and [[Izek Strazni|Izek]] on the roads of [[The Town of Vallaki|Vallaki]] has been added to provide the players with an immediate reason to dislike them, to introduce the players to [[Father Lucian Petrovich|Father Lucian]] Petrovich, to set up the core dramatic tension of the [[Baron Vargas Vallakovich|Baron]]'s tyrannical rule over [[The Town of Vallaki|Vallaki]], to kick off [[Izek Strazni|Izek]]'s pursuit of [[Ireena Kolyana|Ireena]], and to provide [[Lady Fiona Wachter]] with an actionable reason to invite the players into her machinations. **It is essential that the players do _not_ fight [[Izek Strazni|Izek]] here, and all reasonable precautions have been taken to ensure this.**

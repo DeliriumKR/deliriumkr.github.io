@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7509706170149e6b",
+        "id": "39899e2098cfbd72",
         "type": "tabs",
         "children": [
           {
-            "id": "9a96e43658b96766",
+            "id": "9eb6cee472e0a993",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Barovia/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Arc B - Welcome to Barovia"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
+                "file": "Barovia/Act I - Into the Mists/Arc C - Into the Valley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Arc D - St. Andral's Feast"
+              "title": "Backlinks for Arc C - Into the Valley"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Barovia/Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
+                "file": "Barovia/Act I - Into the Mists/Arc C - Into the Valley.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Arc D - St. Andral's Feast"
+              "title": "Outgoing links from Arc C - Into the Valley"
             }
           },
           {
@@ -133,40 +137,6 @@
             }
           },
           {
-            "id": "e19e8d672900c82d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "11f58ffad966bf65",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "19644837f3266b30",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
             "id": "53868eaf6bf4dbc1",
             "type": "leaf",
             "state": {
@@ -174,11 +144,7 @@
               "state": {
                 "calendar": "ID_7a195a5a58d9",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 28,
-                    "month": 9,
-                    "year": 735
-                  },
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 27,
@@ -192,25 +158,29 @@
                   "displayWeather": true,
                   "location": "NONE"
                 },
-                "id": "ID_c9f86b683b69",
-                "child": "ID_7afbe9c93aeb"
+                "id": "ID_c9f86b683b69"
               },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
-            "id": "df7f7a84b19d55d3",
+            "id": "e19e8d672900c82d",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "type": "outline",
+              "state": {
+                "file": "Barovia/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Arc B - Welcome to Barovia"
             }
           },
           {
-            "id": "3ae951c1af480534",
+            "id": "11f58ffad966bf65",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -218,9 +188,19 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "19644837f3266b30",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -236,45 +216,51 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "9a96e43658b96766",
+  "active": "e19e8d672900c82d",
   "lastOpenFiles": [
-    "Barovia/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
-    "Barovia/Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
+    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 5 - Defending the Fortified Village.md",
     "Barovia/Act I - Into the Mists/Arc C - Into the Valley.md",
+    "Barovia/Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
+    "Barovia/Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
     "Barovia/Act I - Into the Mists/Arc A - Escape from Death House.md",
-    "Barovia/Appendix/Non-Player Characters/Volenta Popofsky.md",
-    "Barovia/Appendix/Images/Volenta Popofsky by Caleb Cleveland.png",
-    "Barovia/Appendix/Non-Player Characters/Milivoj.md",
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc A - Escape from Death House/Session 3 - Escape for Durst Manor.md",
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 4 -.md",
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc A - Escape from Death House/Session 2 - Descent into Darkness.md",
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc A - Escape from Death House/Session 1 - To Begin Again.md",
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 5 -.md",
-    "Barovia/Appendix/Templates/Campaign Diary Entry - Into Mists.md",
-    "Barovia/Appendix/Templates/Campaign Diary Entry - Hearts of Sorrow.md",
-    "Barovia/Appendix/Templates",
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Diary Template.md",
-    "Barovia/Player Groups/Into Mists/Session Zero.md",
-    "Barovia/Act III - The Broken Land/Arc M - The Dragon's Manor.md",
-    "Barovia/Act III - The Broken Land/Arc N - Tales of Vallaki.md",
-    "Barovia/Act IV - Secrets of the Ancient/Arc T - The Three Fanes.md",
-    "Barovia/Act V - The Curse of Strahd/Arc V - The Curse of Strahd.md",
-    "Barovia/Act V - The Curse of Strahd/Arc U - Dreams of Dawn.md",
-    "Barovia/Act II - The Shadowed Town/Act II Summary & Appendices.md",
-    "Barovia/Appendix/Non-Player Characters/Erasmus van Richten.md",
-    "Barovia/Act II - The Shadowed Town/Arc I - The Walls of Krezk.md",
-    "Barovia/Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+    "Barovia/Appendix/Non-Player Characters/Bray.md",
+    "Barovia/Appendix/Non-Player Characters/Brom.md",
+    "Barovia/Appendix/Running the Adventure/Getting Started.md",
+    "Barovia/Appendix/Running the Adventure/Random Encounters.md",
+    "Barovia/Appendix/Images/Map Blue Water Inn Player Version.png",
+    "Barovia/Appendix/Factions/The Ladies of the Fanes.md",
+    "Barovia/Appendix/Images/Map 5.2 Blue Water Inn (Area N2).png",
+    "Barovia/Appendix/Non-Player Characters/Urwin Martikov.md",
+    "Barovia/Appendix/Non-Player Characters/Ezmerelda d’Avenir.md",
+    "Barovia/Appendix/Non-Player Characters/Szoldar Szoldarovich.md",
+    "Barovia/Appendix/History/Historical Figures/Khazan.md",
+    "Barovia/Appendix/History/Historical Figures/Ismark, the Great.md",
+    "Barovia/Appendix/History/Historical Figures/Tatyana Federovna.md",
+    "Barovia/Appendix/History/Historical Figures/Saint Andral.md",
+    "Barovia/Appendix/History/Historical Figures/Lugdana.md",
+    "Barovia/Appendix/Non-Player Characters/Victor Vallakovich.md",
     "Barovia/Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md",
-    "Barovia/Player Groups/Heart of Sorrow/Session Zero.md",
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists",
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia",
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc A - Escape from Death House",
-    "Barovia/Player Groups/Into Mists/Campaign Diary",
-    "Barovia/Appendix/Non-Player Characters/Non Player Character List.base",
+    "Barovia/Appendix/Non-Player Characters/Kasimir Velikov.md",
+    "Barovia/Appendix/Non-Player Characters/Arrigal.md",
+    "Barovia/Appendix/Non-Player Characters/Arabelle.md",
+    "Barovia/Appendix/Non-Player Characters/Luvash.md",
+    "Barovia/Appendix/Non-Player Characters/Yan.md",
+    "Barovia/Appendix/Religions/The Faith of the Ladies Three.md",
+    "Untitled.base",
+    "Templates",
+    "Barovia/Player Groups/Heart of Sorrow/Campaign Diary/Act I - Into the Mists/Arc A - Escape from Death House",
+    "Barovia/Player Groups/Heart of Sorrow/Campaign Diary/Act I - Into the Mists",
+    "Barovia/Player Groups/Heart of Sorrow/Player Characters",
+    "Barovia/Player Groups/Heart of Sorrow/NPC Companions",
+    "Barovia/Player Groups/Heart of Sorrow/Campaign Diary",
+    "Barovia/Player Groups/Zochria/Player Characters",
+    "Barovia/Player Groups/Zochria",
+    "Barovia/Appendix/Images/Volenta Popofsky by Caleb Cleveland.png",
+    "Barovia/Appendix/Templates",
     "Barovia/Appendix/Images/Yeska by Caleb Cleveland.png",
     "Barovia/Appendix/Images/Father Lucian Petrovich by Caleb Cleveland.png",
     "Barovia/Appendix/Images/Izek Strazni by Caleb Cleveland.png",
@@ -282,12 +268,6 @@
     "Barovia/Appendix/Images/Szoldar Szoldarovich.webp",
     "Barovia/Appendix/Images/Rictavio by Caleb Cleveland.png",
     "Barovia/Appendix/Images/The Martikovs of the Blue Water Inn by Caleb Cleveland.png",
-    "Barovia/Appendix/Images/Morgantha Disguised by Caleb Cleveland.png",
-    "Barovia/Appendix/Images/Bridge Revenant by Caleb Cleveland.png",
-    "Untitled.base",
-    "Barovia/Player Groups/Into Mists/NPC Companions",
-    "Barovia/Player Groups/Into Mists/Player Characters",
-    "Barovia/Player Groups/Heart of Sorrow",
     "Untitled.canvas"
   ]
 }
