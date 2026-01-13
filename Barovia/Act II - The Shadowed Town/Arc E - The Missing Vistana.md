@@ -14,83 +14,187 @@ The players can hire [[Szoldar Szoldarovich|Szoldar]] as a guide, or simply buy 
 
 If the players return to [[The Town of Vallaki|Vallaki]], confront [[Dr. Rudolph van Richten|Rictavio]], and persuade him that they’re friends, rather than foes, he reluctantly reveals his identity and leads them to [[Arabelle]]’s hiding place: the carnival wagon stored in the [[#E8c. Rictavio’s Wagon|Arasek Stockyard]]. Unbeknownst to the players, however, [[Arabelle]]’s uncle, [[Arrigal]], has followed them into [[The Town of Vallaki|Vallaki]]—and when [[Arrigal]] reveals himself and demands her return, the players must decide which man to trust. And even once the tension has settled, [[Arabelle]] delivers a dark and cryptic prophecy
 
-> [!tip]- **Strahd’s Bounty**
+> [!tip]- Strahd’s Bounty
 >
 > When [[Strahd von Zarovich|Strahd]] received [[Madam Eva]]’s [[Act I - Into the Mists/Arc C - Into the Valley#C8. Black Carriage|most recent foretelling]], he learned that he could not control the raw power of the Fanes without a token of the *[[The Ladies of the Fanes|Rozana]]’s* divinity. [[Strahd von Zarovich|Strahd]] also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of [[The Faith of the Ladies Three|The Ladies Three]] themselves. [[Strahd von Zarovich|Strahd]]’s preference is, of course, the latter.
 >
 > [[Strahd von Zarovich|Strahd]] knows that a descendant of one of the [[The Ladies of the Fanes|Ladies]] lives somewhere in the valley, and knows which signs will lead him to them. To this end, he has dispatched his spies across Barovia in search of them. Though [[Strahd von Zarovich|Strahd]] doesn’t know it, his cupbearer and most recent consort—the **vampire spawn** [[Escher]]—has taken it upon himself to pursue the descendant as well.
 > 
-> ***Escher & Yan's Deal.*** Though Escher joined Strahd’s court freely, he has recently grown anxious that Strahd might soon discard him—especially if Strahd’s vampiric brides, Ludmilla, Anastrasya, and Volenta, succeed in winning back his favor. As such, when a Vistana named Yan—one of Strahd's many spies—visited Castle Ravenloft for a report, Escher struck a deal with him. [[Yan]] agreed to assist in locating the Ladies' descendant; in exchange, once Escher became Strahd’s favored consort, he would provide Yan with riches and power.
+> ***Escher & Yan's Deal.*** Though [[Escher]] joined [[Strahd von Zarovich|Strahd]]’s court freely, he has recently grown anxious that [[Strahd von Zarovich|Strahd]] might soon discard him—especially if [[Strahd von Zarovich|Strahd]]’s vampiric brides, [[Ludmilla Vilisevic|Ludmilla]], [[Anastrasya Karelova|Anastrasya]], and [[Volenta Popofsky|Volenta]], succeed in winning back his favour. As such, when a Vistana named [[Yan]]—one of [[Strahd von Zarovich|Strahd]]'s many spies—visited [[Castle Ravenloft]] for a report, [[Escher]] struck a deal with him. [[Yan]] agreed to assist in locating the Ladies' descendant; in exchange, once [[Escher]] became [[Strahd von Zarovich|Strahd]]’s favoured consort, he would provide [[Yan]] with riches and power.
 > 
-> ***Arabelle’s Disappearance.*** Yan returned to the Vistani encampment outside of Vallaki—and it wasn’t long before he struck gold. Upon recognizing that [[Luvash]]’s daughter, Arabelle, bore many of the signs that Escher had described, Yan summoned Escher to the camp and prepared to make his move.
+> ***Arabelle’s Disappearance.*** [[Yan]] returned to the Vistani encampment outside of [[The Town of Vallaki|Vallaki]]—and it wasn’t long before he struck gold. Upon recognizing that [[Luvash]]’s daughter, [[Arabelle]], bore many of the signs that [[Escher]] had described, [[Yan]] summoned [[Escher]] to the camp and prepared to make his move.
 >
-> [[Alexei]], a Vistana youth and Arabelle’s older cousin, was ordinarily tasked with watching her while her father, Luvash, worked. While Arabelle played in the woods near the encampment, Yan approached Alexei and shared with him copious amounts of wine—more than enough to get him exceedingly drunk. Once Alexei was asleep, Yan grabbed Arabelle, gagged her, and stuffed her into a sack.
+> [[Alexei]], a Vistana youth and [[Arabelle]]’s older cousin, was ordinarily tasked with watching her while her father, [[Luvash]], worked. While [[Arabelle]] played in the woods near the encampment, [[Yan]] approached [[Alexei]] and shared with him copious amounts of wine—more than enough to get him exceedingly drunk. Once [[Alexei]] was asleep, [[Yan]] grabbed [[Arabelle]], gagged her, and stuffed her into a sack.
 >
-> Yan moved quickly to bring Arabelle to Escher’s pre-arranged meeting point: an innocuous spot along the banks of the Luna River nearby. Escher, having taken the teleportation circle to Berez, transformed into a bat and flew to the meeting point, where he met Yan. Yan found Escher there as expected—but as Escher retrieved Yan’s payment, disaster struck.
+> [[Yan]] moved quickly to bring [[Arabelle]] to [[Escher]]’s pre-arranged meeting point: an innocuous spot along the banks of the [[#E5a. Luna River Bridge|Luna River]] nearby. [[Escher]], having taken the teleportation circle to [[The Village of Berez|Berez]], transformed into a bat and flew to the meeting point, where he met [[Yan]]. [[Yan]] found [[Escher]] there as expected—but as [[Escher]] retrieved [[Yan]]’s payment, disaster struck.
 >
-> Dr. Rudolph van Richten, the vampire hunter who had fled Castle Ravenloft after Strahd’s awakening, had been staying nearby at the old tower on Lake Baratok. Today, Van Richten was searching the marshy riverside grasses for a particular medicinal herb he’d run out of—and it was there, crouching hidden in the underbrush, that he noticed Yan and Escher’s clandestine meeting.
+> [[Dr. Rudolph van Richten]], the vampire hunter who had fled [[Castle Ravenloft]] after [[Strahd von Zarovich|Strahd]]’s awakening, had been staying nearby at the old tower on Lake Baratok. Today, [[Dr. Rudolph van Richten|Van Richten]] was searching the marshy riverside grasses for a particular medicinal herb he’d run out of—and it was there, crouching hidden in the underbrush, that he noticed [[Yan]] and [[Escher]]’s clandestine meeting.
 >
-> Ordinarily, Van Richten would have been loath to reveal his location—even in the presence of one of Strahd’s foul spawn—and risk blowing his cover. However, when he noticed Yan’s sack moving and heard a child’s whimpering within, Van Richten’s mind flashed back to the kidnapping and death of his late son, Erasmus—and his body moved without thinking.
+> Ordinarily, [[Dr. Rudolph van Richten|Van Richten]] would have been loath to reveal his location—even in the presence of one of [[Strahd von Zarovich|Strahd]]’s foul spawn—and risk blowing his cover. However, when he noticed [[Yan]]’s sack moving and heard a child’s whimpering within, [[Dr. Rudolph van Richten|Van Richten]]’s mind flashed back to the kidnapping and death of his late son, [[Erasmus van Richten|Erasmus]]—and his body moved without thinking.
 >
-> Within seconds, Yan was dead and a wounded Escher had fled for Castle Ravenloft. Van Richten swiftly rescued Arabelle from her restraints, and was astounded to see that she was a young Vistana herself. When Van Richten used his *talisman of echoes* to cast *speak with dead* on Yan’s severed head and learnt of Escher’s plan, he and Arabelle realized that the Vistani encampment was no longer safe from Strahd’s spies.
+> Within seconds, [[Yan]] was dead and a wounded [[Escher]] had fled for [[Castle Ravenloft]]. [[Dr. Rudolph van Richten|Van Richten]] swiftly rescued [[Arabelle]] from her restraints, and was astounded to see that she was a young Vistana herself. When [[Dr. Rudolph van Richten|Van Richten]] used his *talisman of echoes* to cast *speak with dead* on [[Yan]]’s severed head and learnt of [[Escher]]’s plan, he and [[Arabelle]] realized that the [[#E2a. The Vistani Encampment|Vistani encampment]] was no longer safe from [[Strahd von Zarovich|Strahd]]’s spies.
 >
-> Taking Yan’s head with them to prevent investigation and wading upstream through the Luna River to mislead the dusk elves’ scouts, Van Richten and Arabelle returned to <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span> to hatch a plan. Remaining at the tower was infeasible—one of Strahd's servants now knew Arabelle’s face and location, and Van Richten reasoned Strahd would surely attempt to scry her. Though the tower’s antimagic field would hinder Strahd’s efforts, it would also be the first place he would look when his scrying spell inevitably failed.
+> Taking [[Yan]]’s head with them to prevent investigation and wading upstream through the Luna River to mislead the dusk elves’ scouts, [[Dr. Rudolph van Richten|Van Richten]] and [[Arabelle]] returned to [[#E6b. The Tower|Van Richten's Tower]] to hatch a plan. Remaining at the tower was infeasible—one of [[Strahd von Zarovich|Strahd]]'s servants now knew [[Arabelle]]’s face and location, and [[Dr. Rudolph van Richten|Van Richten]] reasoned [[Strahd von Zarovich|Strahd]] would surely attempt to scry her. Though the tower’s antimagic field would hinder [[Strahd von Zarovich|Strahd]]’s efforts, it would also be the first place he would look when his scrying spell inevitably failed.
 >
-> Van Richten himself had an *amulet of proof against detection and location* to avoid Strahd’s watchful eye—as well as a spare amulet that his student, Ezmerelda d’Avenir, had returned to him when the two parted ways. The two amulets would suffice to protect them from Strahd’s magic, but Arabelle still needed a place to live and sleep away from the eyes of Strahd’s spies—at least until Van Richten could find a better alternative.
+> [[Dr. Rudolph van Richten|Van Richten]] himself had an *amulet of proof against detection and location* to avoid [[Strahd von Zarovich|Strahd]]’s watchful eye—as well as a spare amulet that his student, [[Ezmerelda d’Avenir]], had returned to him when the two parted ways. The two amulets would suffice to protect them from [[Strahd von Zarovich|Strahd]]’s magic, but [[Arabelle]] still needed a place to live and sleep away from the eyes of [[Strahd von Zarovich|Strahd]]’s spies—at least until [[Dr. Rudolph van Richten|Van Richten]] could find a better alternative.
 >
-> ***Lying Low.*** The nearby town of Vallaki, with its large and bustling population, could provide a far better place for the two to lose themselves in the crowd. However, while Van Richten could disguise himself with his *hat of disguise*, he had no such disguises for Arabelle, and any effort to transport her into or around Vallaki would risk alerting Strahd’s spies.
+> ***Lying Low.*** The nearby town of [[The Town of Vallaki|Vallaki]], with its large and bustling population, could provide a far better place for the two to lose themselves in the crowd. However, while [[Dr. Rudolph van Richten|Van Richten]] could disguise himself with his *hat of disguise*, he had no such disguises for [[Arabelle]], and any effort to transport her into or around [[The Town of Vallaki|Vallaki]] would risk alerting [[Strahd von Zarovich|Strahd]]’s spies.
 >
-> Fortunately, Van Richten still had an old Vistani wagon hidden away in the woods from when he had first entered Barovia—one with ample space for Arabelle to reside. While Vistani weren’t welcome in Vallaki, Van Richten decided that a different disguise—one that would allow them to hide in plain sight—could serve just as well.
+> Fortunately, [[Dr. Rudolph van Richten|Van Richten]] still had an old [[Vistani]] wagon hidden away in the woods from when he had first entered Barovia—one with ample space for [[Arabelle]] to reside. While [[Vistani]] weren’t welcome in [[The Town of Vallaki|Vallaki]], [[Dr. Rudolph van Richten|Van Richten]] decided that a different disguise—one that would allow them to hide in plain sight—could serve just as well.
 >
-> Disguising himself as Yan, Van Richten used Arabelle’s advice to sneak into the Vistani camp itself, stealing several of the colorful paints that the Vistani used to decorate their wagons. That night, Rictavio’s Carnival of Wonders was born—and Van Richten himself became Rictavio, ringmaster of the “carnival.”
+> Disguising himself as [[Yan]], [[Dr. Rudolph van Richten|Van Richten]] used [[Arabelle]]’s advice to sneak into the [[#E2. Vistani Camp|Vistani camp]] itself, stealing several of the colourful paints that the [[Vistani]] used to decorate their wagons. That night, Rictavio’s Carnival of Wonders was born—and [[Dr. Rudolph van Richten|Van Richten]] himself became [[Dr. Rudolph van Richten|Rictavio]], ringmaster of the “carnival.”
 >
-> As Van Richten worked, Arabelle—who had stowed a copy of the Hooded One Tarokka card in her pocket following a vague premonition that morning—felt her inner Sight flare once more. Without understanding entirely why, she hid the card in her pillow alongside a silvered dagger that Van Richten had given her, leaving her beaded charm bracelet wrapped around them.
+> As [[Dr. Rudolph van Richten|Van Richten]] worked, [[Arabelle]]—who had stowed a copy of the Hooded One Tarokka card in her pocket following a vague premonition that morning—felt her inner Sight flare once more. Without understanding entirely why, she hid the card in her pillow alongside a silvered dagger that [[Dr. Rudolph van Richten|Van Richten]] had given her, leaving her beaded charm bracelet wrapped around them.
 >
-> In the morning, Van Richten hid Arabelle in the back of the wagon, which he hitched to Drusilla, his horse, and rode it into Vallaki. There, he struck a deal with Gunther and Yelena Arasek to store the wagon (still holding Arabelle) in Arasek Stockyard, and took up residence in the private guest room of the Blue Water Inn.
+> In the morning, [[Dr. Rudolph van Richten|Van Richten]] hid [[Arabelle]] in the back of the wagon, which he hitched to Drusilla, his horse, and rode it into [[The Town of Vallaki|Vallaki]]. There, he struck a deal with [[Gunther Arasek|Gunther]] and [[Yelena Arasek]] to store the wagon (still holding [[Arabelle]]) in [[Arc D - St. Andral's Feast#D3. Arasek Stockyard|Arasek Stockyard]], and took up residence in the private guest room of the [[Arc C - Into the Valley#C12b. The Blue Water Inn|Blue Water Inn]].
 >
-> ***Aftermath of the Kidnapping.*** Arabelle’s absence didn’t go unnoticed for long. By dusk on the night she’d been kidnapped, Luvash had discovered the hungover Alexei and learned of his daughter’s disappearance. The Vistani and dusk elves spread out among the nearby woods, searching in vain for any sign of the missing girl.
+> ***Aftermath of the Kidnapping.*** [[Arabelle]]’s absence didn’t go unnoticed for long. By dusk on the night she’d been kidnapped, [[Luvash]] had discovered the hungover [[Alexei]] and learned of his daughter’s disappearance. The [[Vistani]] and [[Dusk elves]] spread out among the nearby woods, searching in vain for any sign of the missing girl.
 >
-> At nearly the same time that Van Richten and Arabelle were riding through Vallaki’s gates, a dusk elf named Savid found Yan’s decapitated body amidst the reeds of the Luna River amid signs of a struggle. Savid also found a strange trinket atop the bloodied grass: a platinum signet ring stamped with a strange sigil. He returned it to Luvash, who ordered Savid to deliver it to Kasimir Velikov—the dusk elves’ leader and scholar—for inspection upon Kasimir’s return. Luvash has continued the search for Arabelle, though his personal efforts came to a bloody and brutal halt when his right leg was caught in a well-hidden wolf trap.
+> At nearly the same time that [[Dr. Rudolph van Richten|Van Richten]] and [[Arabelle]] were riding through [[The Town of Vallaki|Vallaki]]’s gates, a [[Dusk elves|dusk elf]] named Savid found [[Yan]]’s decapitated body amidst the reeds of the [[#E5a. Luna River Bridge|Luna River]] amid signs of a struggle. Savid also found a strange trinket atop the bloodied grass: a platinum signet ring stamped with a strange sigil. He returned it to [[Luvash]], who ordered Savid to deliver it to [[Kasimir Velikov]]—the [[Dusk elves|dusk elves’]] leader and scholar—for inspection upon [[Kasimir Velikov|Kasimir]]’s return. [[Luvash]] has continued the search for [[Arabelle]], though his personal efforts came to a bloody and brutal halt when his right leg was caught in a well-hidden wolf trap.
 >
-> Meanwhile, Van Richten plans to deliver Arabelle food from the Blue Water Inn’s kitchens once each morning and night, claiming to nosy onlookers that he is merely delivering snacks to the “ferocious saber-toothed tiger” he has locked up in his wagon. Van Richten’s lie, however, is more true than he knows. The wagon is haunted by the kindly ghost of his son, **Erasmus van Richten** (see <span class="citation">Van Richten's Guide to Ravenloft, p. 180</span>)—and Erasmus, in his youthful exuberance, has already scared onlookers away more than once by shaking the wagon and scratching against its wooden interior.
+> Meanwhile, [[Dr. Rudolph van Richten|Van Richten]] plans to deliver [[Arabelle]] food from the [[Arc C - Into the Valley#C12b. The Blue Water Inn|Blue Water Inn]]’s kitchens once each morning and night, claiming to nosy onlookers that he is merely delivering snacks to the “ferocious sabre-toothed tiger” he has locked up in his wagon. [[Dr. Rudolph van Richten|Van Richten]]’s lie, however, is more true than he knows. The wagon is haunted by the kindly ghost of his son, **[[Erasmus van Richten]]** (see *Van Richten's Guide to Ravenloft, p. 180*)—and [[Erasmus van Richten|Erasmus]], in his youthful exuberance, has already scared onlookers away more than once by shaking the wagon and scratching against its wooden interior.
 >
-> Both Van Richten and Arabelle know that this is a temporary solution at best. Van Richten, who first heard of the mysterious [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]] during Doru’s rebellion, is quietly investigating the members as described in <span class="citation">N2c. Taproom (p. 100)</span>. He hopes to determine whether the secret society is friend or foe—and, if friend, whether its agents can be trusted.
+> Both [[Dr. Rudolph van Richten|Van Richten]] and [[Arabelle]] know that this is a temporary solution at best. [[Dr. Rudolph van Richten|Van Richten]], who first heard of the mysterious [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]] during [[Doru]]’s rebellion, is quietly investigating the members as described in *N2c. Taproom (p. 100)*. He hopes to determine whether the secret society is friend or foe—and, if friend, whether its agents can be trusted.
 # E1. Blinsky Toys
-<span class="citation"><em>This scene takes place in Chapter 5: Area N7.</em></span>
+*This scene takes place in Chapter 5: Area N7.*
 
 After receiving [[Madam Eva]]’s request in [[Act I - Into the Mists/Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, [[Arabelle]], the players can get directions to [[The Town of Vallaki|Vallaki]]’s local toy shop, [[#E1. Blinsky Toys|Blinsky Toys]], by asking [[Urwin Martikov]], [[Danika Dorakova]], or most native [[Vallakians]] for directions. [[#E1. Blinsky Toys|Blinsky Toys]] can be found on the northern edge of [[The Town of Vallaki|Vallaki]]'s town square, which is as described in <span class="citation">N8. Town Square (p. 119)</span>.
 
-Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. As the characters explore the shop, [[Gadof Blinsky|Blinsky]] cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
+> [!cutscene] As the players travel through the Town Square, read:
+> The shops and homes that enclose the town square are decorated with limp, tattered garlands and painted wooden boxes filled with tiny, dead flowers. At the north end of the square stands a row of stocks, locked in which are several men, women, and children wearing crude, plaster donkey heads. 
+> 
+> In the centre of the square, peasants in patchwork clothes eye you suspiciously as they use cups and vases to draw water from a crumbling stone fountain. Standing tall at the centre of the fountain is a grey statue of an impressive man facing west. All around the square are posted proclamations:
+> 
+> Come one, come all,
+> 
+> to the greatest celebration of the year:
+> 
+> THE WOLF'S HEAD JAMBOREE!
+> 
+> Attendance and children required.
+> 
+> Pikes will be provided.
+> 
+> ALL WILL BE WELL!
+> 
+> —The Baron—
 
-If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Toys, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
+> [!handout]- "Wolf's Head Jamboree" by Caleb Cleveland
+> ![[Wolfs Head Jamboree by Caleb Cleveland.png]]
 
-If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
+The Wolf's Head Jamboree has already occurred, making the square's proclamations out of date.
 
-As the characters exit Blinsky Toys, they can see Izek Strazni and two **guards** arrive to post new proclamations, as described in <span class="citation">N8. Town Square (p. 119)</span>.
+> [!tip]- Donkey-Headed Criminals
+> The townsfolk in the stocks were arrested for "malicious unhappiness" (spreading negative opinions about the upcoming festival). An iron padlock secures each set of stocks, and [[Izek Strazni]] carries the keys on an iron ring.
+> 
+> Three men, two women, and two boys are trapped in the stocks—all of them tired, wet, and famished. The five adults have the statistics of human commoners, and the children are noncombatants. The plaster donkey heads they wear are meant to encourage ridicule.
+> 
+> Freeing one or more prisoners without the [[Baron Vargas Vallakovich|Baron]]'s consent is a crime. If the characters are witnessed doing so, [[Izek Strazni|Izek]] rallies the town guards (twenty-four in all) and orders the characters to leave town at once, pay a fee, or suffer the consequences. If the characters stand their ground, [[Izek Strazni|Izek]] orders the guards to beat them into submission, seize their weapons, and cast them out of [[The Town of Vallaki|Vallaki]] to be "food for the wolves."
+> 
+> If the characters are exiled from [[The Town of Vallaki|Vallaki]] without their weapons, the [[Keepers of the Feather]] snatch the party's belongings from under [[Izek Strazni|Izek]]'s nose and see them safely returned to the characters.
+> 
+> If the guards fail to waylay the characters, [[Izek Strazni|Izek]] (if he's still around) flees to the burgomaster's mansion, giving the characters the run of the town. The townsfolk lock themselves in their homes, fearful that the characters aim to murder them.
 
-![[Jamboree_Poster_Distressed.png]]
+Most [[Vallakians]] have no idea whom the statue in the square represents. The [[Baron Vargas Vallakovich|Baron]] claims it is [[Boris Vallakovich]], his ancestor and the town's founder, but there's no noticeable family resemblance.
 
-<span class="credit">"Wolf's Head Jamboree" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+> [!cutscene] After one player takes or reads the proclamation, read:
+> Behind the stocks and their unfortunate occupants, you're able to spot a shopfront desperately trying to stand out from the rest, although its faded boarding and fogged display windows betray this desire. As you peer closer, the conglomerated display inside takes shape, and the woeful gloom clinging to the building becomes clear.
+> 
+> Beyond the dark entrance portico, you can see the shop itself is obviously cramped. Above its door hangs a wooden sign shaped like a rocking horse, a cursive "B" engraved on both its sides. Flanking the entrance are two arched, lead-framed windows. Through the dirty glass, you see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!"
 
+[[#E1. Blinsky Toys|Blinsky Toys]] is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>.
+
+[[Gadof Blinsky|Blinsky]] is a heavyset man who wears a moth-eaten jester's cap during store hours, more out of habit than to humour visitors. The only paying customer who has set foot in the store recently is a visitor from a faraway land named [[Dr. Rudolph van Richten|Rictavio]], who came into the store on the day of the player's arrived and bought a stuffed Sabre-toothed Tiger doll.  [[Dr. Rudolph van Richten|Rictavio]], observing the toymaker's loneliness, requested if [[Gadof Blinsky|Blinsky]] would be happy to look after his pet monkey, [[Piccolo]] (use the [baboon](https://2014.5e.tools/bestiary.html#baboon_mm) stat block in the [Monster Manual](https://2014.5e.tools/book.html#mm)) while he stayed in at the local inn. Overjoyed, [[Gadof Blinsky|Blinsky]] accepted and has since begun training the monkey to fetch toys from hard-to-reach shelves. The toymaker has also fitted [[Piccolo]] with a custom-tailored ballerina tutu.
+
+When he meets new customers, [[Gadof Blinsky|Blinsky]] recites a well-rehearsed greeting:
+
+*"Wyelcome, friends, to the House of Blinsky, where hyappiness and smiles can be bought at bargain prices. Perhaps you know a leetle child in need of joy? A leetle toy for a girl or boy?"*
+
+As the characters explore the shop, [[Gadof Blinsky|Blinsky]] cheerfully tells them about his inspiration for making toys: the legendary toymaker [[Fritz von Weerg]], and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in [[Castle Ravenloft]].
+
+> [!example]- What's for sale?
+> On display are a few of his creations, listed below:
+> 
+> - A headless doll that comes with a sack of attachable heads, including one with its eyes and mouth stitched shut (price 9 cp)
+> - A miniature gallows, complete with trapdoor and a weighted "hanged man" (price 9 cp)
+> - A set of wooden nesting dolls; the smaller each one gets, the older it gets, until the innermost doll is a mummified corpse (price 9 cp)
+> - A wood-and-string mobile of hanging bats with flapping wings (price 9 cp)
+> - A wind-up musical merry-go-round with figures of snarling wolves chasing children in place of prancing horses (price 9 sp)
+> - A ventriloquist's dummy that looks like [[Strahd von Zarovich]] (price 9 sp)
+> - A doll that looks remarkably like [[Ireena Kolyana]] (not for sale; see below)
+
+> [!tip]- Ireena Kolyana Dolls
+> [[Gadof Blinsky|Blinsky]] makes special dolls for the [[Baron Vargas Vallakovich|Baron]]'s henchman, [[Izek Strazni]]. [[Izek Strazni|Izek]] doesn't pay for the dolls but instead threatens to burn down [[Gadof Blinsky|Blinsky]]'s shop unless the toymaker delivers a new doll every month. Every doll is modelled on a description given to [[Gadof Blinsky|Blinsky]] by [[Izek Strazni|Izek]], and each doll has been closer to capturing Ireena's likeness than the last.
+> [[Gadof Blinsky|Blinsky]] doesn't know that the doll is meant to be modelled after anyone in particular. If [[Ireena Kolyana|Ireena]] is with the party, however, [[Gadof Blinsky|Blinsky]] realizes that she is the inspiration for [[Izek Strazni|Izek]]'s dolls.
+
+> [!tip]- Von Weerg's Masterpiece
+> [[Gadof Blinsky|Blinsky]] considers himself a student of a great inventor and toymaker named [[Fritz von Weerg]]. [[Gadof Blinsky|Blinsky]] has heard rumours that [[Fritz von Weerg|von Weerg]]'s greatest invention—a clockwork man—lies somewhere in [[Castle Ravenloft]]. If the characters seem intent on going there, [[Gadof Blinsky|Blinsky]] asks if they would be so kind as to find the clockwork "myasterpiece" and "dyeliver" it to him, in exchange for which [[Gadof Blinsky|Blinsky]] offers to make them any toy they desire. Because "byusiness" has not been good, he says, he has no other reward to offer except, perhaps, a custom toy or prosthetic.
+
+If the players ask [[Gadof Blinsky|Blinsky]] about the doll resembling [[Ireena Kolyana]], he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful [[Gadof Blinsky|Blinsky]] to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. [[Gadof Blinsky|Blinsky]] is clearly terrified of [[Izek Strazni|Izek]]’s wrath, and will do anything to ensure that the doll is delivered on time.
+
+If the players ask [[Gadof Blinsky|Blinsky]] about [[Piccolo]], he can inform them that he received the monkey the morning of the player's arrival in Vallaki, from a traveling bard named [[Dr. Rudolph van Richten|Rictavio]]. He is currently looking after it while [[Dr. Rudolph van Richten|Rictavio]] stays at the [[Arc C - Into the Valley#C12b. The Blue Water Inn|Blue Water Inn]].
+
+As the characters exit [[#E1. Blinsky Toys|Blinsky Toys]], they can see [[Izek Strazni]] and two **guards** arrive to post new proclamations. [[Izek Strazni|Izek]] orders one guard to tear down all of the old proclamations while the other posts the following new one.
+
+> [!cutscene] The new proclamations read:
+> COME ONE, COME ALL,
+> 
+> to the greatest celebration of the year:
+> 
+> THE FESTIVAL OF THE BLAZING SUN!
+> 
+> Attendance and children required.
+> 
+> Rain or shine.
+> 
+> ALL WILL BE WELL!
+> 
+> —The Baron—
 # E2. Vistani Camp
 <span class="citation"><em>This scene takes place in Chapter 5: Area N9.</em></span>
 
-The path from Vallaki to the Vistani Camp is as described in <span class="citation">N9. Vistani Camp (p. 119)</span>. The journey is one-half mile long and takes approximately ten minutes.
+Several footpaths and horse trails lead to this location in the woods southwest of [[The Town of Vallaki|Vallaki]]. The journey is one-half mile long and takes approximately ten minutes.
+
+> [!cutscene] When the players arrive, read:
+> The woods part to reveal an expansive clearing: a small, grass-covered hill with low houses built into its sides. Fog obscures the details, but you can see that these buildings feature elegantly carved woodwork and have decorative lanterns hanging from their sculpted eaves.
+> 
+> Atop the hill, above the fog, is a ring of barrel-topped wagons that surround a large tent with a column of smoke pouring out through a hole in the top. The tent is brightly lit from within. Even at this distance, you can smell the odors of wine and horses that emanate from this central area.
 
 When the players arrive at the camp, they can choose to either ascend the hill to the ring of wagons at the top (see [[#E2a. The Vistani Encampment]]) or speak with one the dusk elves guarding the hovels at the base of the hill (see [[#E2b. Dusk Elf Hovels]]).
 ## E2a. The Vistani Encampment
 ### Entering the Vistani Camp
-The Vistani are largely as described in <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>, with the encampment largely as described in <span class="citation">N9c. Vistani Tent, N9d. Horses, N9e. Luvash's Wagon, N9f. Wagon of Sleeping Vistani, N9g. Wagon of Gambling Vistani, N9h. Vistani Family Wagon, and N9i. Vistani Treasure Wagon (pp. 121-23)</span>. 
+The Vistani are largely as described in <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>
 
-When the players first enter the tent, modify the descriptive text as follows:
+> [!tip]- The Vistani
+> Unlike in the original, the Vistani in this camp do not all serve Strahd. The elders have died, leaving a pair of brothers named [[Luvash]] and [[Arrigal]] in charge.
+> 
+> These Vistani have two problems:
+> - [[Luvash]]'s seven-year-old daughter, [[Arabelle]], recently disappeared from the camp. Consequently, half of the Vistani are out searching for her when the characters arrive.
+> - If the players speak to the Vistani here after Act III begins, they mention that they have nearly exhausted their supply of wine and are eager to obtain more.
+>   
+> Characters who help them with either problem earn the Vistani's respect.
 
-<div class="description">
-<p>As you duck inside the tent, you hear the sound of splintering wood and shattering ceramic. Blinking through the haze of smoke that fills the interior, you see three sputtering campfires burning low with embers. A total of six Vistani sit around the hearths, watching the source of the commotion with solemn, sympathetic looks.</p>
-<p>A shirtless young man kneels on the dead grass by the center of the tent, his eyes downcast and his face pale. Beside him, a broken wooden crate sits amidst a pile of broken pottery shards, several of which are still wobbling from the force of impact.</p>
-<p>A dozen feet from the kneeling youth stands an older, larger man wearing studded leather armor and a thick, well-trimmed beard. His eyes are bloodshot, and his right hand is trembling. He appears to be leaning his weight against a makeshift wooden crutch for support; looking down, you see that his lower right leg is wrapped in blood-stained bandages.</p>
-<p>"You were supposed to keep her safe!" the larger man bellows hoarsely. He whirls, his hand grabbing blindly as if for something else to throw. Sweat beads on his forehead, and he chokes back a sob of rage. "My little girl! And now—"</p>
-<p>He wavers unsteadily—and stumbles. In a blink, a third man, also clad in studded leather and wearing a fine-trimmed goatee, steps out from his shadow and catches the larger man on his shoulder before he falls. "Easy, brother," the third man murmurs. "You've lost a lot of blood." He glances up and catches sight of you, his brow tightening almost imperceptibly. "And it would appear that we have company."</p>
-</div>
+> [!tip]- The Dusk Elves
+> The [[Dusk elves|dusk elf]] race is all but forgotten, and the few survivors live in secret places such as this. They have dark skin and hair, but otherwise they are similar to wood elves (as described in the [Player's Handbook](https://2014.5e.tools/book.html#phb)). One of Strahd's old brides, [Patrina Velikovna](https://2014.5e.tools/bestiary.html#patrina%20velikovna_cos), used to live here. Her brother, [Kasimir Velikov](https://2014.5e.tools/bestiary.html#kasimir%20velikov_cos), still does.
+
+The dusk elves reside in small homes built into the hillside and are mostly self-sufficient. They are skilled trackers, and many of them are away from camp when the characters arrive, helping the Vistani search for [Arabelle](https://2014.5e.tools/bestiary.html#arabelle_cos). Strahd has tasked the Vistani with keeping an eye on the dusk elves, and the dusk elves know they aren't safe in Barovia without the Vistani's "protection." Strahd has also forbidden the Vistani from helping the dusk elves escape his domain.
+
+There are no women or children among the dusk elves. Strahd had all the female dusk elves put to death around four centuries ago as a punishment for Patrina's murder. Thus, the remaining elves can't procreate. A broken people, they are aware of the vampire's absolute hold over the land of Barovia. They keep a low profile and have no desire to incur Strahd's wrath again.
+
+
+with the encampment largely as described in <span class="citation">N9c. Vistani Tent, N9d. Horses, N9e. Luvash's Wagon, N9f. Wagon of Sleeping Vistani, N9g. Wagon of Gambling Vistani, N9h. Vistani Family Wagon, and N9i. Vistani Treasure Wagon (pp. 121-23)</span>. 
+
+> [!cutscene] When the players first enter the tent, modify the descriptive text as follows:
+> 
+> As you duck inside the tent, you hear the sound of splintering wood and shattering ceramic. Blinking through the haze of smoke that fills the interior, you see three sputtering campfires burning low with embers. A total of six Vistani sit around the hearths, watching the source of the commotion with solemn, sympathetic looks.
+> 
+> A shirtless young man kneels on the dead grass by the center of the tent, his eyes downcast and his face pale. Beside him, a broken wooden crate sits amidst a pile of broken pottery shards, several of which are still wobbling from the force of impact.
+> 
+> A dozen feet from the kneeling youth stands an older, larger man wearing studded leather armor and a thick, well-trimmed beard. His eyes are bloodshot, and his right hand is trembling. He appears to be leaning his weight against a makeshift wooden crutch for support; looking down, you see that his lower right leg is wrapped in blood-stained bandages.
+> 
+> "You were supposed to keep her safe!" the larger man bellows hoarsely. He whirls, his hand grabbing blindly as if for something else to throw. Sweat beads on his forehead, and he chokes back a sob of rage. "My little girl! And now—"
+> 
+> He wavers unsteadily—and stumbles. In a blink, a third man, also clad in studded leather and wearing a fine-trimmed goatee, steps out from his shadow and catches the larger man on his shoulder before he falls. "Easy, brother," the third man murmurs. "You've lost a lot of blood." He glances up and catches sight of you, his brow tightening almost imperceptibly. "And it would appear that we have company."
 
 The shirtless man is Alexei. The larger man is Luvash. The man with the goatee is Arrigal.
 

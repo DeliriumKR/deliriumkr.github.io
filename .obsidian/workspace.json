@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barovia/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
-                "mode": "preview",
+                "file": "Barovia/Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arc B - Welcome to Barovia"
+              "title": "Arc E - The Missing Vistana"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "piccolo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Barovia/Act I - Into the Mists/Arc C - Into the Valley.md",
+                "file": "Barovia/Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Arc C - Into the Valley"
+              "title": "Backlinks for Arc E - The Missing Vistana"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barovia/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+                "file": "Barovia/Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arc B - Welcome to Barovia"
+              "title": "Outline of Arc E - The Missing Vistana"
             }
           },
           {
@@ -190,7 +190,7 @@
             }
           },
           {
-            "id": "19644837f3266b30",
+            "id": "744aeddb74178e38",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -220,36 +220,38 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e19e8d672900c82d",
+  "active": "9eb6cee472e0a993",
   "lastOpenFiles": [
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 5 - Defending the Fortified Village.md",
     "Barovia/Act I - Into the Mists/Arc C - Into the Valley.md",
-    "Barovia/Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
+    "Barovia/Act I - Into the Mists/Arc B - Welcome to Barovia.md",
     "Barovia/Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+    "Barovia/Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
+    "Barovia/Appendix/Images/Wolfs Head Jamboree by Caleb Cleveland.png",
+    "Pasted image 20260113140720.png",
+    "Pasted image 20260113140712.png",
+    "Barovia/Appendix/History/Historical Figures/Fritz von Weerg.md",
     "Barovia/Act I - Into the Mists/Arc A - Escape from Death House.md",
+    "Barovia/Appendix/Non-Player Characters/Gadof Blinsky.md",
+    "Barovia/Act II - The Shadowed Town/Arc G - The Strazni Siblings.md",
+    "Barovia/Appendix/Non-Player Characters/Dr. Rudolph van Richten.md",
+    "Barovia/Act II - The Shadowed Town/Arc I - The Walls of Krezk.md",
+    "Barovia/Appendix/Cultures/Barovians.md",
+    "Barovia/Appendix/Cultures/Dusk elves.md",
+    "Barovia/Appendix/Cultures/Vallakians.md",
+    "Barovia/Appendix/Cultures/Vistani.md",
+    "Barovia/Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+    "Barovia/Appendix/Running the Adventure/An Anthology of Strahd's Taunts.md",
+    "Barovia/Player Groups/Heart of Sorrow/Session Zero.md",
+    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 7 -.md",
+    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 6 - Aftermath of the Siege.md",
+    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 4 - A Rotten First Impression.md",
+    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 5 - Defending the Fortified Village.md",
     "Barovia/Appendix/Non-Player Characters/Bray.md",
     "Barovia/Appendix/Non-Player Characters/Brom.md",
     "Barovia/Appendix/Running the Adventure/Getting Started.md",
     "Barovia/Appendix/Running the Adventure/Random Encounters.md",
     "Barovia/Appendix/Images/Map Blue Water Inn Player Version.png",
-    "Barovia/Appendix/Factions/The Ladies of the Fanes.md",
     "Barovia/Appendix/Images/Map 5.2 Blue Water Inn (Area N2).png",
-    "Barovia/Appendix/Non-Player Characters/Urwin Martikov.md",
-    "Barovia/Appendix/Non-Player Characters/Ezmerelda d’Avenir.md",
-    "Barovia/Appendix/Non-Player Characters/Szoldar Szoldarovich.md",
-    "Barovia/Appendix/History/Historical Figures/Khazan.md",
-    "Barovia/Appendix/History/Historical Figures/Ismark, the Great.md",
-    "Barovia/Appendix/History/Historical Figures/Tatyana Federovna.md",
-    "Barovia/Appendix/History/Historical Figures/Saint Andral.md",
-    "Barovia/Appendix/History/Historical Figures/Lugdana.md",
-    "Barovia/Appendix/Non-Player Characters/Victor Vallakovich.md",
-    "Barovia/Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md",
-    "Barovia/Appendix/Non-Player Characters/Kasimir Velikov.md",
-    "Barovia/Appendix/Non-Player Characters/Arrigal.md",
-    "Barovia/Appendix/Non-Player Characters/Arabelle.md",
-    "Barovia/Appendix/Non-Player Characters/Luvash.md",
-    "Barovia/Appendix/Non-Player Characters/Yan.md",
-    "Barovia/Appendix/Religions/The Faith of the Ladies Three.md",
     "Untitled.base",
     "Templates",
     "Barovia/Player Groups/Heart of Sorrow/Campaign Diary/Act I - Into the Mists/Arc A - Escape from Death House",
@@ -265,9 +267,6 @@
     "Barovia/Appendix/Images/Father Lucian Petrovich by Caleb Cleveland.png",
     "Barovia/Appendix/Images/Izek Strazni by Caleb Cleveland.png",
     "Barovia/Appendix/Images/Yevgeni Krushkin.webp",
-    "Barovia/Appendix/Images/Szoldar Szoldarovich.webp",
-    "Barovia/Appendix/Images/Rictavio by Caleb Cleveland.png",
-    "Barovia/Appendix/Images/The Martikovs of the Blue Water Inn by Caleb Cleveland.png",
     "Untitled.canvas"
   ]
 }

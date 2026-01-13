@@ -247,7 +247,7 @@ If one of the players expresses an interest in breaking into the wagon, [[Fathe
 
 If a player nonetheless attempts to unlock or force open the door to the wagon, the entire wagon suddenly rocks violently from side to side. The players can also hear the sound of something with large, heavy claws scratching against the interior of the wagon. (The rocking and scratches are made by the ghost of [[Erasmus van Richten]], a **poltergeist** seeking to protect [[Arabelle]] by scaring visitors away.)
 
-If the players successfully break the door to the wagon or pick its padlock, they find that the wagon’s interior contains a soft bed of straw, a comfortable woollen blanket, a few books, and a young Vistana girl—[[Arabelle]]—who is clutching a plush sabre-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet. (For more information about [[Arabelle]], see [Arc E - The Missing Vistana](app://obsidian.md/Arc%20E%20-%20The%20Missing%20Vistana).)
+If the players successfully break the door to the wagon or pick its padlock, they find that the wagon’s interior contains a soft bed of straw, a comfortable woollen blanket, a few books, and a young Vistana girl—[[Arabelle]]—who is clutching a plush sabre-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet. (For more information about [[Arabelle]], see [[Arc E - The Missing Vistana]].)
 # D4. Coffin Maker's Shop
 
 _This scene takes place in Chapter 5: Area N6._
