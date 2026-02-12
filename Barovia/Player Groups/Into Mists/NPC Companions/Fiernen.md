@@ -6,7 +6,6 @@ tags:
   - Argynvostholt
 aliases:
 ---
-
 > [!combat]- Fiernen, the Silver Heir - Stat block
 > ```statblock
 > creature: Silver Dragon Wyrmling
