@@ -753,7 +753,7 @@ If further questioned, [[Madam Eva]] holds up a hand, then silently turns to fac
 > Every night at midnight, one hundred spirits rise from the unmarked cemetery on the [[#C2. River Ivlis Crossroads (F)]] and march up the Old Svalich Road to [[Castle Ravenloft]].
 > 
 >> [!cutscene] When the March of the Dead begins, read:
-> > An eerie green light suffuses the graveyard. From this light emerges a ghostly procession. Wavering images of doughty women toting greatswords, woodwise men with slender bows, dwarves with glittering axes, and archaically dressed mages with beards and strange, pointed hats—all these and more march forth from the graveyard, their numbers growing by the second.
+> > An eerie green light suffuses the unmarked graveyard. From this light emerges a ghostly procession. Wavering images of doughty women toting greatswords, woodwise men with slender bows, dwarves with glittering axes, and archaically dressed mages with beards and strange, pointed hats—all these and more march forth from the graveyard, their numbers growing by the second.
 > 
 > These aren't the spirits of the people buried here, but of previous adventurers who died trying to destroy [[Strahd von Zarovich|Strahd]]. Every night, the ghostly adventurers attempt to complete their quest, and each night they fail. They have no interest in the living and can't be hit, damaged, or turned. They will not communicate with the characters.
 > 
@@ -893,6 +893,17 @@ If the players explore the watchtower, they find a broken silver pendant carved 
 > A small broken silver pendant carved to resemble a dragon that is is always cold to the touch.
 > ^BrokenSilverDragonPendant
 
+### C6a. Guard Tower, Ground Floor (T4.)
+The tower door has been half-pulled from its hinges and can be easily opened.
+
+> [!cutscene] When the players enter, read:
+> A cold hearth stands across from the door, the wind howling down its chimney. A stone staircase is on the south wall. Three windows look out over a foggy blur.
+
+The stairs climb 20 feet to area [[#C6b. Guard Tower, Upper Floor (T5)]]
+### C6b. Guard Tower, Upper Floor (T5.)
+> [!cutscene] When the players ascend here, read:
+> The upper level of the tower is a cramped space with windows set in almost every wall. A rusted iron ladder bolted to the floor and ceiling leads up to a wooden trapdoor. A whistling wind calls to you through the chimney, as if calling you back into the mists outside.
+### C6c. Guard Tower Rooftop (T6.)
 From atop the battlements of the watchtower, the players can see Tser Falls to the northwest and [[#C4. Tser Pool (G)]] to the northeast. To the south, above and beyond the slopes of Mount Ghakis, they can see only an impenetrable wall of thick, grey fog.
 ## The Graves
 ---
@@ -975,48 +986,28 @@ If the players pause, proceed, or attack, the six wolves in the woods strike.
 > >A player attempting to ascend or descend the edge of the ravine must make a DC 10 Strength (Athletics) check. If the check succeeds, the character moves at half speed up or down the edge of the ravine, as desired. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage per 10 feet fallen, landing prone at the base of the ravine.
 >
 >---
-> For parties of smaller or larger sizes, modify the encounter accordingly:
 > 
- >> [!combat]- Three Players
- >> Reduce the number of wolves to 3.
-> > ```encounter
-> > name: Fight Against the Wolves (3)
-> > creatures:
-> >   - Ireena Kolyana, Ireena, ally
-> >   - Muriel Vinshaw, Blue, ally
-> >   - 3: Barovian Wolf
-> > ```
+> **Combat - The Wolves**  
+> **Combat Level**: Bloody
+> **Expected Character Level**: 3
+> **Allies:** Muriel Vinshaw (CR 0), Ireena Kolyana (CR 1)
+> **Expected HP Consumption:** 58%
 > 
- >> [!combat]- Four Players
- >> Reduce the number of wolves to 4.
-> > ```encounter
-> > name: Fight Against the Wolves (4)
-> > creatures:
-> >   - Ireena Kolyana, Ireena, ally
-> >   - Muriel Vinshaw, Blue, ally
-> >   - 4: Barovian Wolf
-> > ```
+> ### **Enemies:**
 > 
- >> [!combat]- Five Players
- >> As standard
-> > ```encounter
-> > name: Fight Against the Wolves (5)
-> > creatures:
-> >   - Ireena Kolyana, Ireena, ally
-> >   - Muriel Vinshaw, Blue, ally
-> >   - 5: Barovian Wolf
-> > ```
-> 
- >> [!combat]- Six Players
- >> Reduce the number of wolves to 1 and increase the number of werewolves to 2.
-> > ```encounter
-> > name: Fight Against the Wolves (6)
-> > creatures:
-> >   - Ireena Kolyana, Ireena, ally
-> >   - Muriel Vinshaw, Blue, ally
-> >   - Barovian Wolf
-> >   - 2: Barovian Werewolf
-> > ```
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Wolves | 3 | 4 | 8 | 1 |
+> | Werewolves | 0 | 0 | 0 | 2 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the number of wolves to 3. |
+> | 4 | Reduce the number of wolves to 4. |
+> | 6 | Reduce the number of wolves to 1 and increase the number of werewolves to 2. |
 >^FightAgainstTheWolves
 
 As the players depart this area, a player with a passive Wisdom (Perception) score of 13 or greater notices two wolves, slightly larger than the others, watching them from atop an eastern mountain crag that rises above the tree line. A player who succeeds on a DC 20 Wisdom (Insight) check discerns that the wolves appear to be surveying them with a patient intelligence unusual for a wolf. The wolves turn and vanish from sight if noticed or interacted with.
@@ -1261,6 +1252,19 @@ The werewolves don't attack immediately, preferring to wait for the perfect time
 > >   - 2: Barovian Werewolf
 > > ```
 > 
+> **Combat - The Werewolf Hunt**  
+> **Combat Level**: Oppressive
+> **Expected Character Level**: 3
+> **Allies:** Two swarms of ravens (CR 1/4), Ireena Kolyana (CR 1)
+> **Expected HP Consumption:** 84%
+> 
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Werewolf | 2 | 2 | 2 | 2 |
+> | Wolf | 1 | 2 | 3 | 4 |
+> 
 > A werewolf flees if it begins its turn with 20 hit points or fewer and doesn’t regenerate, or if it begins its turn with 0 hit points on three turns in a row. Any surviving wolves follow soon after.
 > 
 > If the werewolves die, they reverts to their true forms: a young man with pale, freckled skin and a lean, muscled frame, and a brawny young man with a cruel face and dark, oily hair. Each bears a bloody, raw, and blighted wound on his side—the source of the their lycanthropic affliction.
@@ -1312,7 +1316,7 @@ If the players departed from [[#C4. Tser Pool (G)]] that morning, they arrive in
 > 
 > Some of the folks in the tents clung to the walls regard [[Ireena Kolyana|Ireena]] with dull recognition, but none lift a hand in greeting or make any gesture of warmth.
 
-This area, the Morning Gate (or, as some locals like to call it, the Mourning Gate), is largely as described in Town Gates (p. 95). A tall gate made of iron bars leading into town.
+This area to the east, the Morning Gate (or, as some locals like to call it, the Mourning Gate), is largely as described in Town Gates (p. 95). A tall gate made of iron bars leading into town.
 
 Heavy iron chains with iron padlocks keep the gates shut at night. During the day, the gates are closed but not typically locked.
 
@@ -1338,7 +1342,8 @@ The guards at the gates largely act as described in Town Gates (p. 95). One has
 
 The guards greet all visitors with suspicion, particularly those who arrive at night. If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma (Persuasion) check to convince the guards to unlock the gate and let them enter.
 
-If trouble breaks out at one of the gates, the guards there cry out, "To arms!" Their shouts are echoed across [[The Town of Vallaki|Vallaki]], putting the entire town on alert within minutes. [[The Town of Vallaki|Vallaki]] has twenty-four human [guards](https://2014.5e.tools/bestiary.html#guard_mm), half of whom are on duty at any given time (six stand watch at the gates, six patrol the walls). The town can also muster a militia of fifty able-bodied human [commoners](https://2014.5e.tools/bestiary.html#commoner_mm) armed with clubs, daggers, and torches.
+> [!info]- Troublemaking Players
+> If trouble breaks out at one of the gates, the guards there cry out, "To arms!" Their shouts are echoed across [[The Town of Vallaki|Vallaki]], putting the entire town on alert within minutes. [[The Town of Vallaki|Vallaki]] has twenty-four human [guards](https://2014.5e.tools/bestiary.html#guard_mm), half of whom are on duty at any given time (six stand watch at the gates, six patrol the walls). The town can also muster a militia of fifty able-bodied human [commoners](https://2014.5e.tools/bestiary.html#commoner_mm) armed with clubs, daggers, and torches.
 
 The guards demand that each person first identify themselves. Once identified, each player must show their teeth ("To prove you're not vampires.") and briefly be exposed to a necklace strung with bulbs of garlic ("To prove you're not werewolves"). (The [[Baron Vargas Vallakovich]] has, incorrectly, informed his guards that werewolves are severely allergic to garlic.)
 
@@ -1349,7 +1354,7 @@ If the players pay the toll, the guards also insist that each entrant opens thei
 If asked about lodging, the guards can share information about the Blue Water Inn, which offers food, wine, and shelter to visitors. They also inform them that a stranger with pointed ears is staying there. He came to Barovia from a distant land, riding into town on a carnival wagon. "You won't find much sympathy for your plight from the Good Vallakians, but perhaps a fellow stranger would be welcome company for yourselves."
 The guards are also willing to provide additional directions to other landmarks in the town in exchange for a bribe of 1 gold piece.
 
-Each time the players pass through the gates, including the first, the guards nod at them and intone the [[Baron Vargas Vallakovich|Baron]]'s favored phrase: "All will be well."
+Each time the players pass through the gates, including the first, the guards nod at them and intone the [[Baron Vargas Vallakovich|Baron]]'s favoured phrase: "All will be well."
 
 > [!example]- Gertruda's Fate
 > If the players inquire about [[Gertruda]]'s fate and provide a description, the guards truthfully share that they haven't seen anyone resembling her.
@@ -1726,13 +1731,15 @@ Lowering his voice, [[Urwin Martikov|Urwin]] warns the players that they must be
 
 If the players ask whether the [[Baron Vargas Vallakovich|Baron]] has any enemies in [[The Town of Vallaki|Vallaki]], [[Urwin Martikov|Urwin]] can also share the information about [[Lady Fiona Wachter]] described in [[The Town of Vallaki|Vallaki]] Lore (p. 96). However, instead of describing [[Lady Fiona Wachter|Lady Wachter]]'s "mad daughter," [[Urwin Martikov|Urwin]] shares only that [[Lady Fiona Wachter|Lady Fiona]] has a daughter, [[Stella Wachter]], who [[Lady Fiona Wachter|Lady Wachter]] has recently kept cloistered on the grounds of Wachterhaus for unknown reasons.
 
+> [!tip]- Urwin's info on Lady Wachter
+> No one hates the [[Baron Vargas Vallakovich|Baron]] more than [[Lady Fiona Wachter]], who is often quoted as saying, "I'd rather serve the devil than a madman." She owns an old house in town (area N4) but rarely leaves her estate. Her two adult sons, [[Nikolai Wachter]] and [[Karl Wachter]], are local troublemakers. [[Lady Fiona Wachter|Lady Wachter]] also has a daughter whom she has recently kept cloistered on the grounds of Wachterhaus for unknown reasons. The [[Baron Vargas Vallakovich|Baron]] doesn't confront [[Lady Fiona Wachter|Fiona]] or her offspring because he is afraid of [[Lady Fiona Wachter|Lady Wachter]], whose family has old ties to Strahd.
+
 As [[Urwin Martikov|Urwin]]'s conversation draws to a close, [[Dr. Rudolph van Richten|Rictavio]] descends the stairs from N2n. Private Guest Room and approaches the bar, greeting the players with a nod. [[Urwin Martikov|Urwin]] bids him good morning and removes a small parcel from beneath the counter, which [[Dr. Rudolph van Richten|Rictavio]] accepts and tucks into his cloak.
 
 > [!example]- What's In the Parcel?
 > If asked, [[Urwin Martikov|Urwin]] can inform the players that the parcel merely contains food—a few apples, some loaves of bread, and a wheel of cheese.
-
 ### Following the Ringmaster
-If one or more players follow [[Dr. Rudolph van Richten|Rictavio]] out of [[#C12b. The Blue Water Inn|the Blue Water Inn]], they can follow him to N2f. Stable (p. 101) without difficulty.
+If one or more players follow [[Dr. Rudolph van Richten|Rictavio]] out of [[#C12b. The Blue Water Inn|the Blue Water Inn]], they can follow him to [[#N2f. Stable]] (p. 101) without difficulty.
 
 Once inside, [[Dr. Rudolph van Richten|Rictavio]] removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, [[Dr. Rudolph van Richten|Rictavio]] checks his surroundings, forcing any hidden players to succeed on a DC 18 group Dexterity (Stealth) check or be detected.
 
@@ -1816,7 +1823,7 @@ If the players defied [[Baron Vargas Vallakovich|Vargas Vallakovich]] or [[Izek 
 
 **_Encounter with Strahd._** Many community encounters with [[Strahd von Zarovich|Strahd]] create situations in which, in order to drive home [[Strahd von Zarovich|Strahd]]'s power and cruelty, the players inevitably "lose." Such encounters are likely to frustrate players and engender apathy or despair instead of a tense, yet enjoyable gameplay experience. However, it is equally important that [[Strahd von Zarovich|Strahd]] not be allowed to "lose" his initial encounter with the players, even by proxy (e.g., combat with his minions). To allow [[Strahd von Zarovich|Strahd]]'s power to be questioned at this stage would fundamentally undermine his capacity as a villain.
 
-As such, this encounter intentionally creates a circumstance in which both [[Strahd von Zarovich|Strahd]] and the players can "win" by the end—the players, by convincing [[Strahd von Zarovich|Strahd]] to let them and [[Ireena Kolyana|Ireena]] go, and [[Strahd von Zarovich|Strahd]], by gleaning useful information from the players' arguments and by clearly signalling that he is merely humoring their efforts.
+As such, this encounter intentionally creates a circumstance in which both [[Strahd von Zarovich|Strahd]] and the players can "win" by the end—the players, by convincing [[Strahd von Zarovich|Strahd]] to let them and [[Ireena Kolyana|Ireena]] go, and [[Strahd von Zarovich|Strahd]], by gleaning useful information from the players' arguments and by clearly signalling that he is merely humouring their efforts.
 
 While running this scene, recall the wise words of Tywin Lannister: "Any man who must say 'I am the king' is no true king." So too for [[Strahd von Zarovich|Strahd]]: allowing the players to successfully irritate, annoy, or otherwise drive him to "punish them" functionally allows the players to gain a certain measure of control over the conversation, reducing [[Strahd von Zarovich|Strahd]]'s appearance of real and apparent control, and indicating that [[Strahd von Zarovich|Strahd]] is a petty noble who cares about his own ego. Always remember that, especially at this stage, the players _cannot hurt_ [[Strahd von Zarovich|Strahd]] in any meaningful way—and, as such, he feels no need to hurt _them_ in any meaningful way.
 
@@ -1864,38 +1871,63 @@ Lycanthropic immunity has been changed to silver-based regeneration in order to 
 ---
 ### Handouts & Props
 
-|                Handout/Prop Name                 |          First Appearance           |                                                           Relevant Areas                                                            |                             Description                             |                            Content                            |     Creation     |
-| :----------------------------------------------: | :---------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------: | :--------------: |
-| [[#^GatesOfBaroviaImage\| Gates of Barovia Art]] |       [[#C8. Black Carriage]]       |                                                       [[#C8. Black Carriage]]                                                       | Art depicting the Gates of Barovia derived from the CoS Source book | Illustrates the [[#C8. Black Carriage\|Gates of Barovia (B)]] | Print & Laminate |
-|                Svalich Woods Art                 |   [[#C1. The Svalich Woods (C)]]    |                  [[#C1. The Svalich Woods (C)]], [[#C2e. Departing the Crossroads]], [[#C4g. Departing Tser Pool]]                  |                   Art depicting the Svalich Woods                   |        Illustrates the [[#C1. The Svalich Woods (C)]]         |  Image for VTT   |
-|            River Ivlis Crossroads Art            | [[#C2. River Ivlis Crossroads (F)]] | [[#C2. River Ivlis Crossroads (F)]], [[#C4e. Return to the River Ivlis Crossroads]], [[#C4e. Return to the River Ivlis Crossroads]] |              Art depicting the River Ivlis Crossroads               |      Illustrates the [[#C2. River Ivlis Crossroads (F)]]      |  Image for VTT   |
-|             Tser Pool Encampment Art             |       [[#C4. Tser Pool (G)]]        |                                                       [[#C4. Tser Pool (G)]]                                                        |          Art depicting Tser Pool and Tser Pool Encampment           |              Illustrates [[#C4. Tser Pool (G)]]               |  Image for VTT   |
-|               Old Bone Grinder Art               |      [[#C9. Old Bonegrinder]]       |                                                      [[#C9. Old Bonegrinder]]                                                       |                   Art depicting Old Bone Grinder                    |             Illustrates [[#C9. Old Bonegrinder]]              |  Image for VTT   |
-|                  [[Escher]] Art                  |     [[#C2a. Strahd's Arrival]]      |                                                     [[#C2a. Strahd's Arrival]]                                                      |                        Art depicting Escher                         |                   Character Art for Escher                    | Print & Laminate |
-|                Black Carriage Art                |     [[#C2a. Strahd's Arrival]]      |                                                     [[#C2a. Strahd's Arrival]]                                                      |             Art depicting the Black Carriage's arrival              |            Background art for the Strahd's Arrival            |  Image for VTT   |
-|           [[Strahd von Zarovich]] Art            |     [[#C2a. Strahd's Arrival]]      |                                                     [[#C2a. Strahd's Arrival]]                                                      |                  Art depicting Strahd von Zarovich                  |           Character art for [[Strahd von Zarovich]]           | Print & Laminate |
-|              The Greater Strix Art               |         [[#C3. The Strix]]          |                                                         [[#C3. The Strix]]                                                          |                      Art for the Greater Strix                      |     Monster art for the Greater Strix, by Caleb Cleveland     | Print & Laminate |
-|                   [[Stanimir]]                   |       [[#C4. Tser Pool (G)]]        |                                                       [[#C4. Tser Pool (G)]]                                                        |                       Art depicting Stanimir                        |                Character art for [[Stanimir]]                 | Print & Laminate |
-|                  [[Madam Eva]]                   |     [[#C4b. Madam Eva's Tent]]      |                                      [[#C4b. Madam Eva's Tent]], [[#C4f. The Tarokka Reading]]                                      |                       Art depicting Madam Eva                       |                  Character art for Madam Eva                  | Print & Laminate |
+|                               Handout/Prop Name                                |                   First Appearance                    |                                                           Relevant Areas                                                            |                                    Description                                     |                                   Content                                   |        Creation         |
+| :----------------------------------------------------------------------------: | :---------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: | :---------------------: |
+|                [[#^GatesOfBaroviaImage\| Gates of Barovia Art]]                |                [[#C8. Black Carriage]]                |                                                       [[#C8. Black Carriage]]                                                       |        Art depicting the Gates of Barovia derived from the CoS Source book         |        Illustrates the [[#C8. Black Carriage\|Gates of Barovia (B)]]        |    Print & Laminate     |
+|                               Svalich Woods Art                                |            [[#C1. The Svalich Woods (C)]]             |                  [[#C1. The Svalich Woods (C)]], [[#C2e. Departing the Crossroads]], [[#C4g. Departing Tser Pool]]                  |                          Art depicting the Svalich Woods                           |               Illustrates the [[#C1. The Svalich Woods (C)]]                |      Image for VTT      |
+|                           River Ivlis Crossroads Art                           |          [[#C2. River Ivlis Crossroads (F)]]          | [[#C2. River Ivlis Crossroads (F)]], [[#C4e. Return to the River Ivlis Crossroads]], [[#C4e. Return to the River Ivlis Crossroads]] |                      Art depicting the River Ivlis Crossroads                      |             Illustrates the [[#C2. River Ivlis Crossroads (F)]]             |      Image for VTT      |
+|                            Tser Pool Encampment Art                            |                [[#C4. Tser Pool (G)]]                 |                                                       [[#C4. Tser Pool (G)]]                                                        |                  Art depicting Tser Pool and Tser Pool Encampment                  |                     Illustrates [[#C4. Tser Pool (G)]]                      |      Image for VTT      |
+|                              Old Bone Grinder Art                              |               [[#C9. Old Bonegrinder]]                |                                                      [[#C9. Old Bonegrinder]]                                                       |                           Art depicting Old Bone Grinder                           |                    Illustrates [[#C9. Old Bonegrinder]]                     |      Image for VTT      |
+|                                 [[Escher]] Art                                 |              [[#C2a. Strahd's Arrival]]               |                                                     [[#C2a. Strahd's Arrival]]                                                      |                                Art depicting Escher                                |                          Character Art for Escher                           |    Print & Laminate     |
+|                               Black Carriage Art                               |              [[#C2a. Strahd's Arrival]]               |                                                     [[#C2a. Strahd's Arrival]]                                                      |                     Art depicting the Black Carriage's arrival                     |                   Background art for the Strahd's Arrival                   |      Image for VTT      |
+|                          [[Strahd von Zarovich]] Art                           |              [[#C2a. Strahd's Arrival]]               |                                                     [[#C2a. Strahd's Arrival]]                                                      |                         Art depicting Strahd von Zarovich                          |                  Character art for [[Strahd von Zarovich]]                  |    Print & Laminate     |
+|                             The Greater Strix Art                              |                  [[#C3. The Strix]]                   |                                                         [[#C3. The Strix]]                                                          |                             Art for the Greater Strix                              |            Monster art for the Greater Strix, by Caleb Cleveland            |    Print & Laminate     |
+|                                  [[Stanimir]]                                  |                [[#C4. Tser Pool (G)]]                 |                                                       [[#C4. Tser Pool (G)]]                                                        |                               Art depicting Stanimir                               |                       Character art for [[Stanimir]]                        |    Print & Laminate     |
+|                                 [[Madam Eva]]                                  |              [[#C4b. Madam Eva's Tent]]               |                                      [[#C4b. Madam Eva's Tent]], [[#C4f. The Tarokka Reading]]                                      |                              Art depicting Madam Eva                               |                         Character art for Madam Eva                         |    Print & Laminate     |
+|         Excerpt on Werewolves from Van Richten's Guide to Lycanthropy          |              [[#C4d. The Dancing Fire]]               |                                                     [[#C4d. The Dancing Fire]]                                                      |   Scripted excerpt regarding Werewolves from Van Richten's Guide to Lycanthropy    | Details info on Werewolves to foreshadow the players interactions with them |      Print and Age      |
+| Tarokka Reading Tabletop (w/ Crimson, Deep Blue, Yellow, White, Violet, Black) |             [[#C4f. The Tarokka Reading]]             |                                                    [[#C4f. The Tarokka Reading]]                                                    |                         Used for the Tarokka Card Reading                          |     Creates atmosphere for the Tarokka Card reading and the Crossroads      | Image Slideshow for VTT |
+|                          Map for [[#The Watchtower]]                           |                [[#C6. The Watchtower]]                |                                                       [[#C6. The Watchtower]]                                                       |                             The Map for The Watchtower                             |        A copy of the tower on Tsolenka Pass, used for the Watchtower        |       Map for VTT       |
+|         Map for [[#^FightAgainstTheWolves\|Fight against the Wolves]]          | [[#^FightAgainstTheWolves\|Fight against the Wolves]] |                                        [[#^FightAgainstTheWolves\|Fight against the Wolves]]                                        |                   The Battlemap for the Fight against the Wolves                   |                    Included in Curse of Strahd: Reloaded                    |       Map for VTT       |
+|                                  Revenant Art                                  |                 [[#C7b. Tser Falls]]                  |                                                        [[#C7b. Tser Falls]]                                                         |                      Art depicting the Revenant at Tser Falls                      |       Character art for the Revenant at Tser Falls by Caleb Cleveland       |    Print & Laminate     |
+|                         Black Carriage Crossroads Art                          |                [[#C8. Black Carriage]]                |                                                       [[#C8. Black Carriage]]                                                       | Art depicting a Crossroads, where the Black Carriage awaits in the original module |       Location art for the Crossroads of the [[#C8. Black Carriage]]        |   Background for VTT    |
+|                              Old Bonegrinder Art                               |               [[#C9. Old Bonegrinder]]                |                                                      [[#C9. Old Bonegrinder]]                                                       |            Art depicting Old Bonegrinder, now names The Old Durst Mill             |                  Location art for [[#C9. Old Bonegrinder]]                  |   Background for VTT    |
+|             [[Morgantha, Dream Peddler\|Morgantha]] Character Art              |               [[#C9. Old Bonegrinder]]                |                                                      [[#C9. Old Bonegrinder]]                                                       |                              Art depicting Morgantha                               |               Art for [[Morgantha, Dream Peddler\|Morgantha]]               |    Print & Laminate     |
+|                              Outside Vallaki Art                               | [[Arc C - Into the Valley#C12a. The Vallakian Gates]] |                                                   [[#C12a. The Vallakian Gates]]                                                    |                         Art depicting the gates of Vallaki                         |            Art for the Gates of [[The Town of Vallaki\|Vallaki]]            |   Background for VTT    |
+|                               Inside Vallaki Art                               |                [[#Entering the Town]]                 |                                                       [[#Entering the Town]]                                                        |                        Art depicting the streets of Vallaki                        |                  Art for [[The Town of Vallaki\|Vallaki]]                   |   Background for VTT    |
+|                                 Map of Vallaki                                 |                [[#Entering the Town]]                 |                                                       [[#Entering the Town]]                                                        |                                   Map of Vallaki                                   |                    Map of Vallaki provided in the module                    |   Background for VTT    |
+|                               Blue Water Inn Art                               |             [[#C12b. The Blue Water Inn]]             |                                                    [[#C12b. The Blue Water Inn]]                                                    |                          Art depicting the Blue Water Inn                          |                    Art for [[#C12b. The Blue Water Inn]]                    |   Background for VTT    |
+|                               Blue Water Inn Map                               |             [[#C12b. The Blue Water Inn]]             |                                                    [[#C12b. The Blue Water Inn]]                                                    |                             Map of the Blue Water Inn                              |            Map of the [[Map Blue Water Inn Player Version.png]]             |       Map for VTT       |
+|                            The Martikov Family Art                             |             [[#C12b. The Blue Water Inn]]             |                                                    [[#C12b. The Blue Water Inn]]                                                    |                        Character art of the Martikov Family                        |       [[The Martikovs of the Blue Water Inn by Caleb Cleveland.png]]        |    Print & Laminate     |
+|                                  Rictavio Art                                  |             [[#C12b. The Blue Water Inn]]             |                                                    [[#C12b. The Blue Water Inn]]                                                    |                             Character art for Rictavio                             |            Character art for [[Rictavio by Caleb Cleveland.png]]            |    Print & Laminate     |
+|                          [[Szoldar Szoldarovich]] Art                          |             [[#C12b. The Blue Water Inn]]             |                                                    [[#C12b. The Blue Water Inn]]                                                    |                             Character art for Szoldar                              |                        [[Szoldar Szoldarovich.webp]]                        |    Print & Laminate     |
+|                            [[Yevgeni Krushkin]] Art                            |             [[#C12b. The Blue Water Inn]]             |                                                    [[#C12b. The Blue Water Inn]]                                                    |                             Character art for Yevgeni                              |                          [[Yevgeni Krushkin.webp]]                          |    Print & Laminate     |
+|                        [[Baron Vargas Vallakovich]] Art                        |                 [[#Exiting the Inn]]                  |                                                        [[#Exiting the Inn]]                                                         |                     Character art for Baron Vargas Vallakovich                     |                 Character art [[Baron Vargas Vallakovich]]                  |    Print & Laminate     |
+|                              [[Izek Strazni]] Art                              |                 [[#Exiting the Inn]]                  |                                                        [[#Exiting the Inn]]                                                         |                           Character art for Izek Strazni                           |            Character art [[Izek Strazni by Caleb Cleveland.png]]            |    Print & Laminate     |
+|                        [[Father Lucian Petrovich]] Art                         |                 [[#Exiting the Inn]]                  |                                                        [[#Exiting the Inn]]                                                         |                          Character art for Father Lucian                           |      Character art [[Father Lucian Petrovich by Caleb Cleveland.png]]       |    Print & Laminate     |
 ### Miniatures & Tokens
-|  Miniature/Creature Name   |        First Appearance        |        Relevant Areas         | Total Needed |         Creation          |
-| :------------------------: | :----------------------------: | :---------------------------: | :----------: | :-----------------------: |
-|     [[Ireena Kolyana]]     | [[Arc B - Welcome to Barovia]] |              All              |   1 Unique   | 3D Print & Paint<br><br>X |
-|           Zombie           | [[#C1b. Van Richten's Cache]]  | [[#C1b. Van Richten's Cache]] |      5       | 3D Print & Paint<br><br>X |
-|         [[Escher]]         |   [[#C2a. Strahd's Arrival]]   |  [[#C2a. Strahd's Arrival]]   |      1       |     3D Print & Paint      |
-|         Dire Wolf          |   [[#C2a. Strahd's Arrival]]   |  [[#C2a. Strahd's Arrival]]   |      5       |     3D Print & Paint      |
-|     [[Muriel Vinshaw]]     |       [[#C3. The Strix]]       |  [[Arc C - Into the Valley]]  |      1       | 3D Print & Paint<br><br>X |
-|       Greater Strix        |       [[#C3. The Strix]]       |      [[#C3. The Strix]]       |      1       | 3D Print & Paint<br><br>X |
-|   Swarm of Lesser Strix    |       [[#C3. The Strix]]       |      [[#C3. The Strix]]       |      2       |     3D Print & Paint      |
-| Vistana Female ([[Eliza]]) |     [[#C4. Tser Pool (G)]]     |    [[#C4. Tser Pool (G)]]     |      1       |         3D Print          |
+|                   Miniature/Creature Name                   |                   First Appearance                    |                                    Relevant Areas                                     | Total Needed |         Creation          |
+| :---------------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------------------------------------------: | :----------: | :-----------------------: |
+|                     [[Ireena Kolyana]]                      |            [[Arc B - Welcome to Barovia]]             |                                          All                                          |   1 Unique   | 3D Print & Paint<br><br>X |
+|                           Zombie                            |             [[#C1b. Van Richten's Cache]]             |                             [[#C1b. Van Richten's Cache]]                             |      5       | 3D Print & Paint<br><br>X |
+|                         [[Escher]]                          |              [[#C2a. Strahd's Arrival]]               |                              [[#C2a. Strahd's Arrival]]                               |      1       |     3D Print & Paint      |
+|                          Dire Wolf                          |              [[#C2a. Strahd's Arrival]]               |                              [[#C2a. Strahd's Arrival]]                               |      5       |     3D Print & Paint      |
+|                     [[Muriel Vinshaw]]                      |                  [[#C3. The Strix]]                   |                              [[Arc C - Into the Valley]]                              |      1       | 3D Print & Paint<br><br>X |
+|                        Greater Strix                        |                  [[#C3. The Strix]]                   |                                  [[#C3. The Strix]]                                   |      1       | 3D Print & Paint<br><br>X |
+|                    Swarm of Lesser Strix                    |                  [[#C3. The Strix]]                   |                                  [[#C3. The Strix]]                                   |      2       |     3D Print & Paint      |
+|                 Vistana Female ([[Eliza]])                  |                [[#C4. Tser Pool (G)]]                 |                                [[#C4. Tser Pool (G)]]                                 |      1       |     3D Print & Paint      |
+| Vistana Male ([[Arturi Radanavich\|Arturi]] & [[Stanimir]]) |                [[#C4. Tser Pool (G)]]                 |                                [[#C4. Tser Pool (G)]]                                 |      2       |     3D Print & Paint      |
+|                       Barovian Wolves                       | [[#^FightAgainstTheWolves\|Fight against the Wolves]] | [[#^FightAgainstTheWolves\|Fight against the Wolves]], [[#C11. The Werewolves' Hunt]] |      8       |     3D Print & Paint      |
+|                Barovian Werewolf (Wolf Worm)                |            [[#C11. The Werewolves' Hunt]]             |                            [[#C11. The Werewolves' Hunt]]                             |      2       |     3D Print & Paint      |
 
 ### Item Cards & Boons
 
-|    Handout/Prop Name    |       First Appearance        |     Rarity & Attributes      |                                                                                                                                                                                                                                                                        Description                                                                                                                                                                                                                                                                         |                                            Hidden Text                                             | Done? |
-| :---------------------: | :---------------------------: | :--------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | ----- |
-| Silvered Crossbow Bolts | [[#C1b. Van Richten's Cache]] |  Mundane, Adventuring Gear   |                                                                                                                                                                                                                                                             Crossbow bolts tipped with Silver                                                                                                                                                                                                                                                              | Only through the bite of silver or the chill of death's power can a werewolf be truly put to rest. |       |
-|     Light Crossbow      | [[#C1b. Van Richten's Cache]] | Simple Weapon, Ranged Weapon |                                                                                                                                                                                                                                                                 Range, Ammunition, Loading                                                                                                                                                                                                                                                                 |                                                                                                    |       |
-|       Healers Kit       | [[#C1b. Van Richten's Cache]] |  Mundane, Adventuring Gear   |                                                                                                                                                       This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.                                                                                                                                                        |                                                                                                    |       |
-|   Holy Water (Flask)    | [[#C1b. Van Richten's Cache]] |   Mudane, Adventuring Gear   | As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.<br>> <br>> A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot. |                                                                                                    |       |
-|    Potion of Healing    | [[#C1b. Van Richten's Cache]] |        Common, Potion        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                    |       |
+|    Handout/Prop Name    |       First Appearance        |              Rarity & Attributes               |                                                                                                                                                                                                                                                                        Description                                                                                                                                                                                                                                                                         |                                            Hidden Text                                             | Done? |
+| :---------------------: | :---------------------------: | :--------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | ----- |
+| Silvered Crossbow Bolts | [[#C1b. Van Richten's Cache]] |           Mundane, Adventuring Gear            |                                                                                                                                                                                                                                                             Crossbow bolts tipped with Silver                                                                                                                                                                                                                                                              | Only through the bite of silver or the chill of death's power can a werewolf be truly put to rest. |       |
+|     Light Crossbow      | [[#C1b. Van Richten's Cache]] |          Simple Weapon, Ranged Weapon          |                                                                                                                                                                                                                                                                 Range, Ammunition, Loading                                                                                                                                                                                                                                                                 |                                                                                                    |       |
+|       Healers Kit       | [[#C1b. Van Richten's Cache]] |           Mundane, Adventuring Gear            |                                                                                                                                                       This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.                                                                                                                                                        |                                                                                                    |       |
+|   Holy Water (Flask)    | [[#C1b. Van Richten's Cache]] |            Mudane, Adventuring Gear            | As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.<br>> <br>> A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot. |                                                                                                    |       |
+|    Potion of Healing    | [[#C1b. Van Richten's Cache]] |                 Common, Potion                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                    |       |
+|  Deck of Tarroka Cards  |  [[#C4d. The Dancing Fire]]   | Mundane, Adventuring Gear, Spell casting focus |                                                                                                                                                                                                                                     A deck of worn, dusted, Tarroka cards that once belonged to Stanimir's late wife.                                                                                                                                                                                                                                      |                                                                                                    |       |
+|    Delver's Spyglass    |  [[#C4d. The Dancing Fire]]   |           Mundane, Adventuring Gear            |                                                                                                                                                                                                                          A collapsible brass spyglass with a small, manoeuvrable mirror, allowing the user to peer around corners                                                                                                                                                                                                                          |                                                                                                    |       |
 
