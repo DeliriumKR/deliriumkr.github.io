@@ -341,6 +341,28 @@ The greater strix is joined by two **swarms of lesser strix** (each using the 
 >
 > 
 > For parties of smaller or larger sizes, modify the encounter accordingly:
+> **Combat Level**: Bruising
+> **Expected Character Level**: 3
+> **Allies:** Ireena Kolyana (CR 1)
+> **Expected HP Consumption:** 34%
+> ---
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Greater Strix | 1 | 1 | 1 | 1 |
+> | Swarm of Lesser Strix | 1 | 1 | 2 | 3 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the greater strix’s hit points to 46. Reduce its ***tail spike*** and ***bite*** attacks to 5 (1d6+2) piercing damage and its ***claw*** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's hit points to 16 and its ***bite*** attack to 5 (2d4) piercing damage or 2 (1d4) piercing damage if it has half its hit points remaining or fewer. |
+> | 4 | Reduce the number of swarms of lesser strix to one. |
+> | 6 | Increase the number of swarms of lesser strix to three. |
+> 
+> ---
 > 
 >> [!combat]- Three Players
 >> Reduce the greater strix’s hit points to 46. Reduce its **_tail spike_** and **_bite_** attacks to 5 (1d6+2) piercing damage and its **_claw_** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's hit points to 16 and its **_bite_** attack to 5 (2d4) piercing damage or 2 (1d4) piercing damage if it has half its hit points remaining or fewer.
@@ -780,7 +802,7 @@ As she shuffles the deck, the players notice a velvet pouch upon the ground besi
 
 If the players accept [[Madam Eva]]'s request or inquire further, she informs them that the pouch contains ten gold pieces. "My great-grand-niece, Arabelle, will celebrate her tenth nameday in two days' time," she says. "For this momentous occasion, I wish to provide her a gift—but in my old age, I am quite unable to make the journey myself."
 
-[[Madam Eva]] asks the players to use the funds in the pouch to purchase a toy for [[Arabelle]] at Blinsky Toys in [[The Town of Vallaki|Vallaki]]—Blinsky’s, she notes fondly, are [[Arabelle]]’s favorites—and deliver the toy to the [[Vistani]] encampment to the southwest of [[The Town of Vallaki|Vallaki]] by noon on [[Arabelle]]’s nameday. She adds that the players are welcome to keep any change as payment for their efforts.
+[[Madam Eva]] asks the players to use the funds in the pouch to purchase a toy for [[Arabelle]] at Blinsky Toys in [[The Town of Vallaki|Vallaki]]—Blinsky’s, she notes fondly, are [[Arabelle]]’s favourites—and deliver the toy to the [[Vistani]] encampment to the southwest of [[The Town of Vallaki|Vallaki]] by noon on [[Arabelle]]’s nameday. She adds that the players are welcome to keep any change as payment for their efforts.
 
 [[Madam Eva|Eva]] adds, with a cryptic smile, that the players may enjoy speaking with [[Arabelle]], as she is “a most interesting child”—and that the players may find befriending her family a gift in itself. (If the players ask, [[Madam Eva|Eva]] shares only that [[Arabelle]]'s father, [[Luvash]], is the leader of the Vallakian [[Vistani]] encampment, and his brother [[Arrigal]] a "perceptive and intelligent man.")
 
