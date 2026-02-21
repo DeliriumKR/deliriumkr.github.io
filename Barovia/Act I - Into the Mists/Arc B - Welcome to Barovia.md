@@ -1379,6 +1379,12 @@ As [[Ismark Kolyanovich|Ismark]] packs the rations, he can share the following i
 - [[Arc C - Into the Valley#C4. Tser Pool (G)|Tser Pool]] is a bit under two hours' journey from [[The Village of Barovia|Barovia]]. (Though some [[Vistani]] are rumoured to be in league with [[Strahd von Zarovich|Strahd]], [[Arc C - Into the Valley#C4. Tser Pool (G)|Tser Pool]] is known to be a safe place for travelers to spend the night, especially given [[Madam Eva]]'s reputation.)
 ### B5j. Lugdana's Knoll
 ---
+
+> [!Question]- B5j. Lugdana's Knoll Soundscape
+> Mood: Contemplative, Calm, Melancholic
+> Opening Piece: 
+> Following Playlist: 
+
 Approximately an hour before noon, [[Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of [[The Village of Barovia|Barovia]]. (The hill is named for the paladin [[Lugdana]], who, according to legend, first met Burgomaster [[Ismark, the Great|Ismark Antonovich the Great]] upon that hill.)
 
 Shortly before noon, if the players haven't been keeping track of her, [[Ismark Kolyanovich|Ismark]]—who's currently debriefing a pair of Barovian **scouts** regarding their unsuccessful search for [[Gertruda]]—notes [[Ireena Kolyana|Ireena]]'s absence with minor concern and asks the players to find her and bring her home.

@@ -204,6 +204,10 @@ See [[Strahd von Zarovich#How to Enjoy Roleplaying Strahd|here]] for info relate
 > If the player violates [[Strahd von Zarovich|Strahd]]'s ultimatum, pause the game and address the player out-of-character. Note that [[Strahd von Zarovich|Strahd]] has promised clear consequences, and that the player's actions will invoke those consequences. Make clear that the player's character will die; that the player will not have a chance to prevent it; that any characters who attempt to protect that player will also die; that any characters who die will not be resurrected; and that if the entire party dies, the campaign will immediately end.
 > 
 > If the players confirms their decision, resume the game. [[Strahd von Zarovich|Strahd]]'s dire wolves then attack that player. If any or all of the other players do not interfere, [[Strahd von Zarovich|Strahd]] continues his conversation with them, undisturbed.
+> > [!combat]- Dire Wolf - Stat Block
+> > ```statblock
+> > creature: Dire Wolf
+> > ```
 
 > [!example]- The players flee
 > If, at any point during the encounter, the players move to flee, read:
@@ -223,6 +227,10 @@ See [[Strahd von Zarovich#How to Enjoy Roleplaying Strahd|here]] for info relate
 > The wolves are **dire wolves**, as described in Dire Wolves (p. 30). (The number of dire wolves in the pack is equal to the number of players in the party.)
 > 
 > If the players appear to need further persuading, the dire wolves step forward, growling with their hackles raised. If the players proceed to flee, the wolves attack.
+> > [!combat]- Dire Wolf - Stat Block
+> > ```statblock
+> > creature: Dire Wolf
+> > ```
 
 > [!example]- The players challenge
 > If, at any point during the encounter, a player challenges Strahd or insists that he must be defeated, [[Strahd von Zarovich|Strahd]] smiles, admits he's "never been one to decline a challenge," and invites the player to defeat him—right here, right now—if they can. He promises to make no effort to stop them for the first thirty seconds of their assault.
@@ -238,6 +246,10 @@ See [[Strahd von Zarovich#How to Enjoy Roleplaying Strahd|here]] for info relate
 > If the player asks to be freed from [[Strahd von Zarovich|Strahd]]'s **_telekinetic grasp_**, he does so without delay. "Wisdom lies in recognizing one's limitations," he notes. "Remember this moment—for the next time, I may not be as generous."
 > 
 > If the player is knocked unconscious by [[Strahd von Zarovich|Strahd]]'s **_telekinetic grasp_**, he crouches beside them, whispering: "You fought bravely, but even the greatest warrior cannot outlast the inevitable. Rest now, comforted by the knowledge that you have entertained me." He then turns to the remainder of the party and invites them to care for their wounded companion.
+>> [!combat]- Strahd, The Mage - Stat Block
+> > ```statblock
+> > creature: Strahd, the Mage
+> > ```
 ## C2b. The Conversation Begins
 ---
 If undiverted, [[Strahd von Zarovich|Strahd]] greets each of the player characters individually—by name, if his spies have had a chance to learn them and report back to him. While doing so, he makes a personal comment regarding each character’s species, class (if apparent from their equipment or dress), and/or personality (if reported by his spies). If possible, he frames each comment in the form of a compliment, sympathetic remark, or (sparingly) exceptionally veiled threat.
