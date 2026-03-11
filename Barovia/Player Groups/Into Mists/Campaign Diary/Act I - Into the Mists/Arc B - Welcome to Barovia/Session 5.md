@@ -1,3 +1,4 @@
+- Defending the Fortified Village
 ## DM Notes
 ---
 Bildrath Survived the encounter, and the players gave a good impression of themselves to him.
