@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barovia/Act I - Into the Mists/Arc C - Into the Valley.md",
+                "file": "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 8 - Meeting with the Ancient.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arc C - Into the Valley"
+              "title": "Session 8 - Meeting with the Ancient"
             }
           }
         ]
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barovia/Act I - Into the Mists/Arc C - Into the Valley.md",
+                "file": "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 8 - Meeting with the Ancient.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arc C - Into the Valley"
+              "title": "Outline of Session 8 - Meeting with the Ancient"
             }
           },
           {
@@ -227,8 +227,8 @@
   },
   "active": "b8a6cecff0aeb616",
   "lastOpenFiles": [
-    "Barovia/Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
     "Barovia/Act I - Into the Mists/Arc C - Into the Valley.md",
+    "Barovia/Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
     "Barovia/Act III - The Broken Land/Arc L - The Den of Wolves.md",
     "Barovia/Act III - The Broken Land/Arc M - The Dragon's Manor.md",
     "Barovia/Act III - The Broken Land/Arc K - The Fallen Abbey.md",
