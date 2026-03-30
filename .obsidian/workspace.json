@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 5.md",
+                "file": "Barovia/Act I - Into the Mists/Arc C - Into the Valley.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 5"
+              "title": "Arc C - Into the Valley"
             }
           }
         ]
@@ -165,8 +165,8 @@
                 "id": "ID_c9f86b683b69",
                 "child": "ID_ea9bbac92ad9"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 5.md",
+                "file": "Barovia/Act I - Into the Mists/Arc C - Into the Valley.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 5"
+              "title": "Outline of Arc C - Into the Valley"
             }
           },
           {
@@ -190,8 +190,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -200,8 +200,28 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "a80ec6adc6cf32c1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "95d0217f546e3ef9",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -227,8 +247,19 @@
   },
   "active": "b8a6cecff0aeb616",
   "lastOpenFiles": [
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 8 - Meeting with the Ancient.md",
+    "Barovia/Appendix/CoS-R Inconsistencies.md",
+    "Barovia/Appendix/Effects/Mists of Ravenloft.md",
+    "Barovia/Act I - Into the Mists/Arc A - Escape from Death House.md",
+    "Barovia/Appendix/Running the Adventure/Getting Started.md",
+    "Barovia/Act I - Into the Mists/Act I Summary & Appendices.md",
+    "Barovia/Appendix/Running the Adventure/Amber Shards.md",
+    "Barovia/Appendix/Running the Adventure/An Anthology of Strahd's Taunts.md",
+    "Barovia/Appendix/Running the Adventure/Strahd's Observations.md",
+    "Barovia/Appendix/Running the Adventure/Random Encounters.md",
     "Barovia/Act I - Into the Mists/Arc C - Into the Valley.md",
+    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 8 - Meeting with the Ancient.md",
+    "Untitled.base",
+    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 5.md",
     "Barovia/Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
     "Barovia/Act III - The Broken Land/Arc L - The Den of Wolves.md",
     "Barovia/Act III - The Broken Land/Arc M - The Dragon's Manor.md",
@@ -238,22 +269,11 @@
     "Barovia/Act II - The Shadowed Town/Arc I - The Walls of Krezk.md",
     "Barovia/Act II - The Shadowed Town/Arc H - The Lost Soul.md",
     "Barovia/Act II - The Shadowed Town/Arc G - The Strazni Siblings.md",
-    "Barovia/Appendix/Running the Adventure/Amber Shards.md",
-    "Barovia/Act I - Into the Mists/Arc A - Escape from Death House.md",
     "Barovia/Act IV - Secrets of the Ancient/Arc T - The Three Fanes.md",
     "Barovia/Act V - The Curse of Strahd/Arc V - The Curse of Strahd.md",
     "Barovia/Act V - The Curse of Strahd/Arc U - Dreams of Dawn.md",
     "Barovia/Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md",
     "Barovia/Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
-    "Barovia/Player Groups/Heart of Sorrow/Session Zero.md",
-    "Barovia/Appendix/CoS-R Inconsistencies.md",
-    "Barovia/Player Groups/Into Mists/Session Zero.md",
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 9 -.md",
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 7 - Rebellious Son of the Priest.md",
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 6 - Aftermath of the Siege.md",
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 5.md",
-    "Barovia/Player Groups/Into Mists/Campaign Diary/Act I - Into the Mists/Arc B - Welcome to Barovia/Session 4 - A Rotten First Impression.md",
-    "Untitled.base",
     "Barovia/Appendix/Images/Wolfs Head Jamboree by Caleb Cleveland.png",
     "Pasted image 20260113140720.png",
     "Pasted image 20260113140712.png",
